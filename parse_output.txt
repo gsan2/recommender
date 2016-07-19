@@ -1,0 +1,6 @@
+Organic Fair Trade Decaf Honey Burst Mexican
+	 Decaf 		 True
+	 Adjective 	 Honey Burst
+	 Fair Trade 	 True
+	 Organic 	 True
+	 Country 	 Mexico
