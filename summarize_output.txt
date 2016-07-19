@@ -1,0 +1,42 @@
+Total people:  200
+Total coffee types:  189
+Decaf
+	 True : 10716
+	 False : 9284
+Organic
+	 True : 10556
+	 False : 9444
+Fair Trade
+	 True : 8206
+	 False : 11794
+Adjective:
+	 AA 1486
+	 Longberry 1180
+	 Sidamo 1595
+	 Supremo 1881
+	 Paradise Valley 1877
+	 Black Satin 1342
+	 daysiss Water 1
+	 Caturra 1617
+	 Peaberry 1718
+	 Cuzcachapa 1558
+	 Honey Burst 1737
+	 Swiss Water 1873
+	 Mandheling 909
+	 Reserve 1226
+Country:
+	 Brazil 1612
+	 Bali 1592
+	 Mexico 400
+	 El Salvador 1597
+	 Panama 1574
+	 India 1774
+	 Sumatra 1475
+	 Costa Rican 1030
+	 Ethiopia 888
+	 Guatemala 1235
+	 Peru 1475
+	 Mali 1163
+	 Kenya 1235
+	 Dominican Republic 1337
+	 Bolivia 1613

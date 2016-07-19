@@ -1,0 +1,5000 @@
+191	Decaf Cuzcachapa Kenyan	4
+149	Decaf Swiss Water Guatemalan	3
+136	Decaf Caturra Salvadorean	1
+59	Organic Cuzcachapa Brazilian	1
+33	Organic Decaf Swiss Water Kenyan	4
+132	Decaf Longberry Panamanian	1
+166	Organic Decaf Caturra Panamanian	4
+184	Organic Longberry Bolivian	3
+11	Mandheling Sumatran	1
+77	Fair Trade Decaf Swiss Water Sumatran	5
+81	Decaf Cuzcachapa Brazilian	4
+166	Organic Decaf Reserve Balinese	4
+8	Swiss Water Dominican	1
+83	Decaf Supremo Dominican	3
+61	Organic Fair Trade Cuzcachapa Mexican	1
+24	Fair Trade Decaf Swiss Water Bolivian	4
+180	Organic Fair Trade Decaf Black Satin Brazilian	5
+6	Decaf Longberry Panamanian	5
+131	Decaf Honey Burst Kenyan	2
+163	Fair Trade Decaf Black Satin Peruvian	3
+10	Organic Fair Trade Swiss Water Peruvian	1
+143	Fair Trade Decaf Supremo Guatemalan	1
+7	Cuzcachapa Costa Rican	1
+114	Organic Caturra Dominican	1
+76	Organic Fair Trade Decaf Caturra Peruvian	4
+42	Organic Fair Trade Decaf Reserve Panamanian	4
+81	Cuzcachapa Sumatran	1
+6	Organic Decaf Black Satin Brazilian	4
+95	Decaf Reserve Indian	4
+164	Organic Cuzcachapa Brazilian	4
+16	Organic Fair Trade Decaf Black Satin Salvadorean	3
+83	Decaf Cuzcachapa Dominican	3
+54	Cuzcachapa Balinese	3
+135	Supremo Kenyan	2
+150	Fair Trade Caturra Salvadorean	1
+4	Organic Decaf Caturra Costa Rican	5
+184	Decaf Honey Burst Balinese	4
+19	Fair Trade Sidamo Salvadorean	1
+127	Organic Fair Trade Decaf Paradise Valley Malian	2
+187	Organic Fair Trade Black Satin Salvadorean	1
+160	Decaf Cuzcachapa Kenyan	2
+21	Organic Fair Trade Swiss Water Peruvian	1
+72	Organic Decaf AA Balinese	3
+177	Decaf AA Ethiopian	5
+28	Organic Paradise Valley Balinese	4
+132	Fair Trade Decaf Paradise Valley Peruvian	3
+127	Decaf Cuzcachapa Kenyan	3
+3	Organic Fair Trade Cuzcachapa Mexican	1
+190	Organic Honey Burst Salvadorean	1
+75	Fair Trade Decaf Supremo Balinese	3
+83	Organic Decaf Cuzcachapa Malian	4
+105	Organic Fair Trade Paradise Valley Indian	1
+116	Organic Decaf Paradise Valley Ethiopian	3
+178	AA Ethiopian	1
+72	Decaf Honey Burst Kenyan	4
+74	Decaf Paradise Valley Indian	2
+53	Organic Paradise Valley Bolivian	1
+39	Fair Trade Sidamo Bolivian	3
+38	Organic Fair Trade Decaf Black Satin Balinese	3
+41	Decaf AA Ethiopian	4
+85	Fair Trade Decaf AA Indian	3
+113	Organic Honey Burst Indian	1
+15	Organic Longberry Bolivian	1
+3	Fair Trade Decaf Mandheling Dominican	5
+198	Fair Trade Reserve Dominican	1
+199	Organic Decaf AA Brazilian	3
+123	Organic Paradise Valley Balinese	4
+35	Black Satin Indian	1
+144	Decaf AA Guatemalan	4
+198	Fair Trade Decaf Peaberry Indian	4
+132	Organic Fair Trade AA Indian	4
+81	Decaf Black Satin Malian	4
+146	Organic Decaf Mandheling Costa Rican	2
+176	Fair Trade Paradise Valley Ethiopian	1
+90	Organic Decaf Swiss Water Kenyan	5
+41	Fair Trade Decaf Honey Burst Brazilian	2
+45	Organic Decaf Black Satin Brazilian	4
+178	Organic Fair Trade Decaf Supremo Indian	2
+98	Decaf AA Ethiopian	4
+93	Organic Caturra Guatemalan	1
+50	Decaf Black Satin Malian	1
+137	Fair Trade Decaf Swiss Water Peruvian	4
+115	Peaberry Salvadorean	3
+3	Organic Fair Trade Cuzcachapa Mexican	1
+5	Organic Fair Trade Paradise Valley Indian	1
+21	Paradise Valley Bolivian	4
+136	Fair Trade Decaf AA Indian	3
+12	Supremo Salvadorean	1
+65	Fair Trade Peaberry Malian	3
+115	Organic Paradise Valley Bolivian	4
+97	Organic Longberry Bolivian	1
+41	Fair Trade Reserve Balinese	1
+79	Fair Trade Decaf Honey Burst Brazilian	3
+90	Organic Decaf Paradise Valley Sumatran	5
+26	Organic Decaf Sidamo Sumatran	2
+21	Organic Fair Trade Decaf Swiss Water Malian	1
+175	Organic Decaf Reserve Peruvian	1
+103	Organic Decaf Sidamo Panamanian	4
+90	Fair Trade Honey Burst Kenyan	1
+24	Organic Honey Burst Indian	1
+65	Organic Honey Burst Salvadorean	2
+122	Decaf AA Guatemalan	4
+61	Decaf Caturra Salvadorean	4
+180	Peaberry Indian	1
+110	Organic Decaf Sidamo Balinese	5
+123	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+61	Organic Fair Trade AA Balinese	1
+164	Organic Fair Trade Decaf Caturra Dominican	2
+12	Fair Trade Decaf Swiss Water Malian	5
+134	Organic Decaf AA Balinese	2
+51	Organic Fair Trade Decaf Honey Burst Kenyan	4
+152	Organic Fair Trade Sidamo Costa Rican	1
+81	Organic Fair Trade AA Bolivian	1
+31	Organic Fair Trade Decaf Swiss Water Malian	2
+18	Fair Trade Honey Burst Peruvian	1
+57	Organic Supremo Bolivian	1
+67	Fair Trade Caturra Salvadorean	1
+179	Fair Trade Decaf Swiss Water Bolivian	3
+133	Fair Trade Sidamo Bolivian	1
+182	Fair Trade Decaf Caturra Bolivian	4
+125	Organic Caturra Guatemalan	1
+153	Organic Swiss Water Kenyan	3
+74	Organic Fair Trade Paradise Valley Indian	3
+171	Organic Decaf Reserve Balinese	4
+49	Fair Trade Decaf Swiss Water Sumatran	3
+132	Organic Decaf Reserve Ethiopian	2
+153	Decaf Paradise Valley Salvadorean	4
+97	Decaf Peaberry Indian	2
+94	Organic Fair Trade Supremo Balinese	2
+97	Organic Peaberry Peruvian	1
+188	Organic Decaf AA Brazilian	4
+121	Fair Trade Decaf Supremo Guatemalan	3
+21	Organic Fair Trade Caturra Malian	1
+69	Fair Trade Paradise Valley Ethiopian	1
+42	Organic Honey Burst Salvadorean	2
+23	Decaf Caturra Guatemalan	4
+5	Reserve Salvadorean	1
+153	Decaf Cuzcachapa Dominican	4
+85	Organic Longberry Bolivian	2
+191	Organic Caturra Guatemalan	3
+52	Organic Decaf Caturra Panamanian	5
+198	Fair Trade Peaberry Malian	1
+110	Organic Longberry Bolivian	1
+27	Organic Longberry Bolivian	1
+68	Decaf Black Satin Balinese	4
+14	Reserve Balinese	1
+97	Organic Fair Trade Sidamo Dominican	3
+74	Organic Decaf AA Guatemalan	1
+105	Organic Caturra Guatemalan	1
+166	Peaberry Salvadorean	3
+145	Black Satin Indian	1
+9	Organic Fair Trade Decaf Black Satin Bolivian	4
+86	Organic Fair Trade Decaf Black Satin Panamanian	4
+160	Decaf Cuzcachapa Dominican	2
+102	Organic Decaf AA Balinese	1
+53	Organic Fair Trade Decaf Black Satin Panamanian	3
+80	Organic Fair Trade Decaf Supremo Panamanian	4
+164	Caturra Guatemalan	3
+99	Organic Supremo Bolivian	2
+159	Decaf Cuzcachapa Brazilian	4
+179	Organic Fair Trade Peaberry Guatemalan	4
+171	Organic Fair Trade Decaf Black Satin Salvadorean	2
+26	Organic Fair Trade Decaf Reserve Ethiopian	4
+140	Fair Trade Sidamo Salvadorean	1
+8	Fair Trade Decaf Swiss Water Malian	3
+165	Supremo Salvadorean	2
+70	Fair Trade Decaf Swiss Water Malian	3
+117	Swiss Water Dominican	3
+58	Organic Longberry Guatemalan	1
+170	Organic Decaf Peaberry Brazilian	2
+70	Fair Trade Sidamo Peruvian	3
+9	Organic Supremo Bolivian	2
+106	Fair Trade Decaf Swiss Water Malian	2
+117	Organic Fair Trade Decaf Supremo Panamanian	2
+116	Decaf Caturra Guatemalan	2
+86	Organic Paradise Valley Sumatran	2
+158	Organic Decaf Peaberry Brazilian	1
+190	Organic Fair Trade Decaf Caturra Dominican	5
+197	Organic Fair Trade Mandheling Guatemalan	3
+134	Decaf AA Ethiopian	3
+110	Organic Honey Burst Bolivian	1
+45	Fair Trade Honey Burst Peruvian	1
+178	Organic Decaf Honey Burst Brazilian	4
+192	Organic Decaf Paradise Valley Sumatran	1
+155	Mandheling Sumatran	1
+109	Fair Trade Decaf Paradise Valley Brazilian	4
+37	Organic Decaf Black Satin Brazilian	3
+188	Organic Decaf Honey Burst Brazilian	4
+55	Organic Fair Trade Swiss Water Peruvian	1
+160	Organic Longberry Bolivian	1
+175	Organic Decaf AA Balinese	1
+141	Organic Decaf Caturra Panamanian	1
+49	Fair Trade Decaf Sidamo Panamanian	3
+125	Fair Trade Swiss Water Sumatran	1
+118	Fair Trade Decaf Honey Burst Brazilian	4
+78	Organic Fair Trade Decaf Reserve Panamanian	3
+85	Organic Paradise Valley Bolivian	2
+131	Organic Fair Trade Decaf Reserve Panamanian	5
+67	Caturra Guatemalan	1
+199	Organic Supremo Bolivian	1
+156	Reserve Salvadorean	1
+171	Organic Fair Trade Decaf Supremo Panamanian	2
+25	Reserve Salvadorean	1
+45	Organic Cuzcachapa Panamanian	1
+43	Decaf Reserve Bolivian	2
+75	Organic Paradise Valley Balinese	1
+66	Organic Paradise Valley Bolivian	4
+97	Organic Decaf Supremo Panamanian	1
+176	AA Ethiopian	1
+81	Organic Decaf Sidamo Sumatran	5
+65	Organic Decaf AA Brazilian	2
+70	Organic Fair Trade AA Balinese	4
+192	Decaf AA Ethiopian	2
+19	Fair Trade Decaf Supremo Guatemalan	4
+132	Fair Trade Supremo Dominican	3
+17	Organic Honey Burst Salvadorean	3
+61	Decaf Supremo Mexican	4
+170	Organic Longberry Bolivian	1
+70	Fair Trade Decaf AA Indian	3
+53	Decaf Cuzcachapa Brazilian	2
+120	Fair Trade Decaf Swiss Water Sumatran	2
+158	Fair Trade Decaf Sidamo Peruvian	4
+111	Organic Fair Trade Decaf Black Satin Salvadorean	2
+141	Cuzcachapa Balinese	2
+57	Fair Trade Peaberry Salvadorean	1
+135	Decaf Supremo Dominican	2
+134	Organic Decaf AA Brazilian	2
+45	Swiss Water Dominican	1
+79	Fair Trade Honey Burst Peruvian	1
+69	Organic Fair Trade Decaf Mandheling Costa Rican	5
+154	Honey Burst Sumatran	1
+124	Organic Fair Trade AA Balinese	1
+131	Organic Fair Trade Decaf Honey Burst Kenyan	5
+106	Organic Fair Trade Decaf Caturra Dominican	3
+109	Organic Decaf Cuzcachapa Malian	1
+118	Fair Trade Swiss Water Sumatran	1
+18	Fair Trade Decaf Paradise Valley Brazilian	3
+63	Swiss Water Dominican	1
+23	Organic Fair Trade Decaf Caturra Peruvian	1
+55	Decaf Black Satin Bolivian	2
+4	Organic Decaf Paradise Valley Sumatran	5
+5	Organic Longberry Malian	1
+6	Fair Trade Decaf Swiss Water Peruvian	3
+167	Fair Trade Sidamo Peruvian	2
+14	Fair Trade Decaf Cuzcachapa Sumatran	3
+127	Organic Supremo Peruvian	4
+17	Fair Trade Decaf Peaberry Salvadorean	2
+135	Organic Decaf Mandheling Salvadorean	1
+184	Fair Trade Decaf Black Satin Peruvian	2
+71	Organic Fair Trade Decaf Supremo Malian	1
+123	Organic Fair Trade Decaf Reserve Panamanian	2
+65	Black Satin Indian	1
+27	Decaf Reserve Indian	2
+53	Organic Decaf Mandheling Salvadorean	1
+54	Organic Peaberry Panamanian	4
+135	Longberry Ethiopian	2
+113	Organic Fair Trade Sidamo Dominican	1
+99	Organic Decaf Mandheling Salvadorean	2
+176	Fair Trade Sidamo Salvadorean	1
+158	Longberry Brazilian	2
+118	Fair Trade Sidamo Peruvian	1
+187	Fair Trade Decaf Honey Burst Brazilian	5
+175	Cuzcachapa Balinese	2
+72	Organic Fair Trade Supremo Balinese	1
+115	Organic Caturra Guatemalan	4
+158	Organic Decaf AA Malian	1
+98	Fair Trade Decaf Swiss Water Peruvian	2
+67	Organic Paradise Valley Bolivian	1
+121	Decaf Paradise Valley Salvadorean	5
+182	Organic Paradise Valley Ethiopian	1
+6	Organic Fair Trade Sidamo Dominican	1
+189	Organic Decaf Swiss Water Indian	4
+9	Mandheling Costa Rican	1
+118	Organic Fair Trade Decaf Swiss Water Salvadorean	5
+174	Organic Decaf Swiss Water Indian	3
+99	Organic Fair Trade Caturra Malian	4
+171	Fair Trade Peaberry Salvadorean	1
+13	AA Ethiopian	1
+9	Organic Fair Trade Decaf Swiss Water Peruvian	4
+63	Organic Fair Trade Decaf Paradise Valley Malian	4
+135	Organic Fair Trade Swiss Water Peruvian	3
+46	Organic Fair Trade Peaberry Mexican	2
+103	Organic Honey Burst Indian	4
+0	Organic Decaf Caturra Panamanian	1
+64	Organic Paradise Valley Balinese	1
+133	Fair Trade Decaf Mandheling Dominican	5
+149	Swiss Water Dominican	1
+129	Decaf Black Satin Malian	2
+169	Organic Decaf Paradise Valley Brazilian	2
+64	Fair Trade Sidamo Peruvian	4
+178	Decaf Supremo Dominican	5
+156	Organic Fair Trade Cuzcachapa Mexican	1
+141	Organic Decaf Sidamo Balinese	1
+26	Organic Fair Trade Decaf Black Satin Balinese	4
+104	Decaf Peaberry Indian	2
+84	Organic Swiss Water Indian	1
+78	Organic Honey Burst Bolivian	1
+159	Organic Fair Trade Decaf Black Satin Salvadorean	1
+21	Fair Trade Decaf Sidamo Panamanian	2
+18	Organic Paradise Valley Bolivian	1
+193	Black Satin Indian	4
+175	Peaberry Costa Rican	2
+136	Honey Burst Sumatran	1
+35	Organic Caturra Sumatran	1
+65	Fair Trade Reserve Dominican	3
+142	Organic Peaberry Brazilian	1
+151	Fair Trade Decaf Sidamo Sumatran	4
+80	Fair Trade Decaf Swiss Water Bolivian	5
+191	Fair Trade Decaf Honey Burst Brazilian	2
+183	Organic Fair Trade Swiss Water Peruvian	2
+161	Organic Fair Trade Decaf Supremo Malian	1
+22	Organic Decaf Reserve Peruvian	3
+60	Organic Decaf AA Balinese	4
+150	Decaf Paradise Valley Salvadorean	3
+126	Organic Longberry Bolivian	3
+56	Black Satin Indian	1
+163	Organic Fair Trade Peaberry Mexican	1
+68	Organic Fair Trade Decaf Supremo Indian	1
+68	Organic Paradise Valley Ethiopian	3
+38	Organic Caturra Indian	1
+41	Fair Trade Swiss Water Sumatran	1
+69	Longberry Ethiopian	1
+131	Organic Cuzcachapa Panamanian	1
+136	Longberry Ethiopian	1
+160	Reserve Balinese	2
+30	Decaf Paradise Valley Indian	1
+132	Fair Trade Supremo Dominican	3
+54	Organic Decaf Mandheling Costa Rican	4
+156	Organic Decaf Paradise Valley Ethiopian	5
+154	Decaf Paradise Valley Indian	1
+66	Organic Caturra Dominican	4
+133	Organic Decaf Caturra Panamanian	2
+147	Organic Paradise Valley Ethiopian	1
+85	Organic Fair Trade AA Bolivian	4
+147	Organic Fair Trade Cuzcachapa Mexican	1
+176	Decaf Supremo Mexican	3
+131	Fair Trade Decaf Sidamo Sumatran	4
+139	Organic Decaf Cuzcachapa Malian	3
+141	Organic Decaf Reserve Ethiopian	1
+131	Organic Fair Trade Sidamo Costa Rican	1
+180	Decaf Honey Burst Salvadorean	2
+179	Organic Fair Trade AA Bolivian	4
+92	Organic Decaf Honey Burst Brazilian	2
+65	Organic Caturra Dominican	2
+82	Decaf AA Guatemalan	2
+16	Fair Trade Decaf Paradise Valley Brazilian	2
+114	Decaf Caturra Guatemalan	5
+113	Fair Trade Reserve Dominican	1
+109	Organic Honey Burst Bolivian	1
+155	Organic Decaf Caturra Kenyan	2
+33	Organic Fair Trade Decaf Black Satin Brazilian	2
+133	Organic Fair Trade Decaf Black Satin Bolivian	4
+94	Decaf AA Guatemalan	3
+104	Organic Fair Trade Cuzcachapa Mexican	3
+185	Organic Fair Trade Decaf Supremo Panamanian	2
+140	Organic Fair Trade AA Bolivian	1
+87	Decaf Black Satin Malian	4
+192	Decaf Paradise Valley Salvadorean	2
+104	Decaf AA Ethiopian	2
+142	Organic Fair Trade Decaf Caturra Peruvian	5
+155	Organic Decaf Sidamo Sumatran	2
+47	Mandheling Sumatran	1
+31	Fair Trade Paradise Valley Ethiopian	1
+181	Fair Trade Decaf Sidamo Panamanian	3
+169	Organic Paradise Valley Ethiopian	2
+172	Organic Fair Trade Caturra Kenyan	1
+136	Decaf Honey Burst Salvadorean	1
+154	Fair Trade Honey Burst Peruvian	3
+194	Decaf Peaberry Indian	3
+0	Fair Trade Supremo Dominican	4
+94	Decaf AA Ethiopian	3
+89	Organic Decaf Peaberry Brazilian	1
+193	Decaf Swiss Water Bolivian	4
+117	Fair Trade Decaf Peaberry Salvadorean	1
+118	Organic Fair Trade AA Bolivian	1
+130	Decaf Longberry Panamanian	2
+61	Organic Sidamo Costa Rican	1
+191	Fair Trade Supremo Dominican	2
+169	Fair Trade Decaf Cuzcachapa Sumatran	3
+115	Organic Fair Trade Sidamo Dominican	2
+2	Organic Decaf Sidamo Sumatran	2
+151	Fair Trade Decaf Supremo Guatemalan	4
+114	Fair Trade Decaf Swiss Water Malian	3
+75	Decaf Cuzcachapa Dominican	5
+8	Decaf Cuzcachapa Kenyan	5
+4	Organic Decaf Paradise Valley Dominican	5
+144	Decaf AA Guatemalan	4
+131	Decaf Peaberry Indian	2
+53	Decaf Black Satin Bolivian	2
+112	Swiss Water Dominican	4
+153	Organic Decaf Supremo Panamanian	3
+73	Organic AA Indian	2
+170	Decaf Honey Burst Kenyan	3
+3	Organic Decaf Reserve Peruvian	2
+49	Organic Paradise Valley Sumatran	2
+129	Cuzcachapa Balinese	2
+163	Fair Trade Sidamo Salvadorean	1
+130	Organic Fair Trade Decaf Black Satin Brazilian	3
+78	Organic Fair Trade Black Satin Salvadorean	3
+113	Fair Trade Decaf Caturra Bolivian	5
+31	Fair Trade Decaf Sidamo Peruvian	3
+143	Organic Fair Trade Peaberry Mexican	2
+126	Supremo Kenyan	4
+103	Decaf Caturra Salvadorean	3
+60	Decaf AA Guatemalan	3
+3	Organic Decaf AA Guatemalan	2
+131	Organic Decaf Sidamo Sumatran	3
+191	Organic Fair Trade Peaberry Ethiopian	1
+105	Decaf Honey Burst Kenyan	2
+72	Organic Longberry Malian	3
+127	AA Ethiopian	3
+4	Organic Peaberry Brazilian	1
+86	Fair Trade Sidamo Salvadorean	3
+146	Organic Fair Trade Decaf Paradise Valley Malian	4
+75	Reserve Balinese	1
+144	Organic Fair Trade Decaf Black Satin Bolivian	3
+111	Decaf Cuzcachapa Dominican	3
+167	Fair Trade Decaf Sidamo Panamanian	2
+108	Fair Trade Paradise Valley Ethiopian	3
+41	Decaf AA Guatemalan	4
+113	Fair Trade Decaf Paradise Valley Brazilian	5
+46	Organic Peaberry Peruvian	4
+140	Black Satin Indian	1
+111	Organic Caturra Indian	4
+60	Fair Trade Sidamo Salvadorean	1
+40	Paradise Valley Bolivian	1
+103	Fair Trade Decaf Caturra Bolivian	1
+26	Organic Cuzcachapa Panamanian	2
+33	Organic Fair Trade Decaf Black Satin Balinese	2
+137	Organic Fair Trade Decaf Caturra Peruvian	5
+198	Decaf Caturra Guatemalan	2
+53	Fair Trade Decaf Swiss Water Peruvian	4
+40	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+152	Decaf Reserve Bolivian	4
+106	Organic Fair Trade Supremo Mexican	1
+106	Fair Trade Reserve Balinese	1
+161	Organic Decaf Cuzcachapa Panamanian	3
+187	Organic Fair Trade Decaf Paradise Valley Malian	4
+161	Organic Decaf AA Balinese	3
+107	Organic Fair Trade Cuzcachapa Mexican	1
+136	Organic Decaf Paradise Valley Ethiopian	2
+41	Decaf Honey Burst Kenyan	4
+156	Organic Fair Trade Sidamo Dominican	1
+158	Organic Decaf Black Satin Brazilian	1
+100	Caturra Guatemalan	1
+132	Decaf Caturra Guatemalan	1
+137	Fair Trade Decaf Sidamo Panamanian	4
+145	Fair Trade Sidamo Peruvian	1
+55	Organic Decaf Caturra Panamanian	3
+101	Organic Fair Trade Supremo Mexican	4
+120	Fair Trade Paradise Valley Ethiopian	1
+154	Decaf Cuzcachapa Balinese	1
+29	Fair Trade Sidamo Salvadorean	1
+61	Organic Sidamo Malian	1
+113	Organic Fair Trade Decaf Black Satin Panamanian	4
+100	Fair Trade Decaf Peaberry Guatemalan	3
+165	Organic Fair Trade Swiss Water Peruvian	3
+176	Organic Decaf Longberry Costa Rican	2
+63	Mandheling Sumatran	1
+164	Fair Trade Decaf AA Indian	1
+178	Fair Trade Peaberry Salvadorean	1
+135	Organic Decaf Reserve Balinese	1
+138	Decaf Peaberry Indian	2
+23	Fair Trade Sidamo Salvadorean	2
+48	Organic Fair Trade Swiss Water Peruvian	2
+60	Organic Decaf Reserve Balinese	4
+93	Decaf Reserve Indian	2
+113	Decaf Honey Burst Balinese	3
+69	Decaf Reserve Indian	2
+79	Organic Supremo Brazilian	1
+196	Organic Fair Trade Sidamo Costa Rican	3
+87	Organic Fair Trade Peaberry Mexican	1
+109	Cuzcachapa Balinese	2
+196	Organic Fair Trade Caturra Malian	3
+110	Organic Fair Trade Decaf Supremo Indian	3
+135	Organic Fair Trade AA Indian	3
+141	Organic Fair Trade Decaf Swiss Water Peruvian	3
+6	Decaf AA Ethiopian	5
+9	Fair Trade Decaf Mandheling Dominican	3
+72	Organic Fair Trade Decaf Supremo Panamanian	1
+1	Organic Longberry Sumatran	2
+58	Organic Decaf AA Balinese	3
+192	Decaf Paradise Valley Indian	2
+125	Decaf Cuzcachapa Balinese	4
+29	Fair Trade Decaf Honey Burst Brazilian	1
+29	Fair Trade Decaf Swiss Water Malian	1
+104	Organic Fair Trade Decaf Honey Burst Kenyan	3
+171	Organic AA Peruvian	1
+48	Fair Trade Honey Burst Kenyan	1
+23	Reserve Salvadorean	4
+12	Decaf Caturra Salvadorean	3
+77	Organic Supremo Peruvian	1
+101	Black Satin Indian	1
+43	Organic Decaf AA Balinese	3
+21	Organic Cuzcachapa Panamanian	3
+111	Decaf Swiss Water Guatemalan	3
+47	Organic Fair Trade Supremo Mexican	4
+157	Organic Supremo Peruvian	1
+103	Organic Fair Trade Peaberry Ethiopian	2
+62	Organic Fair Trade Caturra Malian	1
+121	Organic Fair Trade Honey Burst Balinese	1
+120	Organic Cuzcachapa Panamanian	1
+135	Decaf Honey Burst Salvadorean	2
+22	Organic Fair Trade AA Balinese	1
+181	Organic Longberry Guatemalan	2
+37	Decaf Cuzcachapa Balinese	2
+86	Organic Decaf AA Guatemalan	2
+81	Fair Trade Decaf Peaberry Guatemalan	2
+52	Organic Fair Trade Black Satin Salvadorean	1
+171	Organic Fair Trade Sidamo Dominican	1
+178	Fair Trade Decaf Sidamo Panamanian	3
+110	Organic Fair Trade Decaf Longberry Bolivian	3
+123	Organic Paradise Valley Bolivian	4
+112	Fair Trade Decaf Longberry Brazilian	2
+184	Organic Fair Trade Decaf Paradise Valley Malian	1
+161	Fair Trade Decaf Supremo Balinese	2
+146	Organic Decaf Sidamo Sumatran	2
+122	Organic Peaberry Brazilian	3
+30	Organic AA Peruvian	2
+57	Fair Trade Sidamo Salvadorean	1
+94	Organic Decaf Cuzcachapa Panamanian	4
+112	Organic Caturra Dominican	3
+55	Organic Paradise Valley Sumatran	1
+112	Organic AA Indian	3
+170	Decaf Cuzcachapa Dominican	3
+59	Organic Decaf Sidamo Balinese	4
+0	Organic Decaf Reserve Ethiopian	1
+47	Organic Longberry Guatemalan	2
+80	Swiss Water Dominican	1
+174	Organic Decaf Longberry Costa Rican	3
+91	Organic Decaf Cuzcachapa Panamanian	3
+7	Organic Caturra Guatemalan	1
+197	Organic Decaf Caturra Kenyan	1
+27	Fair Trade Cuzcachapa Costa Rican	1
+185	Organic Paradise Valley Sumatran	1
+168	Organic Honey Burst Salvadorean	4
+159	Organic Decaf Sidamo Sumatran	3
+66	Fair Trade Supremo Sumatran	1
+85	Cuzcachapa Costa Rican	1
+71	Organic Decaf Paradise Valley Brazilian	3
+130	Fair Trade Decaf Sidamo Panamanian	4
+57	Honey Burst Sumatran	1
+157	Organic Longberry Bolivian	1
+82	Decaf Swiss Water Dominican	2
+57	Organic Fair Trade Caturra Malian	1
+191	Organic Decaf Caturra Panamanian	3
+111	Organic Fair Trade Decaf Honey Burst Kenyan	2
+157	Organic Fair Trade Decaf Black Satin Panamanian	3
+98	Organic Longberry Sumatran	1
+181	Organic Decaf AA Malian	2
+67	Organic Fair Trade Caturra Malian	1
+88	Fair Trade Reserve Dominican	1
+128	Organic Supremo Peruvian	3
+71	Organic Fair Trade Sidamo Costa Rican	1
+28	Organic Longberry Malian	4
+100	Fair Trade Supremo Sumatran	1
+47	Fair Trade Reserve Dominican	3
+37	Organic Decaf Caturra Kenyan	3
+13	Decaf Cuzcachapa Dominican	1
+90	Decaf Swiss Water Bolivian	4
+80	Organic Fair Trade Decaf Mandheling Balinese	4
+198	Organic Fair Trade Decaf Paradise Valley Malian	5
+155	Fair Trade Decaf Longberry Brazilian	3
+154	Honey Burst Dominican	1
+18	Sidamo Panamanian	1
+43	Organic Fair Trade Decaf Black Satin Salvadorean	5
+155	Decaf Reserve Bolivian	1
+73	Fair Trade Decaf Caturra Bolivian	3
+74	Organic Fair Trade Black Satin Salvadorean	3
+18	Fair Trade Reserve Balinese	1
+148	Organic Fair Trade Decaf Reserve Panamanian	2
+182	Fair Trade Paradise Valley Ethiopian	4
+43	Decaf Cuzcachapa Kenyan	2
+91	Organic Swiss Water Indian	1
+148	Organic Fair Trade Honey Burst Balinese	2
+125	Fair Trade Decaf Sidamo Sumatran	2
+169	Longberry Brazilian	1
+175	Peaberry Costa Rican	2
+168	Decaf Honey Burst Kenyan	3
+65	Fair Trade Decaf Peaberry Indian	3
+43	Peaberry Costa Rican	1
+148	Decaf Swiss Water Dominican	3
+36	Organic Decaf Reserve Ethiopian	4
+103	Fair Trade Swiss Water Sumatran	1
+37	Organic Paradise Valley Sumatran	1
+187	Fair Trade Honey Burst Kenyan	1
+91	Organic Caturra Guatemalan	1
+155	Organic Fair Trade Decaf Black Satin Brazilian	4
+85	Organic Swiss Water Indian	2
+48	Fair Trade Swiss Water Sumatran	1
+31	Organic Fair Trade Supremo Balinese	1
+31	Organic Fair Trade Decaf Black Satin Balinese	2
+47	Fair Trade Cuzcachapa Costa Rican	3
+135	Cuzcachapa Costa Rican	2
+168	Black Satin Indian	3
+140	Paradise Valley Bolivian	1
+37	Fair Trade Paradise Valley Ethiopian	1
+108	Fair Trade Decaf Paradise Valley Brazilian	3
+20	Decaf Honey Burst Salvadorean	4
+198	Fair Trade Decaf Mandheling Dominican	4
+61	Reserve Salvadorean	1
+55	Organic Decaf Black Satin Dominican	3
+44	Decaf Cuzcachapa Brazilian	5
+142	Organic Cuzcachapa Brazilian	1
+17	Organic Fair Trade Decaf Supremo Malian	1
+121	Decaf Honey Burst Salvadorean	5
+151	Decaf Cuzcachapa Dominican	2
+178	Organic Decaf Sidamo Balinese	4
+85	Fair Trade Decaf Peaberry Guatemalan	3
+26	Organic Longberry Malian	2
+199	Organic Decaf Sidamo Sumatran	3
+141	Organic Fair Trade Decaf Reserve Ethiopian	3
+3	Organic Decaf Black Satin Dominican	2
+16	Fair Trade Decaf Paradise Valley Peruvian	2
+97	Organic Sidamo Malian	1
+181	Organic AA Peruvian	2
+110	Organic Fair Trade Honey Burst Balinese	1
+42	Organic Fair Trade Decaf Swiss Water Malian	4
+190	Peaberry Indian	1
+195	Organic Decaf Reserve Balinese	2
+113	Supremo Brazilian	1
+153	Organic Decaf Mandheling Costa Rican	3
+82	Decaf Paradise Valley Salvadorean	2
+19	Supremo Kenyan	1
+99	Decaf Honey Burst Balinese	1
+1	Organic Peaberry Panamanian	2
+123	Organic Fair Trade Decaf Swiss Water Salvadorean	2
+3	Decaf Supremo Mexican	3
+4	Organic Decaf Longberry Costa Rican	5
+150	Fair Trade Decaf Supremo Guatemalan	1
+71	Organic Fair Trade Decaf Swiss Water Salvadorean	1
+163	Fair Trade Cuzcachapa Costa Rican	1
+168	Organic Decaf AA Brazilian	4
+81	Peaberry Salvadorean	1
+116	Organic Fair Trade AA Bolivian	1
+44	Fair Trade Decaf AA Indian	3
+121	Organic Fair Trade AA Bolivian	1
+74	Organic Honey Burst Salvadorean	1
+28	Black Satin Indian	3
+171	Decaf Cuzcachapa Kenyan	5
+33	Organic Fair Trade Mandheling Guatemalan	2
+54	Decaf Reserve Bolivian	3
+67	Organic Decaf Paradise Valley Brazilian	3
+40	Decaf Swiss Water Dominican	4
+7	Organic Fair Trade Honey Burst Balinese	1
+66	Fair Trade Decaf Peaberry Salvadorean	1
+63	Organic Fair Trade Decaf Supremo Panamanian	4
+44	Organic Fair Trade Decaf Paradise Valley Kenyan	2
+126	Organic Longberry Sumatran	3
+34	Decaf Supremo Mexican	1
+70	Organic Longberry Guatemalan	2
+140	Fair Trade Cuzcachapa Costa Rican	1
+183	Organic Longberry Bolivian	4
+103	Organic Peaberry Peruvian	4
+172	Organic Supremo Peruvian	1
+28	Supremo Salvadorean	3
+12	Organic Longberry Malian	1
+70	Supremo Salvadorean	1
+87	Reserve Salvadorean	1
+136	Longberry Brazilian	1
+5	Fair Trade Honey Burst Peruvian	1
+107	Peaberry Indian	1
+60	Fair Trade Decaf Supremo Guatemalan	1
+107	Decaf Caturra Salvadorean	2
+134	Decaf Swiss Water Bolivian	3
+164	Organic Decaf Reserve Ethiopian	4
+16	Fair Trade Decaf Sidamo Sumatran	2
+174	Organic Decaf Swiss Water Kenyan	3
+49	Fair Trade Reserve Dominican	3
+109	Decaf Swiss Water Guatemalan	2
+13	Fair Trade Decaf Cuzcachapa Panamanian	3
+143	Fair Trade Decaf Cuzcachapa Sumatran	1
+160	Organic Fair Trade Supremo Mexican	3
+17	Decaf Swiss Water Dominican	4
+11	Organic Honey Burst Bolivian	1
+183	Fair Trade Supremo Dominican	1
+20	Organic Peaberry Panamanian	1
+22	Organic Peaberry Panamanian	1
+157	Sidamo Panamanian	2
+112	Fair Trade Decaf Honey Burst Brazilian	2
+97	Decaf Peaberry Indian	2
+37	Fair Trade Decaf Mandheling Dominican	4
+130	Caturra Guatemalan	2
+155	Fair Trade Decaf Honey Burst Brazilian	3
+47	Organic Cuzcachapa Brazilian	2
+106	Caturra Guatemalan	1
+109	Cuzcachapa Costa Rican	2
+106	Organic Peaberry Peruvian	1
+122	Fair Trade Decaf Cuzcachapa Panamanian	2
+129	Organic AA Indian	1
+4	Organic Decaf AA Balinese	5
+61	Organic Fair Trade Decaf Black Satin Bolivian	3
+187	Organic Decaf Black Satin Dominican	2
+162	Organic Decaf AA Malian	4
+173	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+151	Organic Peaberry Brazilian	1
+125	Supremo Brazilian	1
+100	Decaf Black Satin Bolivian	5
+3	Organic Fair Trade Sidamo Dominican	1
+173	Organic Decaf Sidamo Panamanian	1
+30	Fair Trade Supremo Sumatran	3
+195	Organic Fair Trade Decaf Supremo Panamanian	4
+104	Organic Fair Trade Caturra Malian	3
+160	Organic Longberry Bolivian	1
+99	Fair Trade Decaf Longberry Brazilian	3
+12	Fair Trade Decaf Sidamo Panamanian	5
+177	Caturra Guatemalan	1
+80	Organic Paradise Valley Sumatran	1
+172	Organic Fair Trade Sidamo Dominican	1
+15	Organic Fair Trade Decaf Paradise Valley Malian	5
+29	Fair Trade Decaf Swiss Water Bolivian	1
+120	Organic Decaf AA Balinese	5
+153	Organic Fair Trade Decaf Black Satin Salvadorean	1
+52	Organic Honey Burst Salvadorean	1
+17	Organic Longberry Guatemalan	3
+183	Fair Trade Sidamo Bolivian	1
+150	Reserve Balinese	3
+159	Organic Swiss Water Indian	3
+187	Decaf Swiss Water Guatemalan	3
+5	Organic Decaf Mandheling Costa Rican	5
+126	Organic Decaf Reserve Peruvian	3
+163	Organic Longberry Malian	1
+180	Organic Paradise Valley Sumatran	1
+179	Fair Trade Decaf Cuzcachapa Panamanian	3
+61	Organic Fair Trade Supremo Mexican	1
+23	Fair Trade Supremo Dominican	2
+176	Fair Trade Decaf Caturra Bolivian	5
+131	Organic Fair Trade Decaf Swiss Water Peruvian	5
+96	Organic Decaf Sidamo Panamanian	5
+19	Fair Trade Honey Burst Peruvian	1
+2	Fair Trade Sidamo Bolivian	1
+126	Organic Decaf Mandheling Costa Rican	3
+123	Organic Fair Trade Decaf Supremo Panamanian	2
+58	Organic Fair Trade AA Bolivian	1
+39	Decaf Black Satin Malian	1
+24	Fair Trade Supremo Dominican	1
+145	Decaf AA Guatemalan	4
+158	Organic Fair Trade Decaf Black Satin Brazilian	3
+17	Organic Caturra Guatemalan	3
+196	Fair Trade Decaf Honey Burst Brazilian	4
+191	Organic Supremo Peruvian	3
+124	Organic Decaf Paradise Valley Ethiopian	3
+5	Cuzcachapa Sumatran	1
+25	Organic Fair Trade AA Balinese	1
+188	Organic Fair Trade Decaf Black Satin Brazilian	2
+165	Organic Paradise Valley Sumatran	1
+151	Fair Trade Decaf Swiss Water Peruvian	4
+135	Decaf Honey Burst Salvadorean	2
+85	Peaberry Indian	1
+101	Decaf Reserve Peruvian	1
+64	Decaf AA Guatemalan	2
+5	Organic Longberry Bolivian	1
+116	Fair Trade Sidamo Salvadorean	1
+111	Organic AA Indian	4
+188	Decaf Cuzcachapa Kenyan	3
+164	Decaf Cuzcachapa Balinese	3
+44	Fair Trade Decaf Cuzcachapa Panamanian	3
+88	Peaberry Costa Rican	1
+88	Organic Fair Trade Decaf Honey Burst Kenyan	3
+61	Decaf Swiss Water Bolivian	4
+175	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+15	Fair Trade AA Malian	1
+105	Cuzcachapa Sumatran	1
+176	Decaf Cuzcachapa Brazilian	3
+65	Organic Fair Trade Paradise Valley Indian	4
+102	Fair Trade Decaf Honey Burst Brazilian	4
+165	Longberry Brazilian	2
+44	Decaf AA Ethiopian	5
+103	Organic Honey Burst Salvadorean	4
+127	AA Ethiopian	3
+175	Organic Fair Trade Supremo Mexican	3
+75	Organic Decaf Honey Burst Brazilian	4
+143	Organic Decaf Honey Burst Brazilian	4
+92	Fair Trade Peaberry Salvadorean	3
+188	Organic Fair Trade AA Bolivian	2
+198	Decaf Honey Burst Kenyan	2
+95	Fair Trade Decaf Paradise Valley Brazilian	2
+147	Organic Fair Trade Sidamo Dominican	1
+4	Organic Cuzcachapa Brazilian	1
+43	Decaf Swiss Water Dominican	2
+145	Organic Fair Trade Decaf Longberry Bolivian	3
+137	Organic Fair Trade Decaf Honey Burst Kenyan	5
+116	Organic Fair Trade Decaf Reserve Ethiopian	5
+139	Decaf Reserve Indian	4
+105	Fair Trade Decaf Paradise Valley Peruvian	4
+57	Paradise Valley Bolivian	1
+181	Decaf Honey Burst Salvadorean	1
+72	Decaf Reserve Indian	4
+21	Decaf Reserve Peruvian	4
+101	Honey Burst Dominican	1
+9	Decaf Black Satin Malian	1
+172	Fair Trade Supremo Sumatran	1
+146	Organic Fair Trade Mandheling Guatemalan	4
+122	Fair Trade Decaf Mandheling Dominican	2
+113	Organic Supremo Bolivian	1
+92	Fair Trade Decaf Sidamo Peruvian	3
+157	Organic Fair Trade Paradise Valley Indian	3
+187	Organic Sidamo Costa Rican	1
+132	Fair Trade Sidamo Salvadorean	3
+183	Organic Fair Trade Decaf Supremo Malian	2
+97	Organic Fair Trade Black Satin Salvadorean	3
+182	Fair Trade Decaf Paradise Valley Brazilian	4
+147	Organic Paradise Valley Ethiopian	1
+30	Fair Trade Decaf Paradise Valley Brazilian	3
+128	Organic Cuzcachapa Brazilian	3
+65	Organic Caturra Indian	2
+10	Organic Decaf Black Satin Brazilian	2
+109	Organic Decaf Mandheling Salvadorean	1
+114	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+53	Cuzcachapa Costa Rican	2
+89	Organic Swiss Water Indian	1
+6	Organic Fair Trade AA Balinese	1
+190	Peaberry Salvadorean	1
+58	Decaf Caturra Salvadorean	2
+149	Organic Fair Trade Decaf Paradise Valley Malian	4
+192	Organic Fair Trade Decaf Caturra Peruvian	3
+169	Organic Fair Trade Decaf Swiss Water Peruvian	4
+32	Fair Trade Decaf Peaberry Indian	4
+64	Organic Decaf Paradise Valley Sumatran	1
+197	Decaf Swiss Water Bolivian	2
+81	Organic Honey Burst Bolivian	1
+128	Black Satin Indian	4
+164	Organic Swiss Water Indian	4
+31	Organic AA Indian	1
+198	Organic Decaf AA Brazilian	3
+172	Organic Peaberry Panamanian	1
+158	Organic Fair Trade Decaf Supremo Malian	3
+175	Fair Trade Decaf Swiss Water Malian	4
+198	Organic Paradise Valley Sumatran	1
+198	Organic Decaf Caturra Panamanian	3
+49	Organic Decaf Longberry Costa Rican	2
+54	Fair Trade Paradise Valley Ethiopian	1
+109	Decaf AA Guatemalan	2
+187	Organic Peaberry Brazilian	1
+4	Organic Honey Burst Indian	1
+59	Organic Decaf Sidamo Sumatran	4
+52	Organic Supremo Brazilian	1
+54	Honey Burst Dominican	3
+80	Supremo Brazilian	1
+175	Fair Trade Decaf Supremo Guatemalan	4
+163	Decaf Honey Burst Balinese	5
+74	Fair Trade Decaf Peaberry Salvadorean	4
+168	Organic Decaf Caturra Costa Rican	4
+132	Organic Fair Trade Decaf Black Satin Brazilian	4
+97	Organic Fair Trade Decaf Honey Burst Kenyan	3
+108	Decaf Cuzcachapa Balinese	1
+15	AA Ethiopian	1
+39	Organic Fair Trade Black Satin Salvadorean	4
+35	Decaf Peaberry Indian	4
+141	Supremo Kenyan	2
+175	Reserve Balinese	2
+165	Organic Decaf Paradise Valley Brazilian	1
+48	Decaf AA Guatemalan	3
+76	Organic Paradise Valley Bolivian	2
+56	Decaf AA Guatemalan	1
+70	Organic Fair Trade Decaf Mandheling Costa Rican	4
+127	Organic Decaf Sidamo Balinese	4
+38	Organic Decaf Longberry Costa Rican	1
+118	Organic Cuzcachapa Panamanian	1
+32	Organic Decaf Reserve Balinese	3
+98	Fair Trade Reserve Dominican	1
+116	Fair Trade Decaf Supremo Guatemalan	4
+94	Organic Fair Trade Decaf Mandheling Balinese	2
+8	Peaberry Salvadorean	1
+67	Organic Swiss Water Indian	1
+168	Organic Decaf Paradise Valley Ethiopian	4
+70	Black Satin Indian	1
+159	Organic Supremo Brazilian	3
+165	Supremo Kenyan	2
+169	Organic Decaf Black Satin Brazilian	2
+96	Fair Trade Decaf Swiss Water Malian	2
+39	Fair Trade Supremo Sumatran	3
+71	Organic Fair Trade Decaf Longberry Bolivian	1
+54	Fair Trade Decaf Peaberry Indian	1
+104	Organic Decaf Cuzcachapa Malian	1
+118	Organic Fair Trade Mandheling Guatemalan	1
+131	Organic Swiss Water Kenyan	1
+143	Decaf Cuzcachapa Kenyan	3
+157	Organic Fair Trade Decaf Reserve Ethiopian	3
+69	Organic Fair Trade Decaf Mandheling Costa Rican	5
+77	Decaf Cuzcachapa Dominican	3
+101	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+181	Mandheling Costa Rican	1
+177	Organic Fair Trade Decaf Caturra Peruvian	2
+65	Organic Decaf Black Satin Dominican	2
+45	Organic Fair Trade Sidamo Costa Rican	1
+35	Fair Trade Caturra Salvadorean	1
+120	Organic Decaf Sidamo Sumatran	5
+184	Organic Decaf Mandheling Costa Rican	3
+198	Fair Trade Swiss Water Sumatran	1
+162	Organic Decaf AA Balinese	4
+134	Decaf Paradise Valley Salvadorean	3
+1	Organic Decaf Honey Burst Brazilian	2
+27	Peaberry Indian	1
+144	Organic Decaf AA Balinese	5
+137	Organic Supremo Peruvian	1
+85	Decaf Honey Burst Salvadorean	1
+77	Organic Fair Trade Decaf Caturra Dominican	4
+170	Fair Trade Decaf Peaberry Guatemalan	5
+199	Organic Fair Trade Decaf Swiss Water Salvadorean	5
+140	Decaf Honey Burst Kenyan	5
+27	Organic Fair Trade Decaf Reserve Panamanian	5
+30	Fair Trade Decaf Peaberry Guatemalan	3
+162	Organic Decaf AA Malian	4
+192	Decaf Reserve Peruvian	2
+173	Fair Trade Sidamo Salvadorean	4
+20	AA Ethiopian	1
+133	Organic Supremo Peruvian	1
+185	Fair Trade Reserve Balinese	1
+86	Organic Decaf Swiss Water Indian	2
+17	Decaf Honey Burst Kenyan	4
+134	Fair Trade Decaf Sidamo Peruvian	5
+199	Longberry Brazilian	1
+145	Fair Trade Decaf Black Satin Peruvian	2
+179	Fair Trade Decaf Swiss Water Sumatran	3
+114	Organic Decaf Peaberry Brazilian	4
+3	Organic Peaberry Brazilian	1
+76	Fair Trade Supremo Sumatran	3
+181	Organic Fair Trade Peaberry Ethiopian	4
+194	Supremo Salvadorean	3
+125	Organic Decaf Reserve Balinese	5
+186	Black Satin Indian	1
+14	Supremo Brazilian	1
+123	Decaf AA Guatemalan	3
+22	Organic Fair Trade Decaf Swiss Water Malian	5
+180	Organic Fair Trade Decaf Black Satin Bolivian	5
+27	Fair Trade Decaf Supremo Balinese	4
+104	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+0	Decaf Peaberry Indian	2
+105	Longberry Brazilian	1
+170	Decaf Black Satin Bolivian	3
+13	Caturra Guatemalan	1
+161	Organic Decaf AA Balinese	3
+58	Organic Swiss Water Indian	1
+64	Decaf Longberry Panamanian	2
+180	Decaf Black Satin Malian	2
+110	Longberry Brazilian	1
+50	Organic Fair Trade Peaberry Mexican	4
+33	Organic Supremo Peruvian	4
+188	Organic Decaf Swiss Water Indian	4
+97	Fair Trade Reserve Dominican	4
+189	Organic Cuzcachapa Brazilian	1
+2	Organic Fair Trade Peaberry Mexican	1
+89	AA Ethiopian	2
+13	Organic Longberry Bolivian	2
+184	Organic Decaf Paradise Valley Dominican	3
+149	Fair Trade Decaf AA Indian	5
+116	Organic Supremo Bolivian	1
+23	Supremo Salvadorean	4
+130	Organic Decaf Longberry Costa Rican	1
+113	Organic Supremo Bolivian	1
+171	Cuzcachapa Balinese	1
+115	Fair Trade Decaf Peaberry Guatemalan	1
+120	Organic Decaf Mandheling Salvadorean	5
+155	Organic AA Peruvian	2
+4	Decaf Caturra Guatemalan	4
+131	Organic Decaf Mandheling Salvadorean	3
+76	Organic Longberry Sumatran	2
+198	Fair Trade Decaf Cuzcachapa Panamanian	4
+159	Supremo Brazilian	4
+51	Honey Burst Sumatran	1
+10	Organic Decaf AA Malian	2
+78	Peaberry Costa Rican	2
+46	Reserve Salvadorean	3
+156	Decaf Caturra Salvadorean	4
+66	Cuzcachapa Costa Rican	3
+191	Fair Trade Caturra Salvadorean	2
+98	Fair Trade Decaf Black Satin Peruvian	2
+85	Organic Paradise Valley Balinese	2
+183	Organic Decaf Supremo Panamanian	4
+185	Fair Trade Caturra Salvadorean	1
+60	Organic Peaberry Peruvian	4
+168	Fair Trade Peaberry Malian	1
+46	Organic Sidamo Malian	4
+182	Organic Peaberry Peruvian	1
+14	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+65	Organic Fair Trade Cuzcachapa Mexican	4
+92	Organic Fair Trade Peaberry Ethiopian	4
+68	Decaf Longberry Panamanian	4
+85	Cuzcachapa Balinese	1
+56	Fair Trade AA Malian	3
+123	Cuzcachapa Sumatran	3
+82	Decaf Swiss Water Dominican	2
+78	Organic AA Peruvian	1
+165	Organic Decaf Peaberry Brazilian	1
+28	Cuzcachapa Balinese	3
+165	Fair Trade Decaf Sidamo Sumatran	4
+146	Organic Caturra Dominican	2
+94	Fair Trade Decaf Swiss Water Bolivian	1
+11	Organic Decaf Caturra Costa Rican	4
+57	Organic Decaf Caturra Panamanian	3
+158	Organic Fair Trade Decaf Black Satin Bolivian	3
+30	Organic Fair Trade Black Satin Salvadorean	4
+142	Decaf Honey Burst Kenyan	2
+30	Decaf Black Satin Malian	1
+86	Fair Trade Decaf Sidamo Panamanian	3
+54	Organic Decaf Caturra Costa Rican	4
+132	Organic Fair Trade Sidamo Costa Rican	4
+77	Organic Decaf Reserve Peruvian	2
+146	Fair Trade Decaf Peaberry Salvadorean	3
+192	Decaf Black Satin Bolivian	2
+164	Swiss Water Dominican	3
+92	Organic Fair Trade Decaf Mandheling Costa Rican	4
+132	Decaf Honey Burst Kenyan	1
+125	Organic Caturra Guatemalan	1
+117	Fair Trade Decaf Sidamo Panamanian	1
+31	Organic Decaf Reserve Peruvian	4
+195	Organic Decaf Honey Burst Brazilian	2
+12	Supremo Brazilian	1
+118	Decaf Reserve Indian	2
+159	Organic Caturra Indian	3
+65	Organic Decaf Honey Burst Indian	2
+82	Organic Supremo Peruvian	1
+187	Decaf Peaberry Indian	3
+109	Organic Fair Trade Decaf Caturra Dominican	3
+57	Fair Trade Decaf Swiss Water Malian	4
+35	Decaf AA Guatemalan	4
+32	Fair Trade Decaf Mandheling Dominican	4
+183	Organic Fair Trade Decaf Black Satin Panamanian	2
+159	Fair Trade Decaf Cuzcachapa Panamanian	2
+42	Decaf Honey Burst Balinese	1
+199	Organic Decaf Sidamo Panamanian	3
+169	Decaf AA Guatemalan	1
+37	Organic Fair Trade Peaberry Ethiopian	1
+37	Decaf Supremo Dominican	2
+112	Organic Fair Trade Decaf Caturra Dominican	1
+132	Organic Caturra Guatemalan	2
+125	Organic Fair Trade Black Satin Salvadorean	1
+14	Fair Trade Decaf Peaberry Salvadorean	3
+92	Decaf Supremo Dominican	1
+59	Decaf Cuzcachapa Dominican	5
+50	Organic Fair Trade Decaf Supremo Indian	4
+67	Decaf Cuzcachapa Kenyan	2
+32	Honey Burst Sumatran	1
+34	Organic Sidamo Costa Rican	2
+138	Organic Decaf Black Satin Brazilian	3
+93	Fair Trade Decaf Black Satin Peruvian	4
+1	Organic Paradise Valley Sumatran	2
+43	Organic Fair Trade Decaf Caturra Peruvian	5
+100	Decaf Honey Burst Salvadorean	5
+191	AA Ethiopian	4
+178	Organic Fair Trade Peaberry Bolivian	1
+69	Decaf Swiss Water Dominican	2
+110	Organic Fair Trade Cuzcachapa Mexican	1
+145	Fair Trade Sidamo Bolivian	1
+163	Decaf Caturra Salvadorean	5
+62	Organic Decaf Caturra Kenyan	5
+33	Organic Swiss Water Kenyan	4
+150	Organic Longberry Malian	4
+110	Fair Trade Decaf Swiss Water Sumatran	2
+25	Fair Trade Decaf Peaberry Guatemalan	4
+96	Fair Trade Decaf Cuzcachapa Panamanian	2
+59	Cuzcachapa Sumatran	1
+15	Supremo Brazilian	1
+51	Fair Trade Reserve Balinese	3
+106	Organic Fair Trade Decaf Mandheling Costa Rican	3
+190	Fair Trade Cuzcachapa Costa Rican	1
+41	Organic Decaf AA Malian	5
+165	Decaf Black Satin Balinese	2
+18	Organic Decaf Sidamo Panamanian	4
+41	Organic AA Peruvian	1
+174	Decaf Peaberry Indian	4
+124	Organic Fair Trade Swiss Water Peruvian	1
+190	Organic AA Peruvian	1
+138	Organic Decaf AA Guatemalan	3
+134	Organic Decaf AA Balinese	2
+141	Organic Fair Trade Honey Burst Balinese	3
+96	Peaberry Costa Rican	1
+71	Organic Paradise Valley Sumatran	3
+86	Decaf Honey Burst Kenyan	1
+59	Fair Trade Peaberry Malian	1
+165	Swiss Water Dominican	2
+139	Fair Trade Decaf Peaberry Indian	2
+188	Organic Decaf Supremo Panamanian	4
+159	Organic Decaf Reserve Peruvian	3
+135	Fair Trade AA Malian	4
+65	Decaf AA Ethiopian	1
+129	Organic Honey Burst Bolivian	1
+68	Organic Fair Trade Peaberry Guatemalan	1
+179	Organic Sidamo Costa Rican	2
+112	Fair Trade Decaf Honey Burst Brazilian	2
+23	Decaf Cuzcachapa Brazilian	4
+176	Fair Trade Decaf Paradise Valley Brazilian	5
+45	Organic Sidamo Costa Rican	1
+151	Fair Trade Supremo Dominican	1
+129	Honey Burst Sumatran	2
+84	Organic Decaf Supremo Panamanian	4
+86	Decaf AA Ethiopian	1
+88	Organic Longberry Bolivian	1
+79	Fair Trade Decaf Swiss Water Bolivian	3
+67	Mandheling Costa Rican	1
+95	Organic Decaf Sidamo Sumatran	3
+133	Supremo Brazilian	1
+161	Fair Trade Decaf Black Satin Peruvian	2
+95	Organic Peaberry Panamanian	3
+71	Organic Fair Trade Mandheling Guatemalan	1
+62	Fair Trade Decaf Longberry Brazilian	2
+190	Organic Decaf AA Guatemalan	3
+14	Organic Fair Trade Decaf Supremo Malian	4
+98	Cuzcachapa Sumatran	1
+199	Fair Trade Decaf Swiss Water Bolivian	4
+74	Fair Trade Sidamo Salvadorean	4
+55	Organic Longberry Bolivian	1
+161	Organic AA Indian	3
+69	Decaf Black Satin Bolivian	2
+99	Organic Decaf Mandheling Salvadorean	2
+168	Fair Trade Decaf Peaberry Indian	1
+193	Organic Fair Trade AA Indian	1
+9	Organic Decaf Cuzcachapa Panamanian	2
+149	Fair Trade Sidamo Salvadorean	1
+168	Organic Longberry Bolivian	4
+51	Organic Caturra Dominican	2
+1	Organic Fair Trade Decaf Black Satin Bolivian	4
+189	Organic Peaberry Panamanian	1
+62	Organic Fair Trade Decaf Mandheling Balinese	3
+146	Fair Trade AA Malian	3
+16	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+164	Organic Paradise Valley Sumatran	4
+121	Longberry Brazilian	1
+35	Decaf Swiss Water Guatemalan	4
+161	Organic Fair Trade Swiss Water Peruvian	1
+20	Decaf Black Satin Malian	4
+116	Fair Trade Decaf Peaberry Salvadorean	4
+84	Decaf Reserve Bolivian	5
+91	Organic Fair Trade AA Indian	1
+101	Decaf Reserve Bolivian	1
+19	Fair Trade Decaf Paradise Valley Peruvian	4
+134	Decaf Cuzcachapa Brazilian	3
+18	Organic Honey Burst Salvadorean	1
+167	Organic Fair Trade Decaf Swiss Water Peruvian	1
+59	Organic Swiss Water Indian	1
+21	Fair Trade Decaf Sidamo Peruvian	2
+144	Decaf Black Satin Malian	4
+111	Organic Decaf Sidamo Balinese	4
+161	Fair Trade Decaf Swiss Water Peruvian	2
+153	Organic Decaf Sidamo Balinese	3
+63	Decaf Longberry Panamanian	1
+57	Organic Caturra Guatemalan	1
+138	Longberry Brazilian	1
+80	Organic Decaf Paradise Valley Dominican	2
+142	Organic Fair Trade Supremo Mexican	1
+73	Organic Fair Trade Caturra Malian	4
+12	Decaf AA Guatemalan	3
+173	Longberry Brazilian	2
+129	Organic Decaf Sidamo Balinese	1
+136	Organic Decaf Sidamo Balinese	2
+114	Cuzcachapa Costa Rican	1
+165	Organic Decaf Reserve Peruvian	1
+79	Decaf Cuzcachapa Balinese	5
+4	Organic Caturra Dominican	1
+107	Decaf AA Ethiopian	2
+105	Organic Longberry Bolivian	1
+19	Peaberry Indian	1
+112	Fair Trade Decaf Mandheling Dominican	2
+70	Fair Trade Decaf Paradise Valley Peruvian	3
+103	Fair Trade Decaf Caturra Bolivian	1
+161	Organic Fair Trade Black Satin Salvadorean	1
+20	Decaf Black Satin Malian	4
+138	Decaf Swiss Water Guatemalan	2
+106	Fair Trade Sidamo Peruvian	1
+191	Honey Burst Sumatran	4
+100	Cuzcachapa Costa Rican	1
+198	Fair Trade Decaf Peaberry Indian	4
+156	Organic Decaf Sidamo Sumatran	5
+95	Decaf Honey Burst Balinese	4
+110	Organic Fair Trade Honey Burst Balinese	1
+174	Organic Fair Trade Peaberry Bolivian	1
+48	Organic Supremo Peruvian	4
+141	Organic Fair Trade Decaf Swiss Water Malian	3
+20	Fair Trade Swiss Water Sumatran	1
+115	Organic Fair Trade Sidamo Costa Rican	2
+193	Cuzcachapa Costa Rican	4
+53	Organic Honey Burst Salvadorean	1
+71	Organic Caturra Sumatran	3
+126	Fair Trade Cuzcachapa Costa Rican	2
+79	Black Satin Indian	1
+21	Supremo Kenyan	4
+193	Organic Fair Trade Decaf Longberry Bolivian	1
+185	Organic Decaf Sidamo Panamanian	4
+114	Decaf Supremo Mexican	5
+43	Organic Decaf Sidamo Sumatran	3
+50	Organic Fair Trade Decaf Supremo Indian	4
+93	Fair Trade Peaberry Salvadorean	1
+124	Decaf Cuzcachapa Brazilian	2
+8	Organic Decaf AA Guatemalan	4
+24	Organic Decaf Peaberry Brazilian	3
+124	Organic Decaf Reserve Balinese	3
+57	Organic Decaf Reserve Ethiopian	3
+149	Organic Fair Trade Decaf Black Satin Bolivian	4
+133	Supremo Salvadorean	1
+1	Fair Trade Decaf Swiss Water Bolivian	3
+180	Organic Decaf Cuzcachapa Panamanian	3
+92	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+194	Decaf Swiss Water Bolivian	3
+40	Fair Trade Decaf AA Indian	2
+61	Organic Supremo Peruvian	1
+33	Organic Fair Trade Decaf Black Satin Panamanian	2
+80	Reserve Balinese	1
+61	Organic Paradise Valley Sumatran	1
+134	Organic Decaf AA Malian	2
+121	Organic Decaf Mandheling Salvadorean	4
+168	Organic Fair Trade Decaf Black Satin Salvadorean	2
+11	Organic Peaberry Brazilian	1
+30	Decaf Caturra Guatemalan	1
+59	Organic Fair Trade Paradise Valley Indian	1
+139	Organic Decaf Black Satin Brazilian	3
+46	Organic Decaf Caturra Costa Rican	4
+184	Organic Fair Trade AA Indian	1
+10	Organic Decaf Sidamo Balinese	2
+102	Organic Paradise Valley Balinese	1
+182	Mandheling Sumatran	2
+63	Organic Decaf Mandheling Salvadorean	2
+147	Organic Caturra Guatemalan	1
+90	Decaf Honey Burst Balinese	4
+13	Fair Trade Peaberry Salvadorean	3
+167	Reserve Salvadorean	4
+14	Organic Decaf AA Brazilian	2
+107	Fair Trade Decaf Sidamo Peruvian	4
+44	Organic Cuzcachapa Panamanian	1
+97	Fair Trade Peaberry Salvadorean	4
+144	Organic Fair Trade Decaf Black Satin Panamanian	3
+120	Organic Decaf AA Guatemalan	5
+167	Organic Fair Trade Caturra Kenyan	1
+73	Decaf Cuzcachapa Dominican	1
+27	Organic Decaf Black Satin Brazilian	3
+134	Organic Paradise Valley Balinese	1
+33	Organic Fair Trade Paradise Valley Indian	2
+59	Organic Fair Trade Mandheling Guatemalan	1
+70	Fair Trade Decaf Paradise Valley Brazilian	3
+55	Organic Paradise Valley Sumatran	1
+194	Organic Cuzcachapa Panamanian	4
+137	Organic Fair Trade Decaf Reserve Panamanian	5
+171	Organic Swiss Water Indian	1
+79	Organic Caturra Dominican	1
+150	Organic Decaf AA Brazilian	4
+191	Fair Trade Decaf Black Satin Peruvian	2
+88	Peaberry Indian	1
+178	Decaf Reserve Bolivian	5
+185	Organic Fair Trade Decaf Swiss Water Malian	2
+135	Organic Fair Trade Decaf Reserve Panamanian	3
+150	Reserve Salvadorean	3
+179	Decaf Honey Burst Balinese	1
+111	Longberry Ethiopian	3
+199	Organic Swiss Water Kenyan	1
+140	Organic Fair Trade Caturra Kenyan	1
+109	Organic Sidamo Costa Rican	1
+134	Fair Trade Swiss Water Sumatran	1
+56	Organic Swiss Water Indian	2
+133	Reserve Salvadorean	1
+193	Organic Decaf Caturra Panamanian	3
+175	Decaf Cuzcachapa Dominican	2
+70	Organic Peaberry Panamanian	2
+52	Fair Trade Decaf Supremo Guatemalan	2
+59	Organic Decaf AA Malian	4
+119	Cuzcachapa Sumatran	1
+177	Organic Decaf Honey Burst Indian	4
+131	Organic Peaberry Panamanian	1
+170	Fair Trade Decaf Swiss Water Bolivian	5
+177	Organic Peaberry Brazilian	1
+170	Fair Trade Decaf Supremo Guatemalan	5
+29	Decaf Paradise Valley Salvadorean	3
+123	Organic Fair Trade Decaf Swiss Water Malian	2
+183	Decaf Cuzcachapa Dominican	3
+91	Organic Fair Trade Decaf Black Satin Brazilian	5
+183	Organic Decaf Caturra Kenyan	4
+40	Organic Fair Trade Decaf Black Satin Brazilian	3
+147	Organic Decaf Sidamo Sumatran	4
+194	Organic Decaf AA Malian	4
+163	Organic Decaf Sidamo Sumatran	4
+164	Organic Decaf Honey Burst Indian	4
+88	Organic Honey Burst Bolivian	1
+195	Organic Fair Trade AA Indian	1
+158	Organic Fair Trade Decaf Supremo Indian	3
+2	Fair Trade Honey Burst Peruvian	1
+166	Fair Trade AA Malian	1
+72	Decaf Reserve Peruvian	4
+62	Organic Fair Trade Decaf Mandheling Costa Rican	3
+138	Caturra Guatemalan	1
+181	Fair Trade Decaf Longberry Brazilian	3
+47	Organic Paradise Valley Sumatran	2
+4	Fair Trade Decaf Cuzcachapa Panamanian	2
+193	Black Satin Indian	4
+181	Decaf Swiss Water Bolivian	1
+91	Swiss Water Dominican	1
+184	Fair Trade Decaf Caturra Bolivian	2
+37	Organic Decaf Sidamo Sumatran	3
+3	Fair Trade Reserve Dominican	1
+139	Decaf Black Satin Balinese	4
+34	Organic Caturra Sumatran	2
+27	Fair Trade Decaf AA Indian	4
+195	Black Satin Indian	1
+124	Fair Trade Honey Burst Peruvian	1
+145	Fair Trade Decaf Swiss Water Sumatran	2
+92	Fair Trade Decaf Paradise Valley Peruvian	3
+145	Decaf Caturra Guatemalan	4
+143	Decaf Honey Burst Salvadorean	3
+47	Organic Decaf Supremo Panamanian	2
+97	Organic Fair Trade Decaf Reserve Panamanian	3
+170	Organic Longberry Malian	1
+66	Supremo Kenyan	3
+84	Organic Decaf AA Brazilian	4
+87	Fair Trade Sidamo Peruvian	1
+112	Organic Fair Trade Cuzcachapa Mexican	1
+187	Fair Trade Honey Burst Peruvian	1
+128	Decaf Supremo Dominican	4
+71	Organic Longberry Bolivian	3
+116	Fair Trade Decaf Peaberry Indian	4
+153	Sidamo Panamanian	4
+146	Longberry Ethiopian	1
+121	Organic AA Indian	1
+195	Organic Fair Trade Decaf Swiss Water Malian	4
+143	Organic Fair Trade Decaf Paradise Valley Malian	2
+158	Organic Fair Trade Decaf Caturra Peruvian	3
+98	Fair Trade Peaberry Malian	1
+19	Decaf Black Satin Bolivian	2
+196	Organic Fair Trade Decaf Paradise Valley Panamanian	3
+196	Organic Swiss Water Kenyan	1
+136	Fair Trade Honey Burst Kenyan	3
+149	Organic Paradise Valley Sumatran	1
+55	Organic Fair Trade Honey Burst Balinese	1
+163	Paradise Valley Bolivian	1
+160	Decaf AA Guatemalan	2
+85	Honey Burst Dominican	1
+175	Decaf Cuzcachapa Brazilian	2
+169	Decaf Black Satin Bolivian	1
+102	Fair Trade Decaf Swiss Water Malian	4
+132	Organic Fair Trade Decaf Black Satin Panamanian	4
+18	Organic Fair Trade Decaf Reserve Ethiopian	2
+165	Organic Fair Trade Cuzcachapa Mexican	3
+142	Organic Decaf Black Satin Brazilian	3
+169	AA Ethiopian	1
+80	Decaf Cuzcachapa Dominican	3
+141	Fair Trade Peaberry Malian	4
+152	Organic Fair Trade Decaf Reserve Ethiopian	3
+169	Cuzcachapa Balinese	1
+193	Organic Fair Trade Decaf Reserve Panamanian	1
+151	Organic Decaf Sidamo Sumatran	3
+14	Honey Burst Dominican	1
+8	Fair Trade Supremo Dominican	1
+39	Organic Decaf Peaberry Brazilian	2
+168	Organic Decaf Caturra Panamanian	4
+128	Longberry Brazilian	4
+197	Organic Fair Trade Sidamo Dominican	3
+2	Decaf Cuzcachapa Kenyan	3
+6	Organic Decaf Cuzcachapa Panamanian	4
+178	Organic Fair Trade Mandheling Guatemalan	1
+122	Organic Decaf Sidamo Balinese	3
+59	Decaf Paradise Valley Indian	5
+146	Fair Trade Sidamo Salvadorean	3
+120	Fair Trade Decaf Caturra Bolivian	2
+116	Decaf Caturra Guatemalan	2
+146	Paradise Valley Bolivian	1
+45	Organic Fair Trade Peaberry Bolivian	1
+5	Decaf Black Satin Bolivian	4
+164	Fair Trade Decaf Swiss Water Sumatran	1
+87	Organic Fair Trade Decaf Reserve Ethiopian	3
+12	Decaf Honey Burst Kenyan	3
+143	Organic Fair Trade Decaf Honey Burst Kenyan	2
+195	Organic Decaf Peaberry Brazilian	2
+63	Decaf Black Satin Balinese	1
+49	Caturra Guatemalan	1
+144	Fair Trade Decaf Peaberry Salvadorean	2
+155	Supremo Salvadorean	1
+73	Peaberry Salvadorean	1
+134	Reserve Salvadorean	1
+134	Organic Decaf Sidamo Panamanian	2
+128	Organic Peaberry Panamanian	3
+164	Organic Fair Trade Decaf Paradise Valley Malian	2
+159	Fair Trade Reserve Balinese	2
+62	Decaf Swiss Water Dominican	4
+151	Cuzcachapa Sumatran	1
+79	Organic Decaf Swiss Water Indian	4
+35	Fair Trade Decaf Cuzcachapa Sumatran	2
+51	Fair Trade Cuzcachapa Costa Rican	3
+48	Decaf Honey Burst Kenyan	3
+52	Fair Trade Decaf Cuzcachapa Panamanian	2
+91	Organic Paradise Valley Balinese	1
+137	Organic Paradise Valley Sumatran	1
+2	Fair Trade Supremo Dominican	1
+83	Decaf Swiss Water Guatemalan	3
+180	Organic Fair Trade Decaf Supremo Malian	5
+88	Decaf Cuzcachapa Dominican	4
+161	Organic Decaf Sidamo Balinese	3
+192	Organic Decaf Cuzcachapa Malian	1
+14	Fair Trade Sidamo Bolivian	3
+193	Organic Decaf AA Balinese	3
+10	Organic Swiss Water Indian	1
+5	Mandheling Peruvian	1
+31	Organic Fair Trade Decaf Longberry Bolivian	2
+101	AA Ethiopian	1
+138	Organic Fair Trade Black Satin Salvadorean	1
+41	Decaf Black Satin Balinese	4
+142	AA Ethiopian	1
+166	Organic Decaf Caturra Costa Rican	4
+117	Decaf Caturra Guatemalan	3
+3	Decaf Honey Burst Balinese	3
+107	Organic Fair Trade AA Balinese	1
+38	Fair Trade Paradise Valley Ethiopian	4
+79	Cuzcachapa Balinese	1
+38	Organic Fair Trade AA Indian	3
+165	Decaf Peaberry Indian	2
+163	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+82	Paradise Valley Bolivian	2
+32	Organic Paradise Valley Balinese	1
+90	Organic Fair Trade AA Balinese	1
+9	Decaf Paradise Valley Salvadorean	1
+1	Organic Decaf Reserve Peruvian	2
+106	Organic Decaf Caturra Kenyan	5
+114	Organic Decaf Sidamo Balinese	4
+68	Organic Peaberry Brazilian	3
+79	Organic Fair Trade Decaf Mandheling Balinese	2
+198	Decaf Cuzcachapa Kenyan	2
+193	AA Ethiopian	4
+192	Organic Honey Burst Indian	1
+38	Organic Decaf Sidamo Sumatran	1
+1	Decaf Honey Burst Kenyan	1
+106	Decaf Honey Burst Salvadorean	4
+4	Organic Fair Trade Decaf Swiss Water Malian	3
+114	Mandheling Peruvian	1
+79	Organic Fair Trade Black Satin Salvadorean	1
+20	Organic AA Indian	1
+105	Fair Trade Caturra Salvadorean	1
+93	Organic Paradise Valley Balinese	1
+121	Organic Fair Trade Decaf Swiss Water Malian	2
+199	Organic Decaf Reserve Balinese	3
+135	Organic Fair Trade Decaf Black Satin Salvadorean	3
+173	Fair Trade Decaf Paradise Valley Peruvian	4
+198	Organic Fair Trade Decaf Black Satin Balinese	5
+81	Organic Fair Trade Decaf Mandheling Balinese	3
+135	Organic Decaf Honey Burst Brazilian	1
+100	Organic Decaf Peaberry Brazilian	4
+160	Decaf Black Satin Balinese	2
+89	Organic Paradise Valley Sumatran	1
+26	Organic Fair Trade Decaf Longberry Bolivian	4
+72	Decaf Longberry Panamanian	4
+141	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+127	Organic Paradise Valley Sumatran	4
+159	Decaf Longberry Panamanian	4
+42	Organic Decaf Longberry Costa Rican	2
+33	Organic Decaf Honey Burst Indian	4
+130	Fair Trade Decaf Swiss Water Malian	4
+34	Organic Fair Trade Decaf Supremo Indian	4
+155	Cuzcachapa Costa Rican	1
+70	Organic Fair Trade Mandheling Guatemalan	4
+41	Decaf AA Ethiopian	4
+169	Organic Fair Trade Decaf Longberry Bolivian	4
+124	Decaf Swiss Water Dominican	2
+145	Organic Fair Trade Paradise Valley Indian	1
+48	Decaf Reserve Bolivian	3
+42	Decaf Longberry Panamanian	1
+99	Fair Trade Cuzcachapa Costa Rican	3
+62	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+145	Decaf Cuzcachapa Kenyan	4
+67	Fair Trade Sidamo Salvadorean	1
+125	Fair Trade Decaf Cuzcachapa Sumatran	2
+196	Organic Decaf Swiss Water Kenyan	1
+104	Longberry Brazilian	2
+72	Organic Fair Trade Decaf Black Satin Panamanian	1
+2	Organic Fair Trade Black Satin Salvadorean	1
+164	Fair Trade Decaf Peaberry Guatemalan	1
+51	Supremo Salvadorean	1
+168	Organic Fair Trade Caturra Kenyan	2
+125	Decaf Supremo Dominican	4
+65	Organic Fair Trade Decaf Black Satin Bolivian	4
+176	Fair Trade Reserve Balinese	1
+42	Organic Fair Trade Peaberry Bolivian	4
+125	Decaf Swiss Water Guatemalan	4
+148	Organic Fair Trade Peaberry Bolivian	2
+69	Organic Cuzcachapa Panamanian	1
+63	Organic Decaf AA Balinese	2
+53	Cuzcachapa Balinese	2
+168	Decaf AA Guatemalan	3
+144	Fair Trade Reserve Dominican	1
+128	Organic Decaf Swiss Water Indian	3
+100	Fair Trade Swiss Water Sumatran	1
+89	Organic Decaf AA Brazilian	1
+161	Decaf Black Satin Malian	4
+33	Organic Longberry Guatemalan	4
+188	Organic Decaf Peaberry Brazilian	4
+191	Organic Fair Trade Peaberry Ethiopian	1
+143	Decaf Reserve Bolivian	3
+144	Organic Fair Trade Sidamo Dominican	1
+146	Fair Trade Reserve Dominican	3
+150	Organic Fair Trade Decaf Reserve Ethiopian	2
+162	Organic Fair Trade Decaf Black Satin Panamanian	2
+31	Decaf Caturra Salvadorean	5
+94	Organic Supremo Brazilian	4
+116	Organic Swiss Water Indian	1
+157	Supremo Kenyan	2
+143	Organic Decaf Honey Burst Brazilian	4
+140	Fair Trade Sidamo Peruvian	1
+104	Organic Decaf Paradise Valley Sumatran	1
+175	Decaf Honey Burst Kenyan	2
+56	Organic Cuzcachapa Panamanian	2
+49	Organic Supremo Bolivian	2
+122	Decaf Black Satin Balinese	4
+137	Supremo Brazilian	1
+103	Fair Trade Supremo Sumatran	1
+122	Fair Trade Decaf Swiss Water Peruvian	2
+170	Fair Trade Peaberry Salvadorean	1
+112	Organic Fair Trade Cuzcachapa Mexican	1
+95	Organic Decaf Sidamo Sumatran	3
+162	Organic Decaf Caturra Costa Rican	4
+123	Organic Fair Trade AA Balinese	2
+129	Organic Decaf Swiss Water Kenyan	1
+56	Organic Decaf Sidamo Sumatran	2
+115	Decaf Supremo Mexican	3
+14	Organic Honey Burst Bolivian	2
+8	Organic Longberry Bolivian	1
+100	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+74	Organic Decaf Sidamo Sumatran	1
+144	Organic Decaf Swiss Water Kenyan	5
+36	Organic Fair Trade AA Balinese	1
+61	Organic Fair Trade Sidamo Costa Rican	1
+153	Organic Fair Trade AA Indian	1
+172	Organic Longberry Guatemalan	1
+30	Fair Trade Caturra Salvadorean	3
+46	Organic Caturra Indian	4
+58	Fair Trade Decaf Sidamo Peruvian	4
+82	Organic Swiss Water Kenyan	1
+49	Organic Fair Trade AA Indian	4
+135	Mandheling Peruvian	2
+74	Fair Trade Supremo Sumatran	4
+63	Organic Caturra Indian	2
+155	Organic Decaf Paradise Valley Sumatran	2
+140	Organic Fair Trade Sidamo Dominican	1
+101	Mandheling Sumatran	1
+175	Organic Fair Trade AA Indian	3
+3	Organic Fair Trade Supremo Mexican	1
+23	Longberry Brazilian	4
+33	Organic Decaf Caturra Kenyan	4
+126	Organic Fair Trade Caturra Malian	1
+136	Organic Fair Trade Peaberry Mexican	4
+103	Organic Fair Trade Caturra Kenyan	2
+30	Organic Longberry Bolivian	2
+46	Fair Trade Decaf Sidamo Sumatran	1
+6	Supremo Kenyan	1
+57	Fair Trade Peaberry Salvadorean	1
+107	Decaf Caturra Guatemalan	2
+85	Organic Decaf Reserve Balinese	2
+118	Fair Trade Decaf Sidamo Panamanian	4
+150	Organic Honey Burst Bolivian	4
+72	Organic Honey Burst Salvadorean	3
+148	Organic Caturra Dominican	4
+27	Decaf Honey Burst Kenyan	2
+57	Organic Fair Trade Peaberry Ethiopian	1
+107	Organic Fair Trade Peaberry Bolivian	1
+99	Decaf Swiss Water Bolivian	1
+85	Organic Decaf Paradise Valley Sumatran	2
+111	Organic Fair Trade Decaf Supremo Panamanian	2
+114	Mandheling Sumatran	1
+148	Decaf Swiss Water Dominican	3
+134	Fair Trade Peaberry Malian	1
+8	Peaberry Indian	1
+37	Organic Fair Trade Decaf Longberry Bolivian	5
+68	Fair Trade Sidamo Salvadorean	2
+157	Fair Trade Decaf Paradise Valley Brazilian	4
+47	Decaf Cuzcachapa Dominican	1
+146	Fair Trade Decaf Mandheling Dominican	3
+113	Organic Peaberry Peruvian	1
+122	Organic Fair Trade Decaf Reserve Ethiopian	1
+159	Organic Supremo Brazilian	3
+96	Fair Trade Swiss Water Sumatran	1
+196	Organic Longberry Guatemalan	1
+65	Organic Paradise Valley Ethiopian	2
+0	Organic AA Indian	1
+100	Fair Trade Decaf Paradise Valley Brazilian	3
+61	Fair Trade Decaf Black Satin Peruvian	2
+38	Fair Trade Decaf Peaberry Indian	4
+44	Cuzcachapa Sumatran	1
+82	Decaf Black Satin Balinese	2
+159	Decaf Paradise Valley Indian	4
+151	Fair Trade Decaf Paradise Valley Brazilian	4
+104	Fair Trade Cuzcachapa Costa Rican	4
+176	Organic Decaf Sidamo Balinese	2
+184	Decaf Supremo Dominican	4
+94	Decaf Honey Burst Kenyan	3
+182	Decaf Longberry Panamanian	2
+40	Fair Trade Decaf Peaberry Salvadorean	2
+28	Organic Fair Trade Decaf Caturra Peruvian	2
+198	Organic Swiss Water Indian	1
+33	Organic Fair Trade Peaberry Mexican	2
+66	Organic Decaf Black Satin Dominican	4
+12	Organic Sidamo Costa Rican	1
+20	Organic Decaf Paradise Valley Ethiopian	5
+61	Organic Longberry Bolivian	1
+89	Organic Fair Trade Decaf Caturra Peruvian	3
+30	Longberry Ethiopian	1
+133	Decaf Swiss Water Bolivian	3
+168	Organic Fair Trade AA Balinese	2
+27	Decaf Swiss Water Dominican	2
+135	Decaf Swiss Water Bolivian	2
+117	Fair Trade Honey Burst Peruvian	1
+7	AA Ethiopian	1
+154	Decaf Supremo Dominican	1
+49	Decaf Honey Burst Kenyan	1
+3	Decaf Caturra Salvadorean	3
+77	Organic Cuzcachapa Brazilian	1
+70	Reserve Salvadorean	1
+89	AA Ethiopian	2
+41	Sidamo Panamanian	1
+14	Organic Decaf Honey Burst Indian	2
+181	Organic Decaf Paradise Valley Brazilian	2
+134	Organic AA Indian	1
+173	Fair Trade Decaf Peaberry Salvadorean	4
+86	Decaf Longberry Panamanian	1
+119	Organic Fair Trade AA Bolivian	1
+186	Organic Longberry Bolivian	2
+192	Decaf Cuzcachapa Brazilian	2
+128	Organic Fair Trade Caturra Malian	1
+78	Organic Swiss Water Kenyan	1
+118	Reserve Salvadorean	1
+52	Caturra Guatemalan	1
+43	Organic Supremo Brazilian	1
+62	Organic Fair Trade Decaf Swiss Water Malian	3
+107	Organic Decaf Paradise Valley Brazilian	3
+40	Decaf AA Guatemalan	4
+165	Fair Trade Sidamo Peruvian	4
+183	Organic Fair Trade Black Satin Salvadorean	2
+7	Organic Decaf Paradise Valley Brazilian	5
+35	Organic Fair Trade Sidamo Costa Rican	1
+195	Organic Fair Trade Decaf Mandheling Costa Rican	4
+175	Organic Supremo Bolivian	1
+49	Mandheling Peruvian	1
+186	Decaf Honey Burst Balinese	1
+78	Decaf Cuzcachapa Kenyan	2
+90	Organic Swiss Water Indian	1
+166	Fair Trade Decaf Peaberry Guatemalan	1
+115	Fair Trade Reserve Dominican	1
+119	Organic Fair Trade Supremo Mexican	1
+70	Supremo Kenyan	1
+185	Organic Fair Trade Sidamo Dominican	1
+94	Fair Trade Sidamo Salvadorean	1
+126	Mandheling Peruvian	4
+127	Decaf Swiss Water Bolivian	3
+128	Fair Trade Decaf Sidamo Panamanian	2
+102	Organic Decaf AA Brazilian	1
+48	Fair Trade Decaf Supremo Balinese	1
+120	Fair Trade Sidamo Bolivian	1
+15	Organic Fair Trade Peaberry Mexican	1
+91	Swiss Water Dominican	1
+102	Fair Trade Caturra Salvadorean	4
+192	Organic Decaf Supremo Panamanian	1
+18	Organic Honey Burst Bolivian	1
+37	Organic AA Indian	1
+153	Organic Fair Trade Decaf Paradise Valley Kenyan	1
+85	Organic Paradise Valley Bolivian	2
+48	Decaf Swiss Water Guatemalan	3
+27	Decaf Reserve Bolivian	2
+137	Decaf Cuzcachapa Balinese	2
+189	Organic Fair Trade Decaf Supremo Panamanian	2
+103	Organic Decaf AA Guatemalan	4
+169	Organic Fair Trade Decaf Swiss Water Salvadorean	4
+55	Organic Supremo Peruvian	1
+50	Organic Longberry Malian	2
+8	Organic Decaf Reserve Peruvian	4
+140	Organic Decaf Paradise Valley Sumatran	4
+115	Organic Decaf Mandheling Costa Rican	4
+18	Organic Fair Trade Supremo Mexican	1
+28	Fair Trade Decaf Sidamo Peruvian	1
+144	Organic Decaf Sidamo Panamanian	5
+125	Organic Fair Trade Honey Burst Balinese	1
+118	Decaf Swiss Water Guatemalan	2
+193	Organic Fair Trade Decaf Black Satin Bolivian	1
+99	Organic Decaf Caturra Panamanian	2
+99	Decaf Cuzcachapa Balinese	1
+143	Organic Sidamo Malian	4
+65	Decaf Honey Burst Kenyan	1
+145	Organic Fair Trade Sidamo Costa Rican	1
+36	Organic AA Indian	1
+168	Organic Fair Trade Decaf Caturra Dominican	2
+49	Fair Trade Supremo Dominican	3
+18	Organic Paradise Valley Sumatran	1
+78	Organic Paradise Valley Ethiopian	1
+8	Organic Fair Trade AA Balinese	1
+162	Organic Sidamo Costa Rican	4
+91	Organic Decaf Reserve Balinese	3
+76	Organic Fair Trade Caturra Malian	4
+160	Organic Swiss Water Indian	1
+196	Cuzcachapa Balinese	2
+84	Organic AA Indian	1
+58	Organic Decaf Paradise Valley Ethiopian	3
+90	Caturra Guatemalan	1
+14	Supremo Kenyan	1
+58	Decaf Paradise Valley Salvadorean	2
+107	Decaf Paradise Valley Indian	2
+15	Fair Trade Peaberry Malian	1
+182	Fair Trade Decaf Cuzcachapa Panamanian	4
+145	Organic Honey Burst Salvadorean	1
+2	Organic Decaf Black Satin Dominican	2
+193	Fair Trade Decaf Supremo Guatemalan	2
+47	Organic Fair Trade Decaf Longberry Bolivian	4
+114	Fair Trade Sidamo Salvadorean	1
+143	Cuzcachapa Balinese	3
+131	Organic Fair Trade Peaberry Bolivian	1
+65	Organic Decaf Cuzcachapa Malian	2
+145	Fair Trade Sidamo Peruvian	1
+38	Organic Fair Trade Decaf Reserve Panamanian	3
+180	Fair Trade Decaf Sidamo Peruvian	4
+67	Peaberry Indian	1
+46	Decaf Reserve Peruvian	3
+15	Organic Swiss Water Indian	1
+184	Fair Trade Decaf Peaberry Indian	2
+25	Organic Fair Trade Decaf Swiss Water Salvadorean	5
+81	Fair Trade Decaf Swiss Water Peruvian	2
+10	Decaf Black Satin Bolivian	3
+100	Fair Trade Cuzcachapa Costa Rican	1
+155	Fair Trade Supremo Sumatran	3
+31	Decaf Peaberry Indian	5
+130	Organic Fair Trade Decaf Black Satin Panamanian	3
+71	Decaf Swiss Water Bolivian	4
+157	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+73	Organic Supremo Brazilian	2
+9	Fair Trade Decaf Supremo Guatemalan	3
+37	Organic Decaf Sidamo Balinese	3
+64	Decaf Paradise Valley Indian	2
+10	Organic Fair Trade Decaf Caturra Dominican	4
+185	Organic Fair Trade Decaf Swiss Water Malian	2
+137	Sidamo Panamanian	1
+89	Fair Trade Sidamo Salvadorean	4
+81	Organic Decaf Paradise Valley Sumatran	5
+132	Organic Decaf Caturra Costa Rican	2
+109	Decaf Paradise Valley Salvadorean	2
+40	Organic Caturra Indian	1
+130	Organic Decaf Cuzcachapa Malian	1
+140	Organic Fair Trade Paradise Valley Indian	1
+120	Organic Cuzcachapa Panamanian	1
+71	Organic Longberry Sumatran	3
+165	Fair Trade Peaberry Salvadorean	4
+39	Organic Cuzcachapa Panamanian	2
+168	Organic Honey Burst Indian	4
+173	Organic Sidamo Costa Rican	1
+70	Organic Fair Trade Decaf Swiss Water Salvadorean	4
+173	Organic Fair Trade Decaf Mandheling Costa Rican	3
+156	Organic Fair Trade Supremo Mexican	1
+2	Reserve Salvadorean	1
+60	Organic Decaf Supremo Panamanian	4
+89	Fair Trade Decaf Paradise Valley Brazilian	4
+166	Fair Trade Decaf AA Indian	1
+195	Organic Fair Trade Sidamo Dominican	1
+102	Organic Fair Trade Decaf Black Satin Panamanian	3
+143	Organic Fair Trade Decaf Black Satin Brazilian	2
+78	Fair Trade Decaf Honey Burst Brazilian	4
+193	Organic Fair Trade Decaf Black Satin Brazilian	1
+42	Organic Fair Trade Peaberry Guatemalan	4
+137	Organic Fair Trade Decaf Mandheling Balinese	5
+107	Organic Decaf Honey Burst Indian	3
+8	Organic Decaf Supremo Panamanian	4
+50	Decaf Honey Burst Kenyan	1
+105	Cuzcachapa Balinese	1
+50	Decaf Reserve Peruvian	1
+77	Decaf AA Guatemalan	3
+131	Honey Burst Dominican	1
+47	Decaf Supremo Mexican	1
+195	Organic Fair Trade Decaf Supremo Malian	4
+74	Organic Decaf AA Brazilian	1
+19	Supremo Brazilian	1
+14	Organic Fair Trade Peaberry Mexican	4
+169	Organic Decaf Peaberry Brazilian	2
+42	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+14	Organic Fair Trade Decaf Black Satin Brazilian	4
+135	Organic Fair Trade Peaberry Mexican	3
+112	Organic Decaf Honey Burst Brazilian	3
+101	Fair Trade Supremo Dominican	3
+8	Decaf Caturra Guatemalan	5
+139	Decaf Caturra Guatemalan	4
+158	Fair Trade Honey Burst Peruvian	4
+123	Organic Fair Trade Decaf Black Satin Panamanian	2
+93	Organic Fair Trade Black Satin Salvadorean	1
+0	Decaf AA Guatemalan	2
+8	Fair Trade Supremo Dominican	1
+20	Organic Swiss Water Indian	1
+164	Reserve Salvadorean	3
+120	Organic Decaf AA Guatemalan	5
+29	Decaf Swiss Water Dominican	3
+30	Fair Trade Decaf Sidamo Sumatran	3
+11	Organic Fair Trade Peaberry Mexican	1
+133	Organic Paradise Valley Balinese	1
+56	Mandheling Sumatran	1
+190	Organic Fair Trade Decaf Black Satin Panamanian	5
+159	Organic Fair Trade Decaf Swiss Water Peruvian	1
+86	Organic Sidamo Malian	2
+8	Organic Fair Trade Decaf Swiss Water Malian	2
+21	Fair Trade Decaf Sidamo Panamanian	2
+0	Organic Paradise Valley Ethiopian	1
+43	Decaf Cuzcachapa Kenyan	2
+79	Organic Decaf Reserve Balinese	4
+82	Cuzcachapa Costa Rican	2
+42	Organic Paradise Valley Sumatran	2
+181	Fair Trade Honey Burst Kenyan	3
+37	Fair Trade Sidamo Bolivian	1
+96	Decaf Supremo Dominican	4
+163	Fair Trade Swiss Water Sumatran	1
+36	Organic Decaf Paradise Valley Brazilian	4
+178	Organic Fair Trade Paradise Valley Indian	1
+39	Organic Sidamo Costa Rican	2
+75	Fair Trade Sidamo Salvadorean	1
+41	Organic Decaf Supremo Panamanian	5
+168	Honey Burst Sumatran	3
+102	Organic Cuzcachapa Brazilian	1
+189	Organic Paradise Valley Sumatran	1
+188	Black Satin Indian	3
+131	Longberry Brazilian	1
+136	Honey Burst Sumatran	1
+50	Organic Fair Trade Black Satin Salvadorean	4
+50	Organic Decaf Sidamo Balinese	2
+82	Organic Decaf AA Balinese	1
+71	Fair Trade Sidamo Salvadorean	2
+143	Fair Trade Peaberry Salvadorean	1
+126	Organic Decaf Reserve Peruvian	3
+120	Organic Decaf Supremo Panamanian	5
+50	Fair Trade Peaberry Salvadorean	3
+186	Organic Fair Trade Peaberry Bolivian	4
+134	Fair Trade Caturra Salvadorean	1
+59	Fair Trade Decaf Longberry Brazilian	3
+6	Fair Trade Honey Burst Peruvian	1
+10	Organic Fair Trade Black Satin Salvadorean	1
+194	Fair Trade Peaberry Salvadorean	1
+39	Organic Decaf Longberry Costa Rican	2
+143	Organic Fair Trade Swiss Water Peruvian	2
+17	Black Satin Indian	4
+104	Organic Decaf Sidamo Balinese	1
+127	Organic Decaf Sidamo Panamanian	4
+144	Organic Fair Trade Honey Burst Balinese	1
+85	Organic Paradise Valley Sumatran	2
+181	Fair Trade Decaf Cuzcachapa Panamanian	3
+105	Organic Decaf Mandheling Costa Rican	3
+157	Decaf Longberry Panamanian	2
+8	Mandheling Sumatran	1
+16	Organic Longberry Bolivian	1
+161	Fair Trade Decaf AA Indian	2
+37	Organic Decaf Honey Burst Brazilian	3
+163	Organic Decaf Reserve Balinese	4
+51	Organic Fair Trade Mandheling Guatemalan	4
+46	Organic Decaf Cuzcachapa Panamanian	4
+30	Organic Fair Trade Black Satin Salvadorean	4
+24	Organic Decaf Sidamo Sumatran	3
+2	Mandheling Peruvian	1
+45	Organic Fair Trade Decaf Longberry Bolivian	2
+34	Swiss Water Dominican	1
+121	Organic Fair Trade Decaf Longberry Bolivian	2
+129	Organic Decaf Reserve Peruvian	1
+46	Supremo Salvadorean	3
+113	Fair Trade Paradise Valley Ethiopian	1
+106	Fair Trade Decaf Cuzcachapa Panamanian	2
+110	Decaf Cuzcachapa Kenyan	4
+69	Fair Trade Decaf Cuzcachapa Panamanian	4
+55	Longberry Ethiopian	1
+3	Organic Honey Burst Bolivian	1
+154	Organic Decaf Reserve Peruvian	2
+53	Decaf Black Satin Balinese	2
+23	Decaf Honey Burst Kenyan	4
+65	Organic Peaberry Panamanian	2
+59	Organic Decaf Paradise Valley Sumatran	4
+99	Fair Trade Decaf Cuzcachapa Sumatran	3
+161	Decaf Black Satin Bolivian	4
+168	Fair Trade Decaf AA Indian	1
+198	Fair Trade Decaf Honey Burst Brazilian	4
+35	Decaf Paradise Valley Indian	4
+53	Decaf Paradise Valley Salvadorean	2
+31	Organic Decaf Paradise Valley Dominican	4
+108	Fair Trade Peaberry Malian	3
+27	Decaf Reserve Indian	2
+14	Mandheling Peruvian	1
+153	Organic Decaf Cuzcachapa Malian	3
+3	Organic Fair Trade Decaf Swiss Water Peruvian	4
+179	Organic Decaf Swiss Water Kenyan	2
+179	Organic Fair Trade Decaf Mandheling Costa Rican	4
+146	Fair Trade Decaf Peaberry Salvadorean	3
+130	Organic Fair Trade Mandheling Guatemalan	3
+87	Decaf Reserve Peruvian	4
+196	Decaf Supremo Dominican	2
+105	Fair Trade Decaf AA Indian	4
+163	Mandheling Peruvian	1
+106	Decaf Paradise Valley Indian	4
+135	Fair Trade Decaf Swiss Water Peruvian	4
+141	Decaf Reserve Bolivian	2
+177	Organic Cuzcachapa Panamanian	1
+165	Decaf Swiss Water Dominican	2
+36	Fair Trade AA Malian	1
+194	Fair Trade Sidamo Bolivian	1
+165	Decaf Cuzcachapa Brazilian	2
+114	Decaf Black Satin Balinese	5
+13	Organic Supremo Bolivian	2
+100	Organic Fair Trade Caturra Kenyan	1
+163	Organic Decaf Caturra Kenyan	4
+151	Organic Sidamo Costa Rican	1
+114	Organic AA Indian	1
+61	Fair Trade Honey Burst Peruvian	1
+70	Organic Paradise Valley Bolivian	2
+179	Organic Fair Trade Decaf Supremo Indian	4
+199	Decaf Honey Burst Balinese	2
+60	Fair Trade Cuzcachapa Costa Rican	1
+131	Organic Fair Trade Honey Burst Balinese	1
+105	Organic Longberry Guatemalan	1
+195	Organic Longberry Malian	1
+72	Fair Trade Reserve Balinese	2
+24	Organic Decaf Sidamo Sumatran	3
+160	Decaf Longberry Panamanian	2
+19	Organic Decaf Reserve Ethiopian	3
+7	Fair Trade Sidamo Salvadorean	1
+92	Organic Decaf AA Balinese	2
+4	Decaf Reserve Bolivian	4
+73	Organic Cuzcachapa Panamanian	2
+70	Decaf Reserve Peruvian	1
+102	Decaf Swiss Water Guatemalan	2
+181	Organic Fair Trade Decaf Black Satin Salvadorean	4
+129	Peaberry Costa Rican	2
+138	AA Ethiopian	1
+131	Fair Trade Decaf AA Indian	4
+14	Organic Decaf Caturra Kenyan	2
+164	Decaf Caturra Guatemalan	3
+121	Fair Trade Decaf Paradise Valley Peruvian	3
+199	Decaf Black Satin Malian	2
+50	Organic Fair Trade Peaberry Bolivian	4
+97	Organic Decaf Caturra Costa Rican	1
+152	Cuzcachapa Sumatran	1
+163	Organic Fair Trade Peaberry Ethiopian	1
+38	Decaf Honey Burst Salvadorean	2
+43	Longberry Brazilian	1
+175	Fair Trade Decaf Swiss Water Malian	4
+142	Organic Fair Trade Mandheling Guatemalan	1
+147	Fair Trade Honey Burst Kenyan	1
+14	Decaf Cuzcachapa Dominican	1
+7	Fair Trade AA Malian	1
+39	Organic Fair Trade Decaf Honey Burst Kenyan	4
+55	Organic Fair Trade AA Indian	1
+5	Fair Trade Sidamo Salvadorean	1
+174	Organic Fair Trade Caturra Kenyan	1
+139	Organic Decaf Swiss Water Kenyan	3
+154	Decaf Cuzcachapa Dominican	1
+133	Organic Swiss Water Kenyan	1
+87	Fair Trade Decaf Paradise Valley Peruvian	2
+98	Organic Fair Trade Decaf Caturra Dominican	3
+98	Organic Peaberry Peruvian	1
+21	Organic Decaf AA Malian	3
+173	Decaf Swiss Water Guatemalan	2
+84	Organic Fair Trade Caturra Kenyan	1
+2	Fair Trade Swiss Water Sumatran	1
+184	Organic Decaf Caturra Costa Rican	3
+146	Organic Fair Trade Decaf Honey Burst Kenyan	4
+130	Fair Trade Supremo Dominican	4
+11	Decaf Black Satin Balinese	5
+39	Fair Trade Decaf Longberry Brazilian	3
+163	Organic Decaf Cuzcachapa Malian	4
+185	Organic AA Peruvian	1
+176	Fair Trade Decaf Supremo Balinese	5
+45	Organic Longberry Malian	1
+8	Decaf AA Ethiopian	5
+98	Paradise Valley Bolivian	1
+120	Fair Trade Decaf Sidamo Peruvian	2
+92	Organic Fair Trade AA Bolivian	4
+21	Fair Trade Decaf Paradise Valley Brazilian	2
+119	Fair Trade Reserve Balinese	1
+24	Organic Decaf Swiss Water Indian	3
+12	Organic Decaf Reserve Balinese	2
+163	Fair Trade Sidamo Bolivian	1
+83	Fair Trade Supremo Sumatran	1
+78	Decaf Black Satin Malian	2
+143	Organic Fair Trade AA Bolivian	2
+189	Peaberry Costa Rican	1
+38	Mandheling Peruvian	2
+189	Mandheling Peruvian	1
+18	Organic Decaf Peaberry Brazilian	4
+129	Organic Decaf AA Balinese	1
+132	Organic Longberry Bolivian	2
+176	Fair Trade Decaf Sidamo Sumatran	5
+59	Fair Trade Decaf Peaberry Indian	3
+21	Decaf AA Guatemalan	4
+131	Peaberry Costa Rican	1
+6	Decaf Reserve Bolivian	5
+94	Organic Decaf Reserve Peruvian	4
+75	Organic Fair Trade Sidamo Dominican	1
+128	Organic Fair Trade Decaf Black Satin Panamanian	1
+46	Fair Trade Decaf Sidamo Sumatran	1
+114	Decaf Cuzcachapa Kenyan	5
+31	Organic Decaf Sidamo Panamanian	4
+116	Decaf Caturra Salvadorean	2
+108	Fair Trade Decaf Caturra Bolivian	3
+16	Fair Trade Decaf Paradise Valley Brazilian	2
+114	Organic Fair Trade Decaf Paradise Valley Malian	2
+61	Organic Fair Trade Caturra Kenyan	1
+62	Peaberry Salvadorean	1
+79	Fair Trade Supremo Sumatran	1
+18	Fair Trade Decaf Swiss Water Peruvian	3
+84	Decaf Peaberry Indian	5
+169	Organic Fair Trade Decaf Supremo Malian	4
+122	Organic Supremo Peruvian	3
+46	Organic Fair Trade Black Satin Salvadorean	2
+75	Organic Fair Trade Sidamo Dominican	1
+118	Organic Fair Trade Decaf Reserve Panamanian	5
+187	Decaf Cuzcachapa Brazilian	3
+97	Organic Fair Trade Decaf Supremo Malian	3
+199	Organic Cuzcachapa Brazilian	1
+102	Organic Decaf Sidamo Panamanian	1
+138	Organic Longberry Guatemalan	1
+182	Fair Trade Decaf Peaberry Guatemalan	4
+118	Organic Honey Burst Indian	1
+195	Decaf Black Satin Malian	3
+117	Decaf Reserve Indian	3
+184	Fair Trade Decaf Supremo Guatemalan	2
+62	Fair Trade Honey Burst Peruvian	1
+53	Organic Honey Burst Bolivian	1
+177	Organic Fair Trade Sidamo Dominican	1
+112	Fair Trade Decaf Black Satin Peruvian	2
+68	Organic Decaf Mandheling Costa Rican	3
+9	Organic Decaf Cuzcachapa Malian	2
+6	Decaf Supremo Dominican	5
+151	Supremo Brazilian	1
+110	Organic Fair Trade Decaf Black Satin Panamanian	3
+191	Fair Trade Decaf Honey Burst Brazilian	2
+50	Organic Longberry Sumatran	2
+160	Fair Trade Decaf Swiss Water Bolivian	4
+0	Decaf AA Guatemalan	2
+134	Black Satin Indian	1
+94	Organic Decaf Caturra Panamanian	4
+21	Organic Decaf AA Malian	3
+42	Organic Fair Trade Decaf Black Satin Balinese	4
+91	Reserve Salvadorean	1
+49	Organic Decaf Caturra Costa Rican	2
+151	Organic AA Peruvian	1
+161	Cuzcachapa Balinese	4
+71	Decaf Honey Burst Balinese	4
+53	Organic Caturra Sumatran	1
+93	Organic Decaf Paradise Valley Dominican	3
+24	Organic Fair Trade Decaf Supremo Panamanian	5
+75	Organic Fair Trade Decaf Black Satin Panamanian	2
+171	Organic Fair Trade Decaf Supremo Panamanian	2
+42	Fair Trade Sidamo Bolivian	3
+92	Organic Fair Trade Decaf Mandheling Balinese	4
+10	Organic Fair Trade Decaf Caturra Peruvian	4
+17	Organic Decaf Caturra Costa Rican	3
+1	AA Ethiopian	1
+50	Organic Decaf Caturra Kenyan	2
+69	Organic Caturra Indian	1
+35	Organic Fair Trade Supremo Balinese	1
+93	Organic Fair Trade Peaberry Guatemalan	1
+44	Organic Paradise Valley Sumatran	1
+111	Organic Fair Trade Peaberry Mexican	2
+35	Organic Decaf Reserve Ethiopian	5
+5	Organic Fair Trade Peaberry Ethiopian	1
+34	Organic Fair Trade Decaf Reserve Ethiopian	4
+59	Organic Fair Trade Decaf Black Satin Brazilian	2
+62	Organic Supremo Bolivian	1
+32	Fair Trade Decaf Mandheling Dominican	4
+22	Organic Paradise Valley Sumatran	1
+106	Fair Trade Sidamo Bolivian	1
+127	Organic Decaf Cuzcachapa Panamanian	4
+167	Decaf Honey Burst Balinese	4
+22	Cuzcachapa Costa Rican	1
+163	Fair Trade Decaf Peaberry Indian	3
+118	Decaf Supremo Mexican	2
+104	Decaf Cuzcachapa Balinese	2
+160	Honey Burst Dominican	2
+10	Organic Caturra Indian	1
+159	Fair Trade Swiss Water Sumatran	2
+111	Fair Trade Decaf Peaberry Guatemalan	1
+166	Organic Decaf AA Malian	4
+6	Organic Decaf AA Malian	4
+47	Decaf Honey Burst Salvadorean	1
+151	Swiss Water Dominican	1
+97	Fair Trade Decaf Peaberry Salvadorean	4
+127	Peaberry Indian	3
+46	Fair Trade Decaf Peaberry Guatemalan	1
+23	Decaf Honey Burst Balinese	4
+5	Fair Trade Decaf Peaberry Salvadorean	2
+54	Fair Trade Decaf Peaberry Indian	1
+174	Organic Fair Trade Decaf Black Satin Panamanian	1
+92	Decaf Swiss Water Dominican	1
+152	Fair Trade Supremo Sumatran	1
+20	Organic Fair Trade Paradise Valley Indian	1
+8	Decaf Longberry Panamanian	5
+2	Fair Trade Peaberry Salvadorean	1
+128	Organic Longberry Sumatran	3
+9	Organic Paradise Valley Balinese	2
+93	Organic Caturra Guatemalan	1
+14	Fair Trade Supremo Sumatran	3
+118	Organic Paradise Valley Sumatran	1
+26	Supremo Salvadorean	1
+136	Organic Decaf Swiss Water Indian	2
+137	Organic Fair Trade Decaf Caturra Dominican	5
+178	Fair Trade AA Malian	1
+118	Honey Burst Sumatran	1
+181	Organic Decaf Supremo Panamanian	2
+7	Organic Longberry Bolivian	1
+12	Caturra Guatemalan	1
+130	Fair Trade Decaf Caturra Bolivian	4
+171	Organic Decaf Paradise Valley Dominican	4
+180	Decaf Black Satin Balinese	2
+2	Organic Fair Trade Decaf Swiss Water Malian	4
+116	Organic AA Indian	1
+36	Organic Cuzcachapa Brazilian	1
+0	Organic Swiss Water Kenyan	1
+74	Decaf Cuzcachapa Kenyan	2
+35	Fair Trade Decaf Paradise Valley Brazilian	2
+103	Organic Decaf Honey Burst Indian	4
+97	Decaf Paradise Valley Indian	2
+7	Fair Trade Decaf Paradise Valley Brazilian	2
+99	Organic Fair Trade Cuzcachapa Mexican	4
+182	Organic Paradise Valley Balinese	1
+186	Decaf Reserve Indian	1
+99	Fair Trade Decaf Supremo Guatemalan	3
+197	Decaf AA Guatemalan	2
+38	Organic Decaf Longberry Costa Rican	1
+164	Fair Trade Decaf Peaberry Guatemalan	1
+127	Fair Trade Peaberry Salvadorean	1
+30	Organic Fair Trade Paradise Valley Indian	4
+6	Organic Supremo Brazilian	1
+7	Decaf Longberry Panamanian	4
+16	Organic Fair Trade Peaberry Guatemalan	1
+122	Fair Trade Supremo Sumatran	2
+120	Fair Trade Decaf Supremo Guatemalan	2
+5	Organic Decaf Paradise Valley Brazilian	5
+29	Organic Fair Trade Supremo Mexican	2
+79	Fair Trade AA Malian	1
+107	Fair Trade Decaf Supremo Balinese	4
+197	Fair Trade Decaf Paradise Valley Peruvian	4
+82	Organic Decaf AA Guatemalan	1
+172	Fair Trade Supremo Dominican	1
+144	Organic Fair Trade Mandheling Guatemalan	1
+89	Decaf AA Guatemalan	2
+52	Decaf Peaberry Indian	4
+178	Organic Decaf Reserve Balinese	4
+96	Fair Trade Decaf Longberry Brazilian	2
+14	Organic Peaberry Brazilian	2
+135	Organic Fair Trade Decaf Reserve Panamanian	3
+99	Organic Fair Trade Swiss Water Peruvian	4
+59	Decaf Longberry Panamanian	5
+2	Longberry Brazilian	1
+24	Fair Trade Decaf AA Indian	4
+29	Fair Trade Decaf Mandheling Dominican	1
+109	Decaf Black Satin Balinese	2
+195	Fair Trade Decaf Sidamo Sumatran	5
+78	Organic Decaf Paradise Valley Dominican	1
+89	Organic Fair Trade Decaf Supremo Malian	3
+179	Honey Burst Dominican	1
+4	Fair Trade Decaf Peaberry Salvadorean	2
+98	Peaberry Indian	1
+85	Organic Fair Trade Decaf Swiss Water Peruvian	4
+77	Organic Fair Trade Sidamo Costa Rican	1
+152	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+169	Organic Fair Trade Decaf Mandheling Costa Rican	4
+173	Organic Caturra Sumatran	1
+186	Organic Fair Trade Caturra Malian	4
+3	Organic Fair Trade Decaf Honey Burst Kenyan	4
+183	Organic AA Peruvian	4
+129	Fair Trade Decaf Swiss Water Bolivian	4
+19	Organic AA Peruvian	1
+133	Organic Decaf Black Satin Brazilian	2
+60	Decaf Caturra Salvadorean	3
+40	Organic Fair Trade Decaf Black Satin Balinese	3
+22	Decaf Reserve Bolivian	2
+5	Decaf Cuzcachapa Kenyan	4
+129	Organic Fair Trade Peaberry Ethiopian	3
+154	Organic Peaberry Peruvian	2
+33	Fair Trade Sidamo Salvadorean	1
+106	Decaf AA Guatemalan	4
+188	Organic Swiss Water Indian	4
+103	Organic Fair Trade Decaf Reserve Panamanian	2
+195	Mandheling Peruvian	1
+85	Fair Trade Cuzcachapa Costa Rican	3
+164	Organic Sidamo Costa Rican	4
+150	Fair Trade Decaf Honey Burst Brazilian	1
+153	Organic Longberry Guatemalan	3
+19	Organic Fair Trade Peaberry Ethiopian	1
+183	Supremo Brazilian	3
+158	Fair Trade Decaf Sidamo Panamanian	4
+66	Decaf Peaberry Indian	3
+179	Organic Fair Trade Decaf Black Satin Salvadorean	4
+161	Fair Trade Honey Burst Kenyan	2
+7	Fair Trade Sidamo Salvadorean	1
+111	Mandheling Costa Rican	3
+67	Organic Supremo Brazilian	1
+31	Organic Fair Trade Decaf Mandheling Costa Rican	2
+145	Organic Fair Trade Supremo Balinese	1
+162	Fair Trade Paradise Valley Ethiopian	1
+135	Organic Decaf Sidamo Sumatran	1
+126	Organic Supremo Brazilian	3
+85	Mandheling Peruvian	1
+112	Organic Decaf Caturra Costa Rican	3
+128	Decaf AA Guatemalan	4
+50	Fair Trade Decaf Honey Burst Brazilian	3
+120	Decaf Honey Burst Balinese	4
+83	Decaf Supremo Mexican	3
+155	Mandheling Peruvian	1
+52	Fair Trade Decaf Swiss Water Sumatran	2
+157	Organic Decaf Reserve Balinese	1
+63	Fair Trade Decaf Sidamo Panamanian	3
+25	Organic Fair Trade Caturra Kenyan	1
+69	Fair Trade Decaf Black Satin Peruvian	4
+115	Organic Fair Trade Decaf Swiss Water Malian	2
+130	Fair Trade Decaf Peaberry Indian	4
+184	Organic Decaf Sidamo Panamanian	3
+90	Organic Peaberry Brazilian	1
+96	Organic Decaf Sidamo Balinese	5
+54	Fair Trade Decaf Cuzcachapa Panamanian	1
+174	Fair Trade Reserve Dominican	2
+124	Decaf AA Guatemalan	2
+177	Organic Decaf Mandheling Salvadorean	4
+137	Fair Trade Peaberry Salvadorean	1
+130	Organic Fair Trade Decaf Reserve Ethiopian	3
+25	Organic Longberry Sumatran	1
+83	Decaf Supremo Dominican	3
+104	Organic Fair Trade Decaf Supremo Panamanian	3
+154	Organic Fair Trade Supremo Balinese	4
+114	Organic Swiss Water Indian	1
+175	Sidamo Panamanian	2
+121	Organic Fair Trade Decaf Reserve Ethiopian	2
+14	Organic Fair Trade Caturra Malian	4
+58	Decaf Peaberry Indian	2
+136	Organic Supremo Brazilian	2
+165	Organic Honey Burst Indian	1
+67	Fair Trade Decaf Honey Burst Brazilian	4
+122	Sidamo Panamanian	4
+24	Black Satin Indian	1
+63	Decaf Cuzcachapa Brazilian	1
+56	Organic Decaf Paradise Valley Ethiopian	2
+111	Organic Fair Trade Decaf Reserve Panamanian	2
+1	Fair Trade Decaf Cuzcachapa Panamanian	3
+79	Decaf Cuzcachapa Kenyan	5
+167	Decaf Reserve Peruvian	4
+31	Organic Decaf Cuzcachapa Malian	4
+49	Organic Decaf Honey Burst Brazilian	2
+40	Organic Decaf Paradise Valley Ethiopian	5
+147	Organic Paradise Valley Balinese	1
+62	Organic Decaf Reserve Balinese	5
+184	Organic Longberry Bolivian	3
+195	Fair Trade Cuzcachapa Costa Rican	1
+199	Organic Decaf Caturra Kenyan	3
+55	Fair Trade Cuzcachapa Costa Rican	1
+104	Organic Honey Burst Indian	1
+1	Organic Fair Trade Decaf Mandheling Costa Rican	4
+108	Decaf Caturra Salvadorean	1
+24	Fair Trade Sidamo Bolivian	1
+145	Fair Trade Honey Burst Peruvian	1
+32	Organic Fair Trade Swiss Water Peruvian	1
+116	Fair Trade Decaf Swiss Water Peruvian	4
+197	Decaf Paradise Valley Indian	2
+84	Mandheling Peruvian	1
+144	Organic Sidamo Costa Rican	1
+159	Organic Decaf Sidamo Sumatran	3
+117	Decaf AA Ethiopian	3
+90	Organic Decaf Reserve Balinese	5
+159	Decaf Swiss Water Guatemalan	4
+26	Fair Trade Decaf Cuzcachapa Sumatran	3
+2	Organic Swiss Water Indian	1
+44	Mandheling Sumatran	1
+75	Organic Caturra Dominican	1
+134	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+142	Organic Fair Trade Peaberry Mexican	1
+100	Decaf Honey Burst Kenyan	5
+140	Organic Decaf Cuzcachapa Malian	4
+14	Reserve Balinese	1
+29	Organic Decaf Mandheling Costa Rican	4
+63	Caturra Guatemalan	1
+55	Decaf Paradise Valley Salvadorean	2
+2	Fair Trade Reserve Dominican	1
+0	Fair Trade AA Malian	4
+105	Fair Trade Decaf Sidamo Sumatran	4
+88	Mandheling Peruvian	1
+60	Organic Fair Trade Decaf Caturra Dominican	2
+79	Organic Decaf Reserve Balinese	4
+62	Organic Decaf Sidamo Sumatran	5
+186	Organic Fair Trade Decaf Black Satin Brazilian	4
+193	Decaf Paradise Valley Salvadorean	4
+62	Organic Paradise Valley Ethiopian	1
+65	Organic Decaf Sidamo Panamanian	2
+75	Organic Fair Trade Decaf Swiss Water Malian	2
+173	Fair Trade Decaf Honey Burst Brazilian	4
+190	Organic Fair Trade Caturra Kenyan	1
+25	Organic Fair Trade Supremo Balinese	1
+31	Organic Fair Trade Caturra Kenyan	1
+94	Organic Caturra Indian	4
+52	Reserve Balinese	1
+69	Organic Caturra Dominican	1
+58	Organic Paradise Valley Sumatran	1
+1	Supremo Brazilian	1
+69	Fair Trade Supremo Dominican	1
+57	Organic Fair Trade Honey Burst Balinese	1
+52	Organic Decaf Caturra Panamanian	5
+166	Organic Decaf Reserve Ethiopian	4
+177	Organic Fair Trade Sidamo Costa Rican	1
+8	Decaf Swiss Water Bolivian	5
+101	Organic Fair Trade Peaberry Bolivian	4
+65	Decaf Caturra Guatemalan	1
+180	Cuzcachapa Balinese	1
+117	Decaf Caturra Salvadorean	3
+15	Organic Swiss Water Kenyan	1
+155	Fair Trade Decaf Cuzcachapa Panamanian	3
+129	Organic Decaf Sidamo Sumatran	1
+119	Organic Fair Trade Decaf Longberry Bolivian	4
+27	Fair Trade Decaf Sidamo Sumatran	4
+136	Fair Trade Supremo Dominican	3
+19	Organic Fair Trade Decaf Mandheling Balinese	5
+75	Organic Longberry Guatemalan	1
+33	Caturra Guatemalan	3
+146	Fair Trade Decaf Paradise Valley Peruvian	3
+177	Fair Trade Decaf Paradise Valley Brazilian	3
+75	Fair Trade Supremo Dominican	1
+85	Decaf Longberry Panamanian	1
+107	Decaf Cuzcachapa Kenyan	2
+154	Organic Fair Trade Honey Burst Balinese	4
+26	Organic Fair Trade Decaf Paradise Valley Kenyan	4
+127	Organic Caturra Guatemalan	4
+192	Organic Paradise Valley Sumatran	1
+49	Fair Trade Decaf Swiss Water Malian	3
+12	Organic Fair Trade AA Bolivian	1
+33	Organic Decaf AA Malian	4
+13	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+146	Organic Fair Trade Swiss Water Peruvian	4
+76	Organic Fair Trade Decaf Supremo Indian	4
+163	Organic Supremo Brazilian	1
+167	Decaf Paradise Valley Indian	4
+84	Organic Decaf Paradise Valley Brazilian	4
+162	Decaf Swiss Water Dominican	3
+174	Decaf Honey Burst Salvadorean	4
+151	Organic Decaf Caturra Panamanian	3
+186	Fair Trade Honey Burst Kenyan	3
+113	Organic Swiss Water Kenyan	1
+115	AA Ethiopian	3
+47	Honey Burst Dominican	1
+42	Organic Decaf Peaberry Brazilian	2
+5	Fair Trade Decaf Supremo Guatemalan	2
+57	Fair Trade Honey Burst Peruvian	1
+159	Organic Decaf Paradise Valley Brazilian	3
+156	Fair Trade Peaberry Malian	1
+178	Organic Fair Trade Decaf Black Satin Bolivian	2
+168	Supremo Kenyan	3
+90	Organic Honey Burst Indian	1
+111	Organic Honey Burst Salvadorean	4
+107	Paradise Valley Bolivian	1
+87	Decaf Honey Burst Balinese	4
+165	Organic Peaberry Peruvian	1
+11	Fair Trade Decaf Swiss Water Bolivian	3
+175	Organic Caturra Indian	1
+40	Organic Caturra Indian	1
+198	Decaf Supremo Dominican	2
+142	Fair Trade Decaf Swiss Water Sumatran	4
+70	Fair Trade Supremo Sumatran	3
+106	Organic Fair Trade Paradise Valley Indian	1
+87	Fair Trade Sidamo Salvadorean	1
+28	Decaf Reserve Bolivian	3
+178	Decaf Reserve Bolivian	5
+45	Organic Decaf Sidamo Panamanian	4
+66	Mandheling Costa Rican	3
+110	Organic Fair Trade AA Balinese	1
+39	Decaf Supremo Mexican	1
+191	Organic Fair Trade Decaf Black Satin Salvadorean	1
+130	Organic Decaf Paradise Valley Dominican	1
+4	Decaf AA Guatemalan	4
+30	Organic Fair Trade Honey Burst Balinese	4
+58	Fair Trade Decaf Honey Burst Brazilian	4
+157	Organic Swiss Water Indian	1
+130	Organic Decaf Paradise Valley Brazilian	1
+140	Organic Decaf Sidamo Panamanian	4
+49	Decaf Black Satin Malian	1
+122	Organic Fair Trade Cuzcachapa Mexican	1
+182	Honey Burst Dominican	2
+51	Fair Trade Decaf Supremo Guatemalan	3
+71	Organic Longberry Bolivian	3
+186	Decaf Cuzcachapa Kenyan	1
+111	Fair Trade AA Malian	1
+138	Organic Fair Trade Sidamo Costa Rican	1
+112	Organic Fair Trade Decaf Swiss Water Salvadorean	1
+127	Organic Fair Trade Paradise Valley Indian	2
+156	Decaf Honey Burst Salvadorean	4
+7	Organic Fair Trade Peaberry Mexican	1
+49	Organic Fair Trade Decaf Caturra Dominican	4
+71	Organic Decaf Cuzcachapa Panamanian	3
+164	Organic Decaf Paradise Valley Dominican	4
+57	Organic Fair Trade Peaberry Guatemalan	1
+63	Organic Longberry Bolivian	2
+77	Decaf Honey Burst Kenyan	3
+46	Fair Trade Decaf Supremo Guatemalan	1
+183	Decaf Black Satin Balinese	3
+101	Organic Fair Trade Decaf Black Satin Panamanian	4
+132	Decaf Peaberry Indian	1
+88	Fair Trade Decaf Peaberry Indian	2
+68	Organic Fair Trade AA Indian	1
+11	Decaf AA Guatemalan	5
+27	Organic Fair Trade Decaf Supremo Indian	5
+67	Organic AA Peruvian	1
+139	Decaf Cuzcachapa Kenyan	4
+198	Organic Swiss Water Kenyan	1
+124	Organic Fair Trade AA Bolivian	1
+166	Organic Honey Burst Salvadorean	4
+194	Fair Trade Sidamo Bolivian	1
+132	Organic Longberry Bolivian	2
+25	Fair Trade Decaf Swiss Water Sumatran	4
+19	Decaf Cuzcachapa Kenyan	2
+91	Decaf Black Satin Balinese	2
+102	Decaf Honey Burst Kenyan	2
+51	Organic Fair Trade Decaf Supremo Malian	4
+103	Decaf AA Guatemalan	3
+120	Organic Decaf Sidamo Sumatran	5
+194	Swiss Water Dominican	3
+157	Organic Paradise Valley Ethiopian	1
+188	Organic Decaf AA Brazilian	4
+65	Organic Fair Trade AA Bolivian	4
+87	Decaf Cuzcachapa Kenyan	4
+133	Organic Fair Trade Supremo Mexican	1
+142	Organic Caturra Sumatran	1
+162	Decaf Reserve Bolivian	3
+113	Supremo Salvadorean	1
+154	Fair Trade Decaf Peaberry Salvadorean	3
+2	Decaf Honey Burst Salvadorean	3
+117	Organic Fair Trade Decaf Caturra Dominican	2
+77	Organic Decaf Black Satin Dominican	2
+92	Cuzcachapa Costa Rican	1
+85	Supremo Salvadorean	1
+111	Decaf AA Guatemalan	3
+52	Fair Trade Swiss Water Sumatran	1
+75	Decaf Caturra Guatemalan	5
+106	Decaf Reserve Indian	4
+47	Fair Trade Reserve Balinese	3
+97	Fair Trade Honey Burst Kenyan	4
+45	Organic Fair Trade Peaberry Guatemalan	1
+5	Fair Trade Decaf Swiss Water Malian	2
+152	Fair Trade Decaf Swiss Water Peruvian	2
+109	Organic AA Peruvian	1
+162	Organic Longberry Sumatran	4
+128	Organic Decaf Mandheling Costa Rican	3
+28	Organic Fair Trade Decaf Black Satin Panamanian	2
+106	Mandheling Sumatran	1
+47	Organic Fair Trade Supremo Mexican	4
+151	Fair Trade Decaf Supremo Balinese	4
+154	Decaf Cuzcachapa Dominican	1
+46	Fair Trade AA Malian	1
+185	Organic Decaf Swiss Water Indian	4
+42	Cuzcachapa Sumatran	1
+27	Organic Fair Trade Decaf Black Satin Panamanian	5
+182	Longberry Brazilian	2
+143	Organic Fair Trade Decaf Black Satin Salvadorean	2
+188	Fair Trade Sidamo Salvadorean	1
+133	Decaf Reserve Indian	3
+1	Organic Paradise Valley Bolivian	2
+131	Decaf Honey Burst Kenyan	2
+58	Organic Caturra Sumatran	1
+178	Fair Trade Decaf Swiss Water Malian	3
+175	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+50	Fair Trade Decaf Swiss Water Bolivian	3
+75	Organic Sidamo Malian	1
+13	Organic Decaf Sidamo Panamanian	2
+133	Organic Fair Trade Decaf Reserve Ethiopian	4
+188	Organic Decaf Sidamo Sumatran	4
+22	Organic Fair Trade Decaf Mandheling Balinese	5
+22	Organic Caturra Indian	1
+64	Organic Decaf Black Satin Brazilian	1
+53	Decaf Reserve Indian	2
+1	Organic Fair Trade Caturra Kenyan	4
+177	Swiss Water Dominican	1
+133	Supremo Salvadorean	1
+85	Organic Fair Trade Decaf Supremo Panamanian	4
+194	Fair Trade Decaf Swiss Water Peruvian	1
+199	Organic Fair Trade Paradise Valley Indian	1
+190	Organic Supremo Brazilian	1
+45	Fair Trade Decaf Peaberry Guatemalan	3
+28	Peaberry Indian	3
+53	Organic Fair Trade Decaf Black Satin Brazilian	3
+193	Organic Decaf Paradise Valley Ethiopian	3
+64	Decaf Longberry Panamanian	2
+112	Organic Decaf AA Guatemalan	3
+89	Supremo Brazilian	2
+142	Organic Fair Trade Decaf Black Satin Balinese	5
+24	Organic Supremo Bolivian	1
+56	Organic Paradise Valley Balinese	2
+154	Organic Paradise Valley Balinese	2
+199	Organic Decaf Mandheling Salvadorean	3
+187	Organic Swiss Water Indian	1
+54	Fair Trade Supremo Sumatran	1
+55	Organic Fair Trade Supremo Balinese	1
+104	Organic Decaf Black Satin Brazilian	1
+49	Decaf Swiss Water Bolivian	1
+63	Decaf Supremo Mexican	1
+93	Organic Fair Trade Decaf Mandheling Balinese	5
+79	Organic Decaf Peaberry Brazilian	4
+104	Organic Caturra Dominican	1
+4	Decaf Cuzcachapa Kenyan	4
+86	Decaf Black Satin Bolivian	1
+38	Fair Trade Cuzcachapa Costa Rican	4
+197	Organic Longberry Malian	1
+86	Fair Trade Decaf Paradise Valley Brazilian	3
+171	Fair Trade Honey Burst Peruvian	1
+144	Organic Caturra Indian	1
+111	Supremo Brazilian	3
+33	Fair Trade Reserve Balinese	1
+184	Organic Fair Trade Honey Burst Balinese	1
+173	Organic Fair Trade Peaberry Mexican	3
+182	Decaf Cuzcachapa Kenyan	2
+26	Organic Longberry Sumatran	2
+68	Organic Fair Trade Cuzcachapa Mexican	1
+158	Organic Fair Trade Peaberry Bolivian	3
+22	Paradise Valley Bolivian	1
+146	Fair Trade Caturra Salvadorean	3
+66	Decaf AA Ethiopian	3
+73	Organic Longberry Sumatran	2
+41	Fair Trade Decaf Paradise Valley Peruvian	2
+163	AA Ethiopian	1
+163	Cuzcachapa Costa Rican	1
+129	Decaf Honey Burst Salvadorean	2
+123	Organic Fair Trade Black Satin Salvadorean	2
+0	Organic Peaberry Peruvian	1
+84	Organic Fair Trade Decaf Paradise Valley Kenyan	2
+60	Organic Fair Trade Decaf Black Satin Bolivian	2
+43	Organic Swiss Water Indian	1
+12	Decaf AA Guatemalan	3
+116	Fair Trade Decaf Peaberry Guatemalan	4
+145	Organic Fair Trade Decaf Black Satin Panamanian	3
+26	Organic Caturra Sumatran	2
+81	Fair Trade Sidamo Peruvian	1
+109	Fair Trade Decaf Honey Burst Brazilian	4
+80	Organic Fair Trade Supremo Balinese	1
+19	Organic Peaberry Peruvian	1
+47	Mandheling Sumatran	1
+137	Organic AA Peruvian	1
+8	Organic Fair Trade Supremo Balinese	1
+186	Organic Fair Trade Peaberry Bolivian	4
+12	Organic Fair Trade Paradise Valley Indian	1
+192	Fair Trade Peaberry Salvadorean	4
+37	Organic Fair Trade Peaberry Ethiopian	1
+29	Decaf AA Ethiopian	3
+147	Cuzcachapa Sumatran	1
+43	Organic Caturra Indian	1
+126	Organic Decaf Mandheling Salvadorean	3
+73	Fair Trade Honey Burst Kenyan	3
+113	Organic Longberry Sumatran	1
+3	Decaf Cuzcachapa Brazilian	3
+81	Reserve Balinese	1
+114	Caturra Guatemalan	1
+97	Organic Fair Trade AA Indian	3
+107	Fair Trade Sidamo Salvadorean	1
+157	Organic Fair Trade AA Indian	3
+76	Supremo Salvadorean	1
+64	Sidamo Panamanian	2
+27	Fair Trade Decaf Paradise Valley Peruvian	4
+109	Organic Fair Trade Decaf Black Satin Balinese	3
+105	Fair Trade Sidamo Salvadorean	1
+142	Decaf Longberry Panamanian	2
+130	Fair Trade Sidamo Bolivian	4
+179	Organic Fair Trade Peaberry Guatemalan	4
+46	Organic Caturra Sumatran	4
+173	Organic Decaf Swiss Water Indian	1
+60	Organic Fair Trade Decaf Swiss Water Malian	2
+105	Decaf Paradise Valley Indian	2
+33	Organic Decaf AA Balinese	4
+194	Organic Decaf Paradise Valley Ethiopian	4
+47	Fair Trade Decaf Peaberry Guatemalan	3
+1	Organic Fair Trade Decaf Black Satin Panamanian	4
+6	Organic Peaberry Panamanian	1
+136	Organic Decaf Sidamo Balinese	2
+194	Organic Fair Trade Decaf Black Satin Salvadorean	2
+67	Decaf Black Satin Malian	2
+12	Organic Fair Trade Supremo Balinese	1
+184	AA Ethiopian	4
+35	Organic Honey Burst Indian	1
+40	Decaf Swiss Water Dominican	4
+66	Fair Trade Supremo Sumatran	1
+16	Organic Supremo Peruvian	1
+126	Organic Fair Trade Peaberry Bolivian	1
+196	Reserve Balinese	2
+18	Reserve Balinese	1
+95	Cuzcachapa Balinese	4
+43	Organic Fair Trade Decaf Supremo Panamanian	5
+88	Organic Fair Trade Decaf Swiss Water Malian	3
+105	Cuzcachapa Costa Rican	1
+62	Organic Decaf Reserve Ethiopian	5
+125	Fair Trade Decaf Cuzcachapa Panamanian	2
+180	Fair Trade Caturra Salvadorean	1
+110	Cuzcachapa Sumatran	1
+158	Organic Decaf Reserve Balinese	1
+149	Organic Decaf AA Brazilian	2
+22	Cuzcachapa Costa Rican	1
+177	Organic Supremo Brazilian	1
+43	Organic Longberry Sumatran	1
+62	Organic Decaf Paradise Valley Brazilian	5
+94	Organic Fair Trade Decaf Caturra Dominican	2
+181	Organic Fair Trade Decaf Black Satin Panamanian	4
+40	Decaf Peaberry Indian	4
+142	Organic Decaf Honey Burst Brazilian	3
+6	Organic Paradise Valley Sumatran	1
+162	Organic Fair Trade Decaf Supremo Indian	2
+10	Organic Paradise Valley Bolivian	1
+19	Organic Fair Trade Cuzcachapa Mexican	1
+97	Organic Honey Burst Salvadorean	1
+143	Organic Cuzcachapa Panamanian	4
+170	Fair Trade Decaf Swiss Water Sumatran	5
+196	Fair Trade Decaf Black Satin Peruvian	4
+94	Fair Trade Decaf Swiss Water Sumatran	1
+39	Organic Decaf AA Balinese	2
+32	Organic Cuzcachapa Panamanian	1
+153	Organic Decaf Paradise Valley Dominican	3
+45	Organic Supremo Bolivian	1
+93	Organic Fair Trade Decaf Paradise Valley Panamanian	5
+44	Organic Paradise Valley Bolivian	1
+127	Fair Trade Decaf Paradise Valley Brazilian	1
+26	Fair Trade Decaf Honey Burst Brazilian	3
+190	Fair Trade Peaberry Salvadorean	1
+148	Black Satin Indian	3
+45	Fair Trade Supremo Dominican	1
+63	Fair Trade Decaf Supremo Balinese	3
+109	Organic Peaberry Brazilian	1
+26	Decaf Cuzcachapa Balinese	1
+24	Fair Trade Peaberry Salvadorean	1
+31	Organic Longberry Guatemalan	1
+4	Organic Fair Trade Decaf Black Satin Panamanian	3
+36	Decaf Peaberry Indian	5
+13	Organic Decaf AA Guatemalan	2
+193	Fair Trade Supremo Sumatran	2
+175	Decaf Cuzcachapa Balinese	2
+84	Organic Decaf Paradise Valley Brazilian	4
+189	Organic Swiss Water Indian	1
+37	Fair Trade Decaf Swiss Water Malian	4
+0	Organic Decaf Swiss Water Kenyan	1
+189	Organic Fair Trade Decaf Black Satin Bolivian	2
+138	Fair Trade Cuzcachapa Costa Rican	1
+83	Fair Trade Decaf Cuzcachapa Panamanian	1
+23	Fair Trade Sidamo Peruvian	2
+113	Organic Honey Burst Salvadorean	1
+140	Fair Trade Decaf Paradise Valley Peruvian	3
+106	Organic Swiss Water Indian	1
+5	Organic Decaf Caturra Panamanian	5
+40	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+132	Organic Fair Trade Decaf Swiss Water Peruvian	4
+0	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+177	Fair Trade Supremo Sumatran	1
+59	Fair Trade AA Malian	1
+184	Organic Decaf Black Satin Brazilian	3
+193	Organic Fair Trade Decaf Paradise Valley Malian	1
+130	Organic Decaf Caturra Kenyan	1
+11	Organic Fair Trade Black Satin Salvadorean	1
+173	Organic Paradise Valley Bolivian	1
+2	Organic Decaf AA Balinese	2
+175	Peaberry Salvadorean	2
+88	Decaf Black Satin Malian	4
+190	Organic Fair Trade Paradise Valley Indian	1
+22	Fair Trade Sidamo Salvadorean	1
+103	Caturra Guatemalan	3
+2	Organic Fair Trade Decaf Black Satin Bolivian	4
+115	Decaf Cuzcachapa Kenyan	3
+146	Decaf Honey Burst Balinese	1
+71	Organic Decaf Honey Burst Indian	3
+70	Fair Trade Swiss Water Sumatran	3
+32	Organic Fair Trade Decaf Swiss Water Malian	5
+139	Organic Fair Trade Cuzcachapa Mexican	1
+63	Honey Burst Sumatran	1
+99	Black Satin Indian	1
+161	Sidamo Panamanian	4
+121	Decaf Longberry Panamanian	5
+172	Fair Trade Decaf Sidamo Sumatran	5
+143	Decaf Black Satin Malian	3
+76	Organic Fair Trade Decaf Black Satin Panamanian	4
+118	Organic Paradise Valley Ethiopian	1
+141	Organic Paradise Valley Balinese	1
+168	Fair Trade Decaf Cuzcachapa Sumatran	1
+72	Fair Trade Decaf Swiss Water Malian	2
+114	Organic Paradise Valley Balinese	1
+56	Organic Fair Trade Mandheling Guatemalan	4
+43	Fair Trade Decaf Swiss Water Sumatran	4
+157	Decaf Swiss Water Bolivian	2
+151	Organic Decaf Mandheling Costa Rican	3
+76	Caturra Guatemalan	1
+19	Organic Decaf Paradise Valley Dominican	3
+170	Decaf Black Satin Balinese	3
+9	Organic Decaf Supremo Panamanian	2
+109	Organic Decaf Sidamo Sumatran	1
+170	Organic Decaf Caturra Kenyan	2
+133	Organic Fair Trade Peaberry Bolivian	1
+38	Decaf Honey Burst Balinese	2
+79	Decaf Longberry Panamanian	5
+41	Decaf Cuzcachapa Kenyan	4
+55	Peaberry Costa Rican	1
+192	Fair Trade Decaf Longberry Brazilian	4
+77	Fair Trade Peaberry Malian	1
+123	Organic Peaberry Panamanian	4
+81	Peaberry Salvadorean	1
+46	Organic Peaberry Brazilian	4
+47	Organic Decaf Supremo Panamanian	2
+96	Fair Trade Decaf Sidamo Peruvian	2
+187	Organic Peaberry Brazilian	1
+94	Organic Sidamo Malian	4
+165	Organic Fair Trade Decaf Black Satin Brazilian	3
+113	Organic Fair Trade Decaf Black Satin Panamanian	4
+92	Organic Fair Trade Decaf Honey Burst Kenyan	4
+123	Organic Supremo Peruvian	4
+172	Fair Trade Decaf Caturra Bolivian	5
+189	Organic Decaf Mandheling Salvadorean	4
+182	Organic Fair Trade Decaf Black Satin Panamanian	3
+108	Decaf Longberry Panamanian	1
+1	Decaf Reserve Peruvian	1
+78	Supremo Kenyan	2
+118	Organic Decaf Sidamo Panamanian	3
+109	Fair Trade Decaf Swiss Water Peruvian	4
+8	Organic Fair Trade Black Satin Salvadorean	1
+192	Organic Fair Trade Peaberry Mexican	3
+15	Organic Fair Trade Decaf Swiss Water Malian	5
+118	Organic Decaf Swiss Water Kenyan	3
+164	Organic Paradise Valley Bolivian	4
+167	Organic Caturra Dominican	3
+186	Organic Decaf Honey Burst Indian	2
+43	Organic Decaf Sidamo Balinese	3
+100	Decaf Cuzcachapa Kenyan	5
+5	Fair Trade Caturra Salvadorean	1
+93	Decaf Reserve Bolivian	2
+147	Fair Trade Decaf Swiss Water Bolivian	3
+119	Organic Decaf Reserve Ethiopian	2
+134	Organic Decaf Paradise Valley Brazilian	2
+199	Organic Fair Trade Decaf Longberry Bolivian	5
+170	Organic AA Peruvian	1
+130	Decaf Caturra Guatemalan	2
+122	Supremo Brazilian	4
+40	Cuzcachapa Sumatran	1
+178	Organic Decaf Reserve Peruvian	4
+55	Organic Fair Trade Decaf Mandheling Balinese	5
+0	Decaf Swiss Water Dominican	2
+198	Organic Decaf Swiss Water Indian	3
+190	Peaberry Costa Rican	1
+68	Organic Fair Trade AA Bolivian	1
+106	Organic Fair Trade Decaf Black Satin Salvadorean	3
+6	Organic Fair Trade Supremo Mexican	1
+159	Fair Trade Reserve Balinese	2
+160	Fair Trade Swiss Water Sumatran	4
+100	Organic Fair Trade Paradise Valley Indian	1
+59	Fair Trade Decaf Mandheling Dominican	3
+121	Decaf Cuzcachapa Balinese	5
+34	Decaf Honey Burst Kenyan	1
+53	Organic Fair Trade Decaf Paradise Valley Malian	3
+173	Fair Trade Decaf Black Satin Peruvian	4
+199	Organic Longberry Guatemalan	1
+180	Organic Decaf Paradise Valley Dominican	3
+88	Decaf AA Guatemalan	4
+175	Organic Decaf Reserve Ethiopian	1
+112	Organic Fair Trade Decaf Paradise Valley Panamanian	1
+168	Organic Cuzcachapa Panamanian	4
+101	Organic Caturra Guatemalan	2
+88	Fair Trade Decaf Caturra Bolivian	2
+47	Reserve Balinese	1
+160	Black Satin Indian	2
+106	Decaf AA Ethiopian	4
+160	Organic Fair Trade Decaf Caturra Dominican	3
+138	Organic Fair Trade Decaf Swiss Water Malian	5
+88	Decaf Paradise Valley Salvadorean	4
+154	Organic Fair Trade Paradise Valley Indian	4
+111	Supremo Salvadorean	3
+105	Organic Decaf Sidamo Sumatran	3
+72	Honey Burst Sumatran	4
+96	Organic Fair Trade Decaf Honey Burst Kenyan	3
+29	Fair Trade Decaf Honey Burst Brazilian	1
+168	Fair Trade Reserve Dominican	1
+187	Fair Trade Decaf Swiss Water Sumatran	5
+53	Decaf Cuzcachapa Kenyan	2
+103	Swiss Water Dominican	3
+87	Organic Fair Trade Sidamo Costa Rican	1
+60	Fair Trade Decaf Sidamo Peruvian	1
+122	Decaf Honey Burst Kenyan	4
+30	Decaf Supremo Dominican	1
+59	Organic Fair Trade Peaberry Bolivian	1
+39	Organic Fair Trade Honey Burst Balinese	4
+169	Decaf Honey Burst Salvadorean	1
+47	Organic Fair Trade Decaf Swiss Water Malian	4
+84	Decaf AA Ethiopian	5
+166	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+117	Fair Trade Decaf Swiss Water Sumatran	1
+132	Organic Fair Trade AA Bolivian	4
+178	Organic Fair Trade Mandheling Guatemalan	1
+65	Decaf Longberry Panamanian	1
+37	Decaf Swiss Water Bolivian	2
+91	Fair Trade Swiss Water Sumatran	1
+180	Organic Fair Trade Decaf Mandheling Costa Rican	5
+115	Fair Trade Decaf Honey Burst Brazilian	1
+182	Organic Fair Trade Decaf Black Satin Balinese	3
+90	Organic Fair Trade AA Indian	1
+198	Fair Trade Sidamo Bolivian	1
+183	Honey Burst Sumatran	3
+34	Organic Fair Trade Decaf Black Satin Brazilian	4
+127	Fair Trade Supremo Sumatran	1
+135	Organic Longberry Sumatran	1
+146	Fair Trade Decaf Mandheling Dominican	3
+135	Cuzcachapa Costa Rican	2
+83	Decaf Cuzcachapa Balinese	3
+148	Fair Trade Supremo Sumatran	1
+39	Fair Trade Reserve Dominican	3
+101	Decaf Longberry Panamanian	1
+169	Organic Longberry Guatemalan	2
+63	Organic Decaf Longberry Costa Rican	2
+86	Organic Fair Trade Peaberry Guatemalan	4
+52	Decaf Caturra Guatemalan	4
+80	Organic Fair Trade AA Bolivian	1
+135	Reserve Balinese	2
+94	Organic Supremo Peruvian	4
+2	Mandheling Sumatran	1
+93	Organic Decaf AA Guatemalan	3
+121	Organic Paradise Valley Sumatran	1
+37	Caturra Guatemalan	1
+116	Organic Fair Trade Decaf Supremo Malian	5
+48	Decaf Cuzcachapa Brazilian	3
+160	Fair Trade Supremo Sumatran	4
+8	Organic Longberry Bolivian	1
+85	Peaberry Salvadorean	1
+47	Decaf Honey Burst Kenyan	1
+38	Decaf Supremo Dominican	2
+98	Decaf Honey Burst Kenyan	4
+68	Fair Trade Decaf Swiss Water Malian	2
+183	Organic Decaf Swiss Water Kenyan	4
+46	Decaf Swiss Water Bolivian	3
+6	Mandheling Sumatran	1
+58	Fair Trade Sidamo Peruvian	1
+7	Black Satin Indian	1
+171	Fair Trade Decaf Peaberry Salvadorean	3
+24	Organic Cuzcachapa Panamanian	1
+16	Organic Longberry Guatemalan	1
+100	Organic Decaf Paradise Valley Ethiopian	4
+62	Organic Honey Burst Indian	1
+3	Organic Fair Trade Caturra Kenyan	1
+7	Organic Decaf Sidamo Sumatran	5
+138	Organic Decaf AA Guatemalan	3
+154	Organic Paradise Valley Sumatran	2
+196	Fair Trade Cuzcachapa Costa Rican	4
+167	Organic Decaf Sidamo Sumatran	3
+73	Organic Fair Trade Decaf Reserve Ethiopian	4
+5	Organic Fair Trade Honey Burst Balinese	1
+162	Organic Cuzcachapa Panamanian	4
+10	Longberry Brazilian	1
+76	Supremo Salvadorean	1
+91	Organic Decaf Caturra Panamanian	3
+164	Peaberry Indian	3
+13	Organic Longberry Sumatran	2
+165	Fair Trade Sidamo Salvadorean	4
+167	Organic Decaf Paradise Valley Sumatran	3
+150	Decaf Paradise Valley Salvadorean	3
+30	Fair Trade Supremo Sumatran	3
+89	Organic Fair Trade Decaf Black Satin Panamanian	3
+75	Peaberry Costa Rican	1
+14	Organic Fair Trade Mandheling Guatemalan	4
+146	Fair Trade Decaf Swiss Water Bolivian	3
+163	Decaf Cuzcachapa Brazilian	5
+57	Organic Decaf Black Satin Brazilian	3
+170	Organic Decaf Caturra Panamanian	2
+5	Organic Fair Trade Decaf Black Satin Salvadorean	3
+191	Decaf AA Guatemalan	4
+85	Organic Decaf Sidamo Sumatran	2
+95	Organic Fair Trade Decaf Caturra Peruvian	1
+105	Decaf AA Guatemalan	2
+42	Organic Decaf Caturra Costa Rican	2
+163	Organic Fair Trade Decaf Swiss Water Peruvian	2
+69	Decaf Black Satin Malian	2
+32	Fair Trade Paradise Valley Ethiopian	1
+160	Organic Fair Trade Sidamo Costa Rican	3
+103	Fair Trade Caturra Salvadorean	1
+178	Organic Fair Trade Decaf Honey Burst Kenyan	2
+101	Fair Trade Decaf Caturra Bolivian	3
+153	Fair Trade Decaf Paradise Valley Brazilian	2
+79	Black Satin Indian	1
+118	Fair Trade Decaf Longberry Brazilian	4
+74	Fair Trade Decaf Caturra Bolivian	4
+126	Decaf AA Ethiopian	4
+53	Organic Longberry Bolivian	1
+188	Organic Fair Trade Decaf Honey Burst Kenyan	2
+179	Organic Cuzcachapa Panamanian	2
+75	Organic AA Indian	1
+50	Organic Fair Trade Decaf Honey Burst Kenyan	4
+179	Fair Trade Decaf Sidamo Sumatran	3
+27	Organic Fair Trade Honey Burst Balinese	1
+16	Organic Caturra Dominican	1
+115	Decaf Swiss Water Guatemalan	3
+124	Organic Decaf AA Brazilian	3
+83	Decaf AA Guatemalan	3
+142	Organic Fair Trade Caturra Kenyan	1
+95	Fair Trade Peaberry Malian	2
+73	Organic Decaf Black Satin Brazilian	2
+36	Fair Trade Sidamo Salvadorean	1
+73	Organic Fair Trade Mandheling Guatemalan	4
+141	Decaf Longberry Panamanian	2
+65	Organic Honey Burst Salvadorean	2
+47	Decaf Paradise Valley Indian	1
+59	Organic Fair Trade Decaf Black Satin Panamanian	2
+83	Paradise Valley Bolivian	3
+152	Organic Decaf Paradise Valley Brazilian	5
+0	Organic Fair Trade Sidamo Costa Rican	3
+190	Organic Supremo Bolivian	1
+124	Decaf Cuzcachapa Brazilian	2
+64	Organic Decaf Sidamo Sumatran	1
+158	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+41	Organic Fair Trade Decaf Mandheling Costa Rican	3
+180	Fair Trade Reserve Balinese	1
+113	Organic Peaberry Peruvian	1
+170	Organic Swiss Water Kenyan	1
+110	Fair Trade Decaf Mandheling Dominican	2
+1	Organic Supremo Peruvian	2
+97	Fair Trade Sidamo Salvadorean	4
+88	Organic Decaf Paradise Valley Ethiopian	5
+150	Organic Fair Trade Paradise Valley Indian	2
+4	Organic Fair Trade Decaf Reserve Panamanian	3
+140	Organic Decaf AA Malian	4
+34	Organic Fair Trade AA Balinese	4
+104	Fair Trade Decaf Paradise Valley Peruvian	4
+147	Supremo Kenyan	1
+15	Organic Honey Burst Indian	1
+6	Organic Decaf Cuzcachapa Panamanian	4
+110	Organic Fair Trade Supremo Balinese	1
+74	Fair Trade Decaf Swiss Water Peruvian	4
+13	Fair Trade Supremo Dominican	3
+172	Fair Trade Decaf Swiss Water Malian	5
+18	Fair Trade Decaf Peaberry Guatemalan	3
+189	Organic Decaf Black Satin Dominican	4
+56	Organic Honey Burst Salvadorean	2
+100	Organic Decaf Mandheling Costa Rican	4
+178	Organic Decaf Sidamo Sumatran	4
+178	Decaf Swiss Water Bolivian	5
+150	Decaf Honey Burst Kenyan	3
+88	Fair Trade Decaf Supremo Balinese	2
+23	Organic Cuzcachapa Panamanian	3
+160	Organic Fair Trade Swiss Water Peruvian	3
+158	Decaf Peaberry Indian	2
+98	Organic Decaf Cuzcachapa Panamanian	5
+1	Decaf Cuzcachapa Kenyan	1
+15	Organic Longberry Bolivian	1
+113	Organic Honey Burst Bolivian	1
+191	Decaf Black Satin Balinese	4
+29	Fair Trade Supremo Dominican	1
+150	Cuzcachapa Costa Rican	3
+23	Decaf Longberry Panamanian	4
+93	Fair Trade Reserve Dominican	1
+30	Decaf Cuzcachapa Kenyan	1
+149	Organic Fair Trade AA Bolivian	1
+178	Organic Fair Trade Decaf Honey Burst Kenyan	2
+163	Fair Trade Decaf Honey Burst Brazilian	3
+192	Fair Trade Decaf Sidamo Sumatran	4
+63	Black Satin Indian	1
+182	Organic Decaf Sidamo Balinese	1
+149	Organic Fair Trade Decaf Reserve Ethiopian	4
+172	Supremo Brazilian	1
+69	Organic Caturra Sumatran	1
+188	Longberry Brazilian	3
+9	Organic Decaf Cuzcachapa Malian	2
+165	Fair Trade Decaf Paradise Valley Peruvian	4
+88	Fair Trade Swiss Water Sumatran	1
+169	Organic Fair Trade AA Indian	4
+66	Fair Trade Supremo Sumatran	1
+34	Fair Trade Decaf Honey Burst Brazilian	3
+13	Organic Decaf Cuzcachapa Panamanian	2
+94	Organic Paradise Valley Sumatran	4
+42	Fair Trade Paradise Valley Ethiopian	3
+48	Decaf AA Ethiopian	3
+140	Organic Decaf Caturra Kenyan	4
+181	Organic Decaf Cuzcachapa Malian	2
+149	Fair Trade Decaf AA Indian	5
+102	Organic Decaf Reserve Balinese	1
+184	Organic Fair Trade Decaf Mandheling Balinese	1
+177	Organic Fair Trade Mandheling Guatemalan	1
+168	Organic Fair Trade Decaf Mandheling Costa Rican	2
+81	Organic Caturra Dominican	1
+110	Organic Decaf AA Brazilian	5
+118	Fair Trade Reserve Dominican	1
+183	Decaf Longberry Panamanian	3
+69	Organic Decaf Paradise Valley Ethiopian	3
+50	Organic Fair Trade Decaf Mandheling Balinese	4
+118	Cuzcachapa Balinese	1
+95	Organic Fair Trade Caturra Kenyan	1
+124	Decaf AA Ethiopian	2
+46	Organic Decaf Sidamo Sumatran	4
+36	Organic Caturra Sumatran	1
+195	Supremo Salvadorean	1
+19	Organic Decaf Supremo Panamanian	3
+43	Organic Fair Trade Sidamo Costa Rican	1
+3	Fair Trade Paradise Valley Ethiopian	1
+66	Organic Paradise Valley Ethiopian	4
+78	Organic Supremo Bolivian	1
+41	Organic Supremo Brazilian	1
+99	Fair Trade Swiss Water Sumatran	3
+77	Fair Trade Decaf Peaberry Guatemalan	5
+163	Organic AA Peruvian	1
+108	Peaberry Costa Rican	1
+67	Fair Trade AA Malian	1
+191	Organic Supremo Bolivian	3
+182	Organic Decaf Sidamo Panamanian	1
+73	Decaf Honey Burst Kenyan	1
+28	Organic Decaf Cuzcachapa Malian	4
+135	Organic Decaf Paradise Valley Sumatran	1
+81	Organic Decaf Honey Burst Indian	5
+103	Organic Fair Trade Decaf Honey Burst Kenyan	2
+143	Fair Trade Decaf Supremo Balinese	1
+36	Paradise Valley Bolivian	1
+51	Mandheling Sumatran	1
+61	Black Satin Indian	1
+86	Peaberry Indian	1
+186	Organic Caturra Guatemalan	2
+30	Organic Caturra Guatemalan	2
+171	Fair Trade Supremo Dominican	1
+64	Organic Longberry Guatemalan	1
+25	Fair Trade Decaf Paradise Valley Brazilian	4
+130	Organic Decaf AA Balinese	1
+115	Fair Trade Honey Burst Peruvian	1
+84	Organic Decaf Honey Burst Indian	4
+37	Organic Decaf Black Satin Brazilian	3
+187	Fair Trade Decaf Swiss Water Peruvian	5
+183	Organic Fair Trade AA Balinese	2
+33	Organic Fair Trade Decaf Supremo Indian	2
+76	Organic Fair Trade AA Bolivian	4
+9	Fair Trade Supremo Dominican	3
+55	Organic Fair Trade Caturra Kenyan	1
+161	Decaf AA Guatemalan	4
+84	Organic Fair Trade Decaf Longberry Bolivian	2
+67	Fair Trade Decaf Supremo Guatemalan	4
+54	Fair Trade Reserve Dominican	1
+81	Caturra Guatemalan	1
+89	Mandheling Peruvian	2
+166	Organic Fair Trade Paradise Valley Indian	2
+52	Fair Trade Honey Burst Peruvian	1
+188	Organic Decaf Reserve Ethiopian	4
+71	Fair Trade Decaf Swiss Water Peruvian	2
+129	Mandheling Peruvian	2
+18	Cuzcachapa Balinese	1
+96	Swiss Water Dominican	1
+124	Fair Trade Decaf Caturra Bolivian	4
+78	Organic Fair Trade Decaf Swiss Water Peruvian	3
+134	Decaf Honey Burst Kenyan	3
+146	Fair Trade Decaf Honey Burst Brazilian	3
+128	Fair Trade Cuzcachapa Costa Rican	2
+24	Organic Fair Trade Decaf Paradise Valley Malian	5
+165	Fair Trade Cuzcachapa Costa Rican	4
+192	Reserve Balinese	2
+133	Organic AA Indian	1
+6	Organic Decaf Paradise Valley Dominican	4
+184	Organic Fair Trade Decaf Black Satin Brazilian	1
+15	Organic Decaf Reserve Peruvian	3
+24	Decaf Cuzcachapa Dominican	2
+22	Organic Fair Trade Decaf Mandheling Costa Rican	5
+81	Organic Decaf Paradise Valley Dominican	5
+175	Organic Fair Trade Sidamo Dominican	3
+72	Fair Trade Reserve Balinese	2
+14	Organic Fair Trade Honey Burst Balinese	4
+81	Organic Fair Trade Decaf Black Satin Panamanian	3
+173	Longberry Ethiopian	2
+187	Organic Decaf Caturra Costa Rican	2
+50	Fair Trade Decaf Swiss Water Bolivian	3
+99	Organic Fair Trade Decaf Longberry Bolivian	4
+168	Organic Fair Trade Paradise Valley Indian	2
+160	Decaf Reserve Indian	2
+69	Fair Trade Decaf Swiss Water Sumatran	4
+26	Organic Paradise Valley Sumatran	2
+99	Organic Decaf Cuzcachapa Panamanian	2
+58	Organic Supremo Bolivian	1
+121	Organic Peaberry Brazilian	1
+169	Decaf Cuzcachapa Kenyan	1
+74	Decaf Honey Burst Kenyan	2
+59	Fair Trade Decaf Peaberry Indian	3
+130	Decaf Caturra Salvadorean	2
+4	Organic Paradise Valley Sumatran	1
+106	Fair Trade Reserve Dominican	1
+98	Organic Decaf Caturra Kenyan	5
+108	Organic Fair Trade Decaf Black Satin Bolivian	4
+193	Mandheling Sumatran	4
+147	Supremo Brazilian	1
+113	Organic Decaf Sidamo Balinese	2
+137	Fair Trade Decaf Black Satin Peruvian	4
+63	Fair Trade Decaf Sidamo Panamanian	3
+26	Organic Honey Burst Bolivian	2
+47	Organic Fair Trade AA Balinese	4
+104	Honey Burst Dominican	2
+22	Organic Longberry Sumatran	1
+104	Reserve Balinese	2
+121	Organic Fair Trade Decaf Caturra Peruvian	2
+112	Organic Fair Trade Decaf Paradise Valley Panamanian	1
+8	Organic Fair Trade Decaf Supremo Panamanian	2
+115	Organic Fair Trade Decaf Mandheling Balinese	2
+142	Organic Fair Trade Peaberry Ethiopian	1
+125	Organic Caturra Indian	1
+23	Organic Fair Trade Decaf Caturra Dominican	1
+66	Decaf Reserve Bolivian	3
+166	Decaf AA Guatemalan	3
+51	Organic Fair Trade Decaf Paradise Valley Malian	4
+51	Organic Fair Trade Sidamo Costa Rican	4
+150	Peaberry Indian	3
+29	Organic Fair Trade Supremo Mexican	2
+94	Organic Decaf Peaberry Brazilian	4
+32	Fair Trade Paradise Valley Ethiopian	1
+148	Organic Decaf Reserve Ethiopian	4
+141	Organic AA Indian	1
+152	Organic Decaf Black Satin Dominican	5
+107	Organic Decaf Paradise Valley Ethiopian	3
+139	Organic Decaf Reserve Balinese	3
+24	Peaberry Costa Rican	1
+66	Organic Peaberry Panamanian	4
+84	Decaf Black Satin Balinese	5
+4	Fair Trade Decaf Swiss Water Peruvian	2
+15	Fair Trade Sidamo Salvadorean	1
+194	Organic Caturra Dominican	4
+95	Organic Decaf Paradise Valley Dominican	3
+134	Fair Trade Decaf Peaberry Salvadorean	5
+137	Fair Trade Reserve Balinese	1
+53	Decaf Cuzcachapa Kenyan	2
+117	Fair Trade Decaf Sidamo Panamanian	1
+19	Organic Decaf Paradise Valley Sumatran	3
+184	Decaf Swiss Water Dominican	4
+143	Fair Trade Peaberry Salvadorean	1
+146	Organic Fair Trade Decaf Longberry Bolivian	4
+26	Organic Paradise Valley Sumatran	2
+1	Organic Decaf Longberry Costa Rican	2
+82	Cuzcachapa Sumatran	2
+56	Organic Fair Trade Decaf Mandheling Balinese	4
+94	Organic Sidamo Costa Rican	4
+77	Organic Fair Trade Decaf Supremo Indian	4
+188	Organic Longberry Bolivian	4
+181	Organic Fair Trade Peaberry Bolivian	4
+158	Fair Trade Decaf Paradise Valley Peruvian	4
+16	Decaf Supremo Mexican	4
+2	Fair Trade Swiss Water Sumatran	1
+91	Mandheling Sumatran	1
+65	Organic Caturra Dominican	2
+38	Organic Decaf Sidamo Panamanian	1
+93	Decaf Paradise Valley Salvadorean	2
+27	Fair Trade Sidamo Bolivian	1
+168	Decaf Black Satin Bolivian	3
+175	Fair Trade Decaf Peaberry Indian	4
+179	Fair Trade Supremo Dominican	3
+1	Decaf Swiss Water Guatemalan	1
+48	Decaf Swiss Water Dominican	3
+163	Swiss Water Dominican	1
+127	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+17	Peaberry Indian	4
+174	Fair Trade Decaf Cuzcachapa Sumatran	2
+106	Organic Fair Trade Supremo Mexican	1
+81	Organic Longberry Malian	1
+153	Decaf Longberry Panamanian	4
+40	Reserve Salvadorean	1
+90	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+129	Sidamo Panamanian	2
+30	Longberry Ethiopian	1
+127	Fair Trade Decaf Honey Burst Brazilian	1
+59	Decaf Cuzcachapa Brazilian	5
+72	Decaf Longberry Panamanian	4
+194	Organic Decaf AA Brazilian	4
+102	Organic Decaf Sidamo Sumatran	1
+66	Fair Trade AA Malian	1
+10	Organic Fair Trade Decaf Black Satin Panamanian	4
+121	Organic Fair Trade Decaf Swiss Water Peruvian	2
+146	Organic Paradise Valley Sumatran	2
+198	Organic Fair Trade Decaf Mandheling Costa Rican	5
+87	Organic Decaf Honey Burst Brazilian	5
+110	Organic Longberry Malian	1
+47	Decaf Peaberry Indian	1
+48	Decaf Longberry Panamanian	3
+70	Longberry Ethiopian	1
+112	Reserve Balinese	4
+142	Organic Supremo Brazilian	1
+61	Organic Fair Trade Cuzcachapa Mexican	1
+52	Organic Fair Trade Decaf Black Satin Bolivian	3
+17	Organic Decaf Caturra Kenyan	3
+171	Organic Longberry Guatemalan	1
+89	Decaf Black Satin Bolivian	2
+31	Fair Trade Decaf Mandheling Dominican	3
+21	Organic Decaf Mandheling Salvadorean	3
+67	Organic Caturra Guatemalan	1
+23	Decaf Black Satin Malian	4
+50	Organic Paradise Valley Balinese	2
+126	Swiss Water Dominican	4
+170	Fair Trade Decaf Swiss Water Malian	5
+195	Fair Trade Reserve Dominican	1
+196	Organic Decaf Cuzcachapa Malian	1
+57	Organic Fair Trade Decaf Mandheling Costa Rican	5
+182	Decaf Honey Burst Salvadorean	2
+9	Organic AA Peruvian	2
+80	Organic Fair Trade Decaf Paradise Valley Malian	4
+128	Organic Fair Trade Decaf Reserve Panamanian	1
+56	Fair Trade Supremo Dominican	3
+180	Peaberry Indian	1
+118	Organic Paradise Valley Ethiopian	1
+146	Organic Decaf Caturra Kenyan	2
+141	Organic Fair Trade Paradise Valley Indian	3
+18	Decaf Supremo Mexican	5
+82	Organic Fair Trade Decaf Honey Burst Kenyan	3
+183	Decaf Cuzcachapa Kenyan	3
+77	Decaf Peaberry Indian	3
+111	Decaf Caturra Salvadorean	3
+30	Organic Swiss Water Indian	2
+166	Paradise Valley Bolivian	3
+178	Organic Honey Burst Indian	1
+123	Organic Fair Trade Decaf Mandheling Balinese	2
+100	Decaf AA Guatemalan	5
+140	Sidamo Panamanian	1
+76	Organic Supremo Peruvian	2
+156	Organic Fair Trade Supremo Balinese	1
+46	Cuzcachapa Costa Rican	3
+129	Organic Cuzcachapa Brazilian	1
+25	Organic Caturra Sumatran	1
+104	Organic Paradise Valley Bolivian	1
+165	Supremo Brazilian	2
+125	Organic Fair Trade AA Bolivian	1
+150	Organic Fair Trade Sidamo Costa Rican	2
+9	Organic Decaf Reserve Peruvian	2
+34	Fair Trade AA Malian	3
+143	Organic Fair Trade Mandheling Guatemalan	2
+34	Cuzcachapa Sumatran	1
+117	Cuzcachapa Sumatran	3
+71	Fair Trade Decaf Black Satin Peruvian	2
+113	Decaf Honey Burst Balinese	3
+94	Fair Trade Cuzcachapa Costa Rican	1
+189	Organic Fair Trade Supremo Mexican	1
+28	Decaf Supremo Dominican	3
+10	Decaf Cuzcachapa Dominican	3
+80	Decaf Honey Burst Salvadorean	3
+162	Fair Trade Decaf Swiss Water Peruvian	1
+170	Organic Decaf Caturra Kenyan	2
+182	Organic Paradise Valley Sumatran	1
+91	Decaf AA Guatemalan	2
+100	Decaf Supremo Mexican	5
+17	Decaf Reserve Indian	4
+83	Organic Decaf Sidamo Sumatran	4
+197	Organic Honey Burst Indian	1
+119	Decaf Black Satin Malian	3
+86	Decaf Reserve Indian	1
+192	Organic Decaf AA Malian	1
+132	Fair Trade Supremo Dominican	3
+8	Organic Longberry Sumatran	1
+126	Organic Fair Trade Peaberry Bolivian	1
+34	Fair Trade Decaf Supremo Balinese	3
+158	Fair Trade Peaberry Salvadorean	4
+69	Organic Fair Trade Decaf Black Satin Panamanian	5
+199	Organic AA Peruvian	1
+96	Cuzcachapa Balinese	1
+113	Peaberry Salvadorean	1
+57	Fair Trade AA Malian	1
+154	Supremo Brazilian	1
+79	Organic Fair Trade Peaberry Ethiopian	1
+176	Organic Fair Trade Black Satin Salvadorean	1
+114	Fair Trade Decaf Sidamo Sumatran	3
+192	Organic Fair Trade Decaf Supremo Malian	3
+186	Organic Peaberry Peruvian	2
+94	Supremo Kenyan	3
+184	Black Satin Indian	4
+166	Decaf Swiss Water Dominican	3
+60	Organic Decaf Longberry Costa Rican	4
+97	Organic Fair Trade Honey Burst Balinese	3
+21	Fair Trade Decaf Mandheling Dominican	2
+62	Peaberry Costa Rican	1
+136	Organic Honey Burst Salvadorean	2
+31	Decaf Cuzcachapa Dominican	5
+122	Organic Fair Trade AA Indian	1
+197	Swiss Water Dominican	2
+20	Organic Honey Burst Indian	1
+40	Fair Trade Swiss Water Sumatran	1
+42	Organic Longberry Bolivian	2
+47	Organic Decaf Paradise Valley Ethiopian	2
+40	Organic Decaf Swiss Water Kenyan	5
+33	Organic Fair Trade Decaf Paradise Valley Malian	2
+52	Organic Decaf Reserve Ethiopian	5
+149	Organic Decaf Sidamo Panamanian	2
+12	Fair Trade Decaf Paradise Valley Brazilian	5
+1	Reserve Balinese	1
+124	Organic Fair Trade Decaf Longberry Bolivian	5
+58	Organic Fair Trade Swiss Water Peruvian	1
+162	Organic Fair Trade Sidamo Costa Rican	2
+76	Organic Fair Trade Decaf Mandheling Balinese	4
+162	Organic Fair Trade Decaf Black Satin Panamanian	2
+155	Decaf AA Guatemalan	1
+15	Longberry Brazilian	1
+151	Black Satin Indian	1
+169	Fair Trade Decaf Cuzcachapa Sumatran	3
+115	Organic Fair Trade Decaf Reserve Panamanian	2
+181	Organic Decaf Paradise Valley Ethiopian	2
+131	Organic Caturra Guatemalan	1
+17	Fair Trade Decaf AA Indian	2
+59	Organic Sidamo Costa Rican	1
+109	Organic Fair Trade Decaf Swiss Water Malian	3
+167	Decaf Cuzcachapa Dominican	4
+90	Supremo Brazilian	1
+121	Organic Decaf Mandheling Costa Rican	4
+40	Supremo Kenyan	1
+33	Honey Burst Sumatran	3
+182	Longberry Brazilian	2
+84	Decaf Cuzcachapa Dominican	5
+101	Organic Paradise Valley Sumatran	2
+190	Organic Fair Trade Mandheling Guatemalan	1
+17	Organic Supremo Brazilian	3
+72	Organic Fair Trade Decaf Mandheling Balinese	1
+117	Organic Decaf Reserve Peruvian	4
+15	Organic Decaf AA Guatemalan	3
+43	Longberry Ethiopian	1
+119	Decaf Caturra Salvadorean	3
+144	Fair Trade Honey Burst Kenyan	1
+67	Decaf Reserve Peruvian	2
+27	Decaf Caturra Guatemalan	2
+67	Organic Longberry Malian	1
+111	Decaf Cuzcachapa Kenyan	3
+55	Cuzcachapa Sumatran	1
+125	Organic Decaf Reserve Peruvian	5
+138	Longberry Brazilian	1
+121	Fair Trade Decaf Swiss Water Sumatran	3
+110	Organic Decaf Cuzcachapa Panamanian	5
+128	Organic Fair Trade Decaf Honey Burst Kenyan	1
+90	Black Satin Indian	1
+184	Fair Trade Decaf Swiss Water Bolivian	2
+84	Organic Decaf Paradise Valley Brazilian	4
+59	Fair Trade Supremo Dominican	1
+69	Organic Fair Trade Sidamo Dominican	1
+86	Organic Longberry Sumatran	2
+17	Decaf Cuzcachapa Dominican	4
+121	AA Ethiopian	1
+5	Fair Trade Decaf Sidamo Peruvian	2
+113	Organic Fair Trade Sidamo Costa Rican	1
+72	Fair Trade Decaf Swiss Water Malian	2
+180	Organic Fair Trade Supremo Mexican	1
+196	Organic Honey Burst Bolivian	1
+39	Organic Honey Burst Indian	2
+76	Fair Trade Decaf Paradise Valley Brazilian	3
+11	Fair Trade Decaf Peaberry Indian	3
+129	Organic Decaf Cuzcachapa Panamanian	1
+136	Honey Burst Sumatran	1
+199	Decaf Honey Burst Kenyan	2
+78	Honey Burst Dominican	2
+6	Organic Decaf Supremo Panamanian	4
+42	Decaf Caturra Guatemalan	1
+139	Organic Fair Trade Peaberry Guatemalan	1
+43	Organic Decaf AA Guatemalan	3
+148	Organic Decaf Supremo Panamanian	4
+55	Organic Fair Trade Decaf Paradise Valley Malian	5
+154	Paradise Valley Bolivian	1
+125	Organic Decaf Honey Burst Indian	5
+59	Fair Trade Decaf Longberry Brazilian	3
+196	Organic Fair Trade Supremo Balinese	3
+168	Decaf Caturra Guatemalan	3
+193	Fair Trade Sidamo Salvadorean	2
+5	Organic Fair Trade Supremo Balinese	1
+161	Sidamo Panamanian	4
+28	Organic Swiss Water Indian	4
+178	Fair Trade Decaf Peaberry Indian	3
+37	Fair Trade AA Malian	1
+183	Organic AA Peruvian	4
+30	Organic Decaf Sidamo Sumatran	2
+60	Organic Fair Trade Caturra Kenyan	2
+119	Decaf Black Satin Malian	3
+151	Organic Fair Trade Decaf Supremo Malian	5
+88	Fair Trade Decaf Sidamo Sumatran	2
+75	Organic Supremo Peruvian	1
+65	Organic Decaf Longberry Costa Rican	2
+191	Decaf Honey Burst Salvadorean	4
+76	Organic Decaf Caturra Kenyan	2
+25	Organic Longberry Malian	1
+44	Caturra Guatemalan	1
+105	Organic Fair Trade Peaberry Mexican	1
+4	Organic Honey Burst Salvadorean	1
+147	Honey Burst Dominican	1
+131	Reserve Salvadorean	1
+135	Organic Honey Burst Bolivian	1
+8	Organic Fair Trade Decaf Reserve Panamanian	2
+78	Fair Trade Sidamo Peruvian	4
+190	Organic Fair Trade Decaf Paradise Valley Kenyan	5
+136	Decaf Caturra Guatemalan	1
+168	Sidamo Panamanian	3
+169	Organic Swiss Water Indian	2
+88	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+2	Decaf Black Satin Balinese	3
+166	Decaf Honey Burst Kenyan	3
+181	Organic Fair Trade Decaf Caturra Peruvian	4
+107	Decaf Cuzcachapa Balinese	2
+145	Fair Trade Decaf Longberry Brazilian	2
+106	Organic Decaf Sidamo Balinese	5
+144	Fair Trade Decaf Cuzcachapa Sumatran	2
+195	Decaf Black Satin Malian	3
+159	Organic Decaf Black Satin Brazilian	3
+168	Supremo Brazilian	3
+52	Organic Decaf Swiss Water Indian	5
+156	Sidamo Panamanian	1
+17	Organic Paradise Valley Ethiopian	3
+20	Organic Longberry Bolivian	1
+41	Fair Trade Decaf Honey Burst Brazilian	2
+81	Fair Trade Decaf Sidamo Peruvian	2
+72	Fair Trade Decaf Longberry Brazilian	2
+72	Organic Decaf Swiss Water Indian	3
+44	Longberry Ethiopian	1
+52	Caturra Guatemalan	1
+181	Fair Trade Sidamo Peruvian	3
+146	Fair Trade Paradise Valley Ethiopian	3
+4	Decaf Honey Burst Salvadorean	4
+68	Organic Decaf Caturra Panamanian	3
+152	Organic Decaf AA Guatemalan	5
+51	Fair Trade Decaf Sidamo Peruvian	3
+160	Organic Fair Trade Black Satin Salvadorean	3
+130	Organic Decaf Swiss Water Kenyan	1
+190	Fair Trade Decaf Swiss Water Sumatran	4
+50	Fair Trade Cuzcachapa Costa Rican	3
+18	Fair Trade Caturra Salvadorean	1
+124	Organic Peaberry Peruvian	1
+64	Reserve Balinese	2
+117	Organic Fair Trade Decaf Paradise Valley Kenyan	2
+104	Organic Fair Trade Cuzcachapa Mexican	3
+57	Supremo Salvadorean	1
+166	Longberry Ethiopian	3
+47	Sidamo Panamanian	1
+27	Organic Decaf Reserve Balinese	3
+94	Organic Decaf Paradise Valley Ethiopian	4
+106	Fair Trade Decaf Cuzcachapa Panamanian	2
+40	Organic Decaf Reserve Balinese	5
+88	Fair Trade Decaf Sidamo Peruvian	2
+182	Organic Decaf AA Guatemalan	1
+70	Decaf Black Satin Bolivian	1
+29	Decaf Longberry Panamanian	3
+34	Organic Paradise Valley Ethiopian	2
+13	Organic Decaf Mandheling Costa Rican	2
+0	Organic Caturra Indian	1
+115	Organic Swiss Water Indian	4
+17	Fair Trade Decaf Mandheling Dominican	2
+68	Organic Fair Trade Sidamo Dominican	1
+25	Fair Trade Sidamo Peruvian	1
+34	Organic Decaf Honey Burst Indian	2
+96	Mandheling Peruvian	1
+3	Decaf Caturra Guatemalan	3
+129	Organic Fair Trade Decaf Black Satin Salvadorean	3
+41	Organic Decaf AA Balinese	5
+26	Supremo Kenyan	1
+33	Decaf Black Satin Malian	3
+24	Fair Trade Supremo Sumatran	1
+143	Organic Fair Trade Caturra Malian	2
+95	Supremo Brazilian	4
+91	Organic Decaf Swiss Water Indian	3
+32	Organic Fair Trade Cuzcachapa Mexican	1
+190	Organic Fair Trade Decaf Honey Burst Kenyan	5
+199	Decaf Honey Burst Kenyan	2
+8	Supremo Brazilian	1
+172	Cuzcachapa Sumatran	1
+24	Organic Fair Trade Decaf Swiss Water Peruvian	5
+110	Decaf Caturra Salvadorean	4
+57	Organic Fair Trade Decaf Caturra Peruvian	5
+10	Swiss Water Dominican	1
+171	Organic Decaf Supremo Panamanian	4
+88	Organic Peaberry Peruvian	1
+21	Decaf Black Satin Bolivian	4
+102	Organic Honey Burst Indian	1
+126	Organic Fair Trade Decaf Black Satin Salvadorean	1
+47	Mandheling Sumatran	1
+133	Organic Fair Trade Decaf Swiss Water Malian	4
+123	Organic Fair Trade AA Balinese	2
+178	Reserve Salvadorean	1
+108	Decaf Paradise Valley Indian	1
+114	Organic Decaf AA Brazilian	4
+186	Fair Trade Decaf Supremo Balinese	3
+4	Organic Decaf Peaberry Brazilian	5
+180	Fair Trade Decaf Mandheling Dominican	4
+28	Organic Paradise Valley Sumatran	4
+79	Decaf Honey Burst Balinese	5
+35	AA Ethiopian	1
+111	Decaf Supremo Dominican	3
+115	Organic Decaf AA Guatemalan	4
+78	Organic Caturra Indian	1
+152	Fair Trade Decaf Black Satin Peruvian	2
+157	Longberry Brazilian	2
+193	Decaf Swiss Water Dominican	4
+165	Paradise Valley Bolivian	2
+41	Organic Fair Trade Mandheling Guatemalan	1
+72	Mandheling Costa Rican	4
+152	Organic Paradise Valley Sumatran	1
+199	Organic Sidamo Costa Rican	1
+190	Organic Swiss Water Indian	1
+13	Decaf Supremo Dominican	1
+44	Peaberry Indian	1
+81	Organic Supremo Bolivian	1
+27	Fair Trade Decaf Black Satin Peruvian	4
+45	Organic Decaf AA Balinese	4
+29	Organic Decaf Paradise Valley Sumatran	4
+85	Caturra Guatemalan	1
+44	Supremo Salvadorean	1
+168	Peaberry Salvadorean	3
+44	Organic Fair Trade Cuzcachapa Mexican	1
+192	Organic Caturra Sumatran	1
+146	Fair Trade Swiss Water Sumatran	3
+106	Fair Trade Honey Burst Kenyan	1
+23	Decaf AA Guatemalan	4
+80	Organic Fair Trade AA Balinese	1
+148	Fair Trade Honey Burst Kenyan	1
+67	Fair Trade Decaf Supremo Balinese	4
+57	Fair Trade Decaf Peaberry Indian	4
+73	Decaf Longberry Panamanian	1
+68	Organic Fair Trade Decaf Reserve Ethiopian	1
+124	Supremo Brazilian	1
+78	Organic Longberry Guatemalan	1
+134	Organic Caturra Dominican	1
+182	Organic Cuzcachapa Brazilian	1
+40	Organic Decaf Cuzcachapa Malian	5
+2	Decaf Honey Burst Kenyan	3
+84	Organic Decaf Sidamo Sumatran	4
+13	Reserve Salvadorean	1
+186	Decaf Longberry Panamanian	1
+24	Organic Fair Trade Decaf Longberry Bolivian	5
+76	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+16	Fair Trade Decaf Swiss Water Sumatran	2
+124	Organic Decaf Cuzcachapa Malian	3
+37	Organic Caturra Guatemalan	1
+98	Decaf Paradise Valley Indian	4
+14	Longberry Brazilian	1
+114	Organic Decaf Paradise Valley Brazilian	4
+199	Decaf Longberry Panamanian	2
+2	Organic Decaf Paradise Valley Dominican	2
+159	Fair Trade Decaf Peaberry Salvadorean	2
+22	Organic Fair Trade Decaf Mandheling Balinese	5
+70	Fair Trade Sidamo Salvadorean	3
+128	Organic Longberry Sumatran	3
+51	Honey Burst Sumatran	1
+56	Organic Decaf Black Satin Brazilian	2
+91	Fair Trade Decaf Black Satin Peruvian	4
+63	Organic Decaf Sidamo Sumatran	2
+82	Organic Fair Trade Decaf Reserve Ethiopian	3
+115	Decaf Reserve Bolivian	3
+195	Organic Peaberry Brazilian	1
+81	Organic Swiss Water Indian	1
+160	Fair Trade Peaberry Malian	4
+49	Organic Peaberry Brazilian	2
+162	Organic Paradise Valley Ethiopian	4
+20	Organic Fair Trade Peaberry Bolivian	1
+17	Organic Fair Trade Decaf Swiss Water Malian	1
+89	Cuzcachapa Costa Rican	2
+176	Organic Decaf Reserve Ethiopian	2
+100	Organic Fair Trade Decaf Swiss Water Malian	2
+137	Organic Cuzcachapa Panamanian	1
+38	Organic Caturra Guatemalan	1
+85	Fair Trade Decaf Sidamo Sumatran	3
+133	Organic Decaf Honey Burst Indian	2
+84	Organic Fair Trade Decaf Black Satin Balinese	2
+142	Organic Supremo Bolivian	1
+164	Peaberry Salvadorean	3
+15	Fair Trade Decaf Mandheling Dominican	4
+26	Organic Paradise Valley Ethiopian	2
+188	Organic Cuzcachapa Brazilian	4
+198	Fair Trade Supremo Sumatran	1
+81	Fair Trade Decaf Black Satin Peruvian	2
+54	Peaberry Salvadorean	3
+87	Organic Fair Trade Black Satin Salvadorean	1
+19	Organic Paradise Valley Bolivian	1
+145	Organic Decaf Swiss Water Indian	5
+16	Organic Paradise Valley Ethiopian	1
+83	Organic Paradise Valley Ethiopian	4
+36	Fair Trade Caturra Salvadorean	1
+72	Organic Fair Trade Decaf Black Satin Panamanian	1
+1	Decaf Honey Burst Salvadorean	1
+23	Fair Trade Reserve Dominican	2
+190	Organic Paradise Valley Sumatran	1
+157	Organic Decaf Mandheling Costa Rican	1
+18	Organic Caturra Dominican	1
+172	Organic Sidamo Costa Rican	1
+117	Fair Trade Decaf Cuzcachapa Sumatran	1
+100	Organic Decaf Paradise Valley Dominican	4
+176	Supremo Brazilian	1
+106	Fair Trade Decaf Longberry Brazilian	2
+198	Decaf Swiss Water Guatemalan	2
+63	Organic Fair Trade Decaf Black Satin Panamanian	4
+101	Organic AA Peruvian	2
+147	Fair Trade Decaf Swiss Water Bolivian	3
+130	Organic Decaf Honey Burst Brazilian	1
+97	Organic Fair Trade Decaf Swiss Water Malian	3
+112	Decaf Reserve Indian	4
+2	Honey Burst Sumatran	1
+75	Organic Decaf Paradise Valley Ethiopian	4
+94	AA Ethiopian	3
+125	Organic Decaf Paradise Valley Brazilian	5
+112	Organic Paradise Valley Bolivian	3
+165	Mandheling Peruvian	2
+65	Fair Trade Decaf Peaberry Salvadorean	3
+54	Organic Fair Trade Decaf Swiss Water Peruvian	2
+28	Organic Fair Trade Decaf Swiss Water Salvadorean	2
+89	Decaf Reserve Peruvian	2
+171	Organic Decaf Sidamo Balinese	4
+188	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+47	Decaf Longberry Panamanian	1
+133	Peaberry Costa Rican	1
+164	Organic Fair Trade Sidamo Costa Rican	2
+14	Organic Swiss Water Indian	2
+195	Organic Fair Trade Decaf Swiss Water Peruvian	4
+197	Organic Fair Trade Decaf Supremo Indian	3
+48	Cuzcachapa Sumatran	3
+113	Organic Swiss Water Indian	1
+79	Organic Fair Trade Mandheling Guatemalan	1
+140	Decaf Cuzcachapa Dominican	5
+113	Fair Trade Decaf Supremo Guatemalan	5
+91	Organic Honey Burst Indian	1
+146	Organic Decaf Swiss Water Kenyan	2
+15	Organic Fair Trade Sidamo Dominican	1
+184	Organic Decaf Sidamo Sumatran	3
+16	Decaf Black Satin Balinese	4
+77	Organic Fair Trade Supremo Mexican	1
+120	Decaf Honey Burst Balinese	4
+85	Fair Trade Decaf AA Indian	3
+184	Decaf Paradise Valley Salvadorean	4
+141	Organic Decaf Sidamo Balinese	1
+25	Organic Decaf Sidamo Sumatran	3
+101	Fair Trade Peaberry Salvadorean	3
+188	Supremo Brazilian	3
+9	Sidamo Panamanian	1
+8	Organic Fair Trade Decaf Swiss Water Malian	2
+112	Organic Peaberry Panamanian	3
+38	Organic Fair Trade Decaf Paradise Valley Panamanian	3
+148	Organic Decaf Reserve Balinese	4
+38	Swiss Water Dominican	2
+82	Fair Trade Decaf Supremo Guatemalan	4
+15	Organic Fair Trade Peaberry Ethiopian	1
+189	Decaf Black Satin Balinese	5
+170	Fair Trade Decaf Swiss Water Malian	5
+186	Mandheling Costa Rican	1
+114	Reserve Salvadorean	1
+70	Organic Decaf Cuzcachapa Panamanian	2
+43	Caturra Guatemalan	1
+192	Organic Swiss Water Indian	1
+160	Organic Honey Burst Indian	1
+188	Organic Fair Trade Caturra Malian	2
+169	Caturra Guatemalan	1
+91	Organic Fair Trade AA Balinese	1
+171	Decaf Honey Burst Balinese	5
+136	Organic Decaf AA Brazilian	2
+21	Fair Trade Decaf Honey Burst Brazilian	2
+142	Sidamo Panamanian	1
+84	Cuzcachapa Sumatran	1
+11	Honey Burst Sumatran	1
+67	Organic Fair Trade Decaf Mandheling Balinese	5
+78	Organic Fair Trade Decaf Caturra Peruvian	3
+0	Organic Longberry Sumatran	1
+68	Decaf AA Guatemalan	4
+53	Fair Trade Decaf AA Indian	4
+55	Decaf Honey Burst Kenyan	2
+197	Organic Fair Trade Peaberry Mexican	3
+137	Organic Decaf Paradise Valley Dominican	3
+165	Organic Decaf Sidamo Sumatran	1
+17	Organic Fair Trade Decaf Black Satin Panamanian	1
+191	Organic Cuzcachapa Panamanian	3
+51	Organic Decaf Sidamo Panamanian	2
+148	Organic Paradise Valley Balinese	4
+58	Organic Peaberry Brazilian	1
+40	Organic Longberry Sumatran	1
+17	Organic Decaf Sidamo Sumatran	3
+139	Organic Decaf Mandheling Costa Rican	3
+30	Organic Fair Trade Decaf Supremo Malian	4
+147	Organic Peaberry Panamanian	1
+38	Fair Trade Decaf Swiss Water Peruvian	4
+51	Organic Fair Trade Sidamo Dominican	4
+152	Fair Trade Decaf Peaberry Indian	2
+92	Fair Trade Decaf Cuzcachapa Panamanian	3
+92	Organic Decaf Caturra Kenyan	2
+1	Organic Peaberry Brazilian	2
+11	Organic Decaf Mandheling Salvadorean	4
+124	Fair Trade Supremo Dominican	1
+10	Fair Trade Decaf Swiss Water Malian	5
+9	Organic Honey Burst Bolivian	2
+172	Organic Longberry Guatemalan	1
+30	Organic Fair Trade Decaf Black Satin Panamanian	4
+124	Fair Trade Sidamo Bolivian	1
+147	Organic Decaf Swiss Water Indian	4
+56	Fair Trade Swiss Water Sumatran	3
+4	Organic Supremo Bolivian	1
+105	Caturra Guatemalan	1
+127	Fair Trade Decaf Sidamo Panamanian	1
+149	Organic Fair Trade Decaf Black Satin Balinese	4
+199	Reserve Balinese	1
+46	Black Satin Indian	3
+198	Organic Cuzcachapa Brazilian	1
+17	Organic Decaf Paradise Valley Dominican	3
+147	Organic Fair Trade AA Indian	1
+86	Organic Caturra Guatemalan	2
+116	Organic Decaf Reserve Balinese	3
+190	Fair Trade Decaf Paradise Valley Peruvian	4
+131	Decaf Caturra Salvadorean	2
+91	Organic Caturra Indian	1
+189	Organic AA Peruvian	1
+116	Organic Peaberry Brazilian	1
+51	Organic Supremo Peruvian	2
+51	Organic Fair Trade Decaf Swiss Water Malian	4
+198	Fair Trade Sidamo Salvadorean	1
+15	Organic Paradise Valley Ethiopian	1
+147	Fair Trade Sidamo Bolivian	1
+73	Cuzcachapa Balinese	1
+163	Organic Cuzcachapa Panamanian	1
+152	Decaf Honey Burst Salvadorean	4
+92	Organic Longberry Sumatran	2
+187	Organic Decaf Sidamo Sumatran	2
+78	Fair Trade Honey Burst Peruvian	4
+10	Organic Decaf Paradise Valley Dominican	2
+106	Organic Decaf Honey Burst Brazilian	5
+159	Decaf Cuzcachapa Brazilian	4
+142	Cuzcachapa Balinese	1
+119	Fair Trade Decaf Swiss Water Sumatran	5
+119	Organic Caturra Dominican	1
+13	Organic Decaf AA Balinese	2
+128	Organic Fair Trade Decaf Caturra Dominican	1
+135	Organic Longberry Guatemalan	1
+90	Organic Fair Trade Decaf Black Satin Balinese	3
+94	Organic Decaf Sidamo Balinese	4
+63	Fair Trade Honey Burst Peruvian	3
+136	Organic Fair Trade AA Bolivian	4
+57	Decaf Supremo Mexican	2
+26	Decaf Honey Burst Kenyan	1
+124	Cuzcachapa Balinese	1
+66	Fair Trade Decaf Peaberry Guatemalan	1
+128	Organic Fair Trade Decaf Swiss Water Peruvian	1
+195	Organic Longberry Malian	1
+66	Organic Fair Trade Decaf Caturra Peruvian	2
+81	Fair Trade Decaf Supremo Guatemalan	2
+107	Organic Honey Burst Indian	1
+18	Organic Paradise Valley Sumatran	1
+187	Decaf Paradise Valley Indian	3
+39	Decaf Cuzcachapa Balinese	1
+152	Organic Decaf Black Satin Brazilian	5
+198	Decaf Swiss Water Dominican	2
+132	Decaf Caturra Salvadorean	1
+127	Peaberry Salvadorean	3
+30	Fair Trade Decaf Honey Burst Brazilian	3
+85	Organic Fair Trade Decaf Honey Burst Kenyan	4
+32	Decaf Reserve Indian	2
+153	Organic Fair Trade Decaf Black Satin Panamanian	1
+84	Organic Fair Trade Sidamo Costa Rican	1
+96	Organic Fair Trade Sidamo Dominican	1
+104	Decaf Honey Burst Kenyan	2
+62	Organic Fair Trade Decaf Black Satin Balinese	3
+125	Organic Caturra Sumatran	1
+99	Fair Trade Decaf Mandheling Dominican	3
+14	Cuzcachapa Costa Rican	1
+95	Organic Fair Trade Decaf Paradise Valley Kenyan	1
+67	Mandheling Costa Rican	1
+42	Organic Longberry Bolivian	2
+7	Fair Trade Decaf Peaberry Indian	2
+18	Fair Trade Decaf Peaberry Salvadorean	3
+82	Organic Paradise Valley Bolivian	1
+112	Fair Trade Supremo Sumatran	2
+134	Organic Paradise Valley Bolivian	1
+63	Organic Cuzcachapa Brazilian	2
+156	Organic Decaf Reserve Peruvian	5
+170	Fair Trade Decaf Honey Burst Brazilian	5
+117	Fair Trade Decaf Paradise Valley Brazilian	1
+5	Organic Decaf Mandheling Salvadorean	5
+101	Fair Trade Decaf Peaberry Guatemalan	3
+24	Organic Fair Trade AA Balinese	1
+179	Organic Fair Trade Decaf Swiss Water Peruvian	4
+129	Decaf Supremo Mexican	2
+32	Fair Trade Supremo Sumatran	1
+78	Supremo Brazilian	2
+75	Organic Caturra Indian	1
+174	Fair Trade Decaf Supremo Guatemalan	2
+27	Organic Swiss Water Kenyan	1
+54	Organic Fair Trade Caturra Malian	2
+110	Organic Fair Trade Decaf Paradise Valley Kenyan	3
+77	Organic Decaf Black Satin Brazilian	2
+141	Fair Trade Caturra Salvadorean	4
+41	Organic Longberry Bolivian	1
+86	Organic Fair Trade Sidamo Dominican	4
+80	Organic Decaf Caturra Panamanian	2
+52	Organic Fair Trade Decaf Black Satin Panamanian	3
+88	Organic Caturra Dominican	1
+199	Fair Trade Decaf Peaberry Indian	4
+59	Organic Decaf Caturra Panamanian	4
+153	Fair Trade Decaf Honey Burst Brazilian	2
+78	Organic Decaf Reserve Peruvian	1
+46	Fair Trade Decaf Peaberry Salvadorean	1
+111	Fair Trade Decaf Peaberry Salvadorean	1
+87	Decaf Longberry Panamanian	4
+56	Organic Decaf Black Satin Brazilian	2
+83	Organic Longberry Bolivian	4
+7	Organic Fair Trade Sidamo Costa Rican	1
+111	Reserve Balinese	3
+68	Organic AA Indian	3
+42	Fair Trade Decaf Mandheling Dominican	3
+57	Organic Decaf Sidamo Sumatran	3
+50	Organic Decaf Supremo Panamanian	2
+176	Fair Trade Sidamo Salvadorean	1
+54	Organic Fair Trade Sidamo Costa Rican	2
+93	Organic Decaf Cuzcachapa Panamanian	3
+41	Organic Paradise Valley Bolivian	1
+73	Fair Trade Decaf Sidamo Sumatran	3
+100	Organic Fair Trade Sidamo Costa Rican	1
+99	Organic Decaf Honey Burst Indian	2
+126	Decaf Swiss Water Dominican	4
+95	Decaf Swiss Water Dominican	4
+150	Organic Fair Trade Supremo Mexican	2
+5	Organic Fair Trade Decaf Reserve Panamanian	3
+139	Honey Burst Sumatran	4
+60	Organic Decaf Swiss Water Indian	4
+177	Organic Honey Burst Bolivian	1
+41	Fair Trade Supremo Dominican	1
+74	Peaberry Indian	2
+99	Mandheling Peruvian	1
+81	Organic Honey Burst Indian	1
+137	Organic Fair Trade Decaf Swiss Water Salvadorean	5
+154	Organic Peaberry Peruvian	2
+16	Organic Decaf Swiss Water Kenyan	5
+109	Fair Trade Decaf Sidamo Panamanian	4
+36	Cuzcachapa Sumatran	1
+139	Fair Trade Decaf Swiss Water Bolivian	2
+153	Decaf Reserve Indian	4
+128	Reserve Balinese	4
+130	Fair Trade Decaf Swiss Water Peruvian	4
+117	Organic Decaf Caturra Panamanian	4
+146	Fair Trade Supremo Sumatran	3
+108	Organic Cuzcachapa Brazilian	2
+185	Sidamo Panamanian	1
+168	Fair Trade Reserve Balinese	1
+138	Organic Peaberry Brazilian	1
+11	Organic Fair Trade Decaf Black Satin Panamanian	2
+76	Fair Trade Decaf Swiss Water Malian	3
+84	Organic Peaberry Brazilian	1
+21	Organic Decaf Cuzcachapa Malian	3
+5	Organic Cuzcachapa Brazilian	1
+22	Fair Trade Decaf Swiss Water Peruvian	4
+187	Organic Caturra Dominican	1
+143	Organic Paradise Valley Ethiopian	4
+131	Fair Trade Decaf Caturra Bolivian	4
+144	Fair Trade Decaf Honey Burst Brazilian	2
+50	Organic Fair Trade Decaf Honey Burst Kenyan	4
+44	Organic Fair Trade Peaberry Guatemalan	1
+45	Fair Trade Decaf Sidamo Sumatran	3
+24	Decaf Cuzcachapa Kenyan	2
+115	Decaf Reserve Peruvian	3
+51	Caturra Guatemalan	1
+0	Supremo Brazilian	2
+133	Fair Trade Supremo Dominican	1
+117	Organic Supremo Bolivian	4
+168	Decaf Black Satin Balinese	3
+94	Organic Peaberry Brazilian	4
+191	Organic Fair Trade Decaf Longberry Bolivian	1
+136	Fair Trade Decaf Sidamo Peruvian	3
+125	Fair Trade Supremo Dominican	1
+183	Fair Trade Supremo Sumatran	1
+40	Organic Fair Trade Decaf Mandheling Costa Rican	3
+177	Organic Fair Trade Decaf Longberry Bolivian	2
+82	Fair Trade Decaf Swiss Water Peruvian	4
+36	Fair Trade Sidamo Bolivian	1
+107	Organic Honey Burst Salvadorean	1
+10	Decaf Honey Burst Kenyan	3
+21	Cuzcachapa Balinese	4
+126	Organic Fair Trade Swiss Water Peruvian	1
+183	Reserve Balinese	3
+94	Organic Supremo Brazilian	4
+188	Organic Peaberry Peruvian	4
+194	Fair Trade Sidamo Salvadorean	1
+190	Organic Fair Trade Decaf Mandheling Costa Rican	5
+147	Fair Trade Decaf Paradise Valley Brazilian	3
+37	Mandheling Peruvian	1
+33	Peaberry Costa Rican	3
+117	Fair Trade Honey Burst Kenyan	1
+167	Fair Trade Decaf Paradise Valley Peruvian	2
+60	Organic Caturra Dominican	4
+118	Organic Fair Trade Caturra Malian	1
+169	Organic Decaf Sidamo Balinese	2
+37	Organic Decaf Paradise Valley Ethiopian	3
+132	Organic Cuzcachapa Brazilian	2
+56	Decaf Reserve Peruvian	1
+96	Organic Fair Trade Decaf Paradise Valley Malian	3
+110	Paradise Valley Bolivian	1
+148	Organic Fair Trade AA Bolivian	2
+93	Decaf Caturra Salvadorean	2
+98	Fair Trade Swiss Water Sumatran	1
+129	Organic Decaf Mandheling Costa Rican	1
+156	Organic Fair Trade AA Indian	1
+81	Fair Trade Decaf AA Indian	2
+77	Organic Fair Trade Decaf Reserve Panamanian	4
+70	Paradise Valley Bolivian	1
+126	Fair Trade Decaf Honey Burst Brazilian	2
+35	Decaf Cuzcachapa Kenyan	4
+8	Organic Decaf Paradise Valley Ethiopian	4
+129	Organic Fair Trade Sidamo Dominican	3
+106	Organic Fair Trade Decaf Honey Burst Kenyan	3
+125	Organic Longberry Sumatran	1
+94	Supremo Salvadorean	3
+156	Organic Supremo Bolivian	1
+107	Organic Decaf Swiss Water Kenyan	3
+136	Fair Trade AA Malian	3
+120	Supremo Brazilian	1
+9	Organic Decaf Reserve Peruvian	2
+84	Fair Trade Caturra Salvadorean	1
+144	Fair Trade Reserve Balinese	1
+74	Organic AA Peruvian	1
+159	Decaf Supremo Dominican	4
+13	Organic Supremo Brazilian	2
+31	Organic Peaberry Panamanian	1
+190	Organic Fair Trade Paradise Valley Indian	1
+185	Organic Fair Trade Decaf Swiss Water Malian	2
+97	Organic Fair Trade Peaberry Bolivian	3
+190	Fair Trade Decaf Mandheling Dominican	4
+143	Organic Fair Trade Decaf Supremo Panamanian	2
+100	Organic Fair Trade Black Satin Salvadorean	1
+13	Organic Decaf Cuzcachapa Panamanian	2
+111	Fair Trade Supremo Dominican	1
+12	Organic Fair Trade Cuzcachapa Mexican	1
+130	Organic Decaf Reserve Peruvian	1
+126	Organic Decaf Reserve Balinese	3
+74	Organic Swiss Water Indian	1
+117	Organic Decaf Paradise Valley Ethiopian	4
+84	Paradise Valley Bolivian	1
+0	Organic Peaberry Panamanian	1
+177	Organic Fair Trade AA Balinese	1
+164	Organic Sidamo Costa Rican	4
+70	Organic Fair Trade Decaf Black Satin Panamanian	4
+72	Organic Fair Trade Decaf Swiss Water Salvadorean	1
+72	Organic Fair Trade Decaf Swiss Water Malian	1
+129	Peaberry Salvadorean	2
+144	Fair Trade Honey Burst Kenyan	1
+16	Peaberry Salvadorean	1
+23	Organic Paradise Valley Sumatran	3
+171	Decaf Swiss Water Dominican	5
+103	Supremo Salvadorean	3
+166	Decaf Cuzcachapa Dominican	3
+28	Fair Trade Paradise Valley Ethiopian	1
+59	Organic Fair Trade Peaberry Mexican	1
+54	Fair Trade Decaf Peaberry Guatemalan	1
+188	Organic Fair Trade Decaf Honey Burst Kenyan	2
+15	Fair Trade Decaf Peaberry Guatemalan	4
+164	Fair Trade Decaf Supremo Balinese	1
+29	Fair Trade Decaf Supremo Guatemalan	1
+128	Organic Fair Trade Decaf Black Satin Salvadorean	1
+120	Fair Trade Sidamo Bolivian	1
+113	Organic Fair Trade Decaf Reserve Panamanian	4
+14	Organic Decaf Paradise Valley Dominican	2
+74	Organic Swiss Water Kenyan	1
+113	Organic Fair Trade Black Satin Salvadorean	1
+136	Sidamo Panamanian	1
+182	Decaf Caturra Salvadorean	2
+159	Decaf Black Satin Bolivian	4
+128	Paradise Valley Bolivian	4
+38	Organic Honey Burst Indian	1
+26	Organic Fair Trade Decaf Caturra Peruvian	4
+121	Fair Trade Decaf Mandheling Dominican	3
+117	Organic Fair Trade Decaf Swiss Water Peruvian	2
+41	Organic Fair Trade Decaf Black Satin Panamanian	3
+192	Organic Decaf Paradise Valley Ethiopian	1
+102	Decaf Black Satin Malian	2
+178	Fair Trade Decaf Peaberry Indian	3
+92	Fair Trade Decaf Longberry Brazilian	3
+75	Fair Trade Decaf Peaberry Guatemalan	3
+145	Supremo Brazilian	1
+178	Fair Trade Decaf Cuzcachapa Panamanian	3
+40	Decaf AA Guatemalan	4
+158	Organic Decaf Swiss Water Indian	1
+156	Organic Decaf Honey Burst Indian	5
+12	Organic Fair Trade Decaf Paradise Valley Malian	4
+155	Fair Trade Decaf Sidamo Peruvian	3
+74	Organic Honey Burst Salvadorean	1
+151	Organic Decaf AA Balinese	3
+6	Organic Decaf Paradise Valley Brazilian	4
+11	Organic Fair Trade Decaf Swiss Water Malian	2
+72	Sidamo Panamanian	4
+132	Organic AA Indian	2
+93	Fair Trade Decaf Honey Burst Brazilian	4
+32	Organic Decaf Caturra Costa Rican	3
+100	Organic Longberry Malian	1
+85	Organic Decaf Peaberry Brazilian	2
+57	Organic Decaf Swiss Water Kenyan	3
+123	Fair Trade Decaf Peaberry Salvadorean	1
+60	Organic Decaf AA Malian	4
+144	Decaf Peaberry Indian	4
+74	Fair Trade Decaf Supremo Balinese	4
+72	Organic Fair Trade AA Bolivian	1
+169	Organic Paradise Valley Balinese	2
+145	Fair Trade Paradise Valley Ethiopian	1
+95	Fair Trade Paradise Valley Ethiopian	2
+63	Organic Fair Trade Decaf Black Satin Panamanian	4
+37	Decaf Paradise Valley Indian	2
+2	Organic Fair Trade Decaf Black Satin Bolivian	4
+11	Organic Fair Trade Decaf Mandheling Costa Rican	2
+65	Fair Trade Reserve Balinese	3
+87	Honey Burst Sumatran	1
+37	Supremo Brazilian	1
+153	Organic Paradise Valley Sumatran	3
+107	Organic Fair Trade Peaberry Bolivian	1
+41	Organic Decaf Peaberry Brazilian	5
+73	Organic Sidamo Malian	2
+24	Decaf Honey Burst Kenyan	2
+78	Organic Fair Trade Decaf Supremo Malian	3
+120	Organic Caturra Dominican	1
+82	Organic Fair Trade Decaf Black Satin Salvadorean	3
+52	Longberry Brazilian	1
+171	AA Ethiopian	1
+94	Organic Fair Trade Decaf Reserve Panamanian	2
+67	Organic Decaf Sidamo Sumatran	3
+188	Cuzcachapa Balinese	3
+56	Organic Swiss Water Indian	2
+133	Organic Fair Trade Decaf Reserve Panamanian	4
+67	Organic Fair Trade Decaf Supremo Panamanian	5
+137	Decaf Reserve Peruvian	2
+12	Cuzcachapa Sumatran	1
+7	Organic Sidamo Costa Rican	1
+82	Fair Trade Cuzcachapa Costa Rican	4
+78	Organic Fair Trade Decaf Black Satin Panamanian	3
+65	Honey Burst Sumatran	1
+120	Organic Fair Trade Decaf Black Satin Panamanian	3
+66	Fair Trade Sidamo Salvadorean	1
+196	AA Ethiopian	2
+68	Organic Fair Trade Peaberry Guatemalan	1
+12	Organic Swiss Water Indian	1
+120	Decaf Swiss Water Guatemalan	4
+150	Organic Decaf Caturra Costa Rican	4
+12	Fair Trade Decaf Sidamo Peruvian	5
+89	Fair Trade Decaf Caturra Bolivian	4
+99	Organic Fair Trade Decaf Mandheling Balinese	4
+64	Decaf Cuzcachapa Kenyan	2
+93	Organic Decaf Paradise Valley Brazilian	3
+191	Organic Fair Trade Decaf Mandheling Balinese	1
+6	Fair Trade Decaf Longberry Brazilian	3
+90	Organic Decaf AA Balinese	5
+23	Organic Fair Trade Honey Burst Balinese	1
+107	Organic Decaf Honey Burst Indian	3
+176	Longberry Brazilian	1
+165	Fair Trade Decaf Sidamo Panamanian	4
+1	Fair Trade Honey Burst Kenyan	3
+170	Peaberry Indian	1
+47	Fair Trade Honey Burst Kenyan	3
+15	Fair Trade Supremo Dominican	1
+95	Organic Caturra Sumatran	3
+162	Fair Trade Peaberry Malian	1
+99	Organic Fair Trade Decaf Black Satin Balinese	4
+153	Longberry Brazilian	4
+128	Organic Fair Trade Swiss Water Peruvian	1
+100	Organic Fair Trade Decaf Swiss Water Peruvian	2
+131	Mandheling Costa Rican	1
+133	Organic Decaf AA Brazilian	2
+160	Organic Fair Trade Decaf Swiss Water Peruvian	3
+178	Organic Decaf Cuzcachapa Panamanian	4
+181	Fair Trade Decaf Supremo Balinese	3
+104	Organic Sidamo Malian	1
+60	Organic Decaf Reserve Peruvian	4
+39	Organic Fair Trade Decaf Mandheling Costa Rican	4
+80	Organic Swiss Water Indian	1
+107	Fair Trade Decaf Mandheling Dominican	4
+56	Organic Longberry Malian	2
+135	Organic Decaf Caturra Costa Rican	1
+119	Decaf Reserve Peruvian	3
+101	Decaf Peaberry Indian	1
+147	Peaberry Salvadorean	1
+43	Cuzcachapa Costa Rican	1
+45	Organic Fair Trade Mandheling Guatemalan	1
+33	Fair Trade Supremo Dominican	1
+2	Organic Decaf Caturra Kenyan	2
+21	Black Satin Indian	4
+46	Organic Fair Trade Black Satin Salvadorean	2
+31	Organic Fair Trade Decaf Swiss Water Malian	2
+111	Cuzcachapa Sumatran	3
+78	Organic Fair Trade Decaf Mandheling Balinese	3
+172	Fair Trade Honey Burst Peruvian	1
+42	Organic Longberry Guatemalan	2
+50	Organic Swiss Water Indian	2
+4	Organic Decaf Mandheling Costa Rican	5
+45	Organic Supremo Brazilian	1
+17	Organic Decaf Paradise Valley Ethiopian	3
+118	Paradise Valley Bolivian	1
+64	Fair Trade Sidamo Salvadorean	4
+169	Decaf Cuzcachapa Kenyan	1
+173	Organic Paradise Valley Sumatran	1
+150	Organic Fair Trade Decaf Caturra Dominican	2
+160	Fair Trade Reserve Dominican	4
+33	Organic AA Peruvian	4
+159	Supremo Kenyan	4
+168	Organic Decaf Sidamo Sumatran	4
+162	Organic Decaf AA Balinese	4
+88	Organic Sidamo Malian	1
+184	Fair Trade Decaf Sidamo Peruvian	2
+145	Fair Trade Peaberry Malian	1
+118	Decaf Peaberry Indian	2
+121	Organic Fair Trade Decaf Black Satin Panamanian	2
+86	Cuzcachapa Costa Rican	1
+20	Organic Fair Trade Decaf Supremo Indian	3
+153	Organic AA Peruvian	3
+174	Organic Fair Trade Caturra Kenyan	1
+148	Organic Supremo Brazilian	4
+10	Organic Decaf Swiss Water Indian	2
+102	Decaf Caturra Guatemalan	2
+75	Decaf AA Ethiopian	5
+132	Fair Trade Decaf Swiss Water Bolivian	3
+146	Organic Decaf Swiss Water Indian	2
+37	Organic Decaf Swiss Water Kenyan	3
+42	Fair Trade Sidamo Peruvian	3
+126	Organic Fair Trade Decaf Paradise Valley Panamanian	1
+128	Fair Trade Sidamo Bolivian	2
+38	Organic Decaf Caturra Kenyan	1
+5	Organic Fair Trade Decaf Black Satin Salvadorean	3
+185	Organic Fair Trade Paradise Valley Indian	1
+62	Decaf Longberry Panamanian	4
+116	Fair Trade Decaf Paradise Valley Peruvian	4
+35	Organic Sidamo Malian	1
+11	Fair Trade AA Malian	1
+136	Organic Fair Trade Decaf Longberry Bolivian	4
+21	Organic Honey Burst Indian	3
+176	Reserve Salvadorean	1
+22	Organic Fair Trade Caturra Kenyan	1
+23	Reserve Salvadorean	4
+189	Cuzcachapa Costa Rican	1
+100	Organic Decaf Honey Burst Brazilian	4
+61	Organic Decaf Black Satin Dominican	5
+179	Organic Decaf Cuzcachapa Panamanian	2
+94	Organic Paradise Valley Sumatran	4
+169	Organic Decaf Reserve Balinese	2
+190	Fair Trade Reserve Dominican	1
+88	Decaf Caturra Salvadorean	4
+99	Caturra Guatemalan	1
+104	Organic Fair Trade Decaf Black Satin Bolivian	3
+86	Decaf Honey Burst Balinese	1
+62	Decaf Cuzcachapa Dominican	4
+55	Organic Decaf Reserve Peruvian	3
+84	Organic Decaf Reserve Peruvian	4
+9	Fair Trade Decaf Honey Burst Brazilian	3
+164	Organic Caturra Guatemalan	4
+130	Decaf Cuzcachapa Balinese	2
+146	Organic Caturra Sumatran	2
+61	Decaf Caturra Guatemalan	4
+153	Decaf Cuzcachapa Brazilian	4
+176	Fair Trade Peaberry Malian	1
+34	Fair Trade Decaf Paradise Valley Brazilian	3
+27	Decaf Reserve Bolivian	2
+30	Organic Decaf Cuzcachapa Panamanian	2
+123	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+43	Fair Trade Swiss Water Sumatran	1
+130	Peaberry Costa Rican	2
+92	Decaf AA Guatemalan	1
+68	Organic Fair Trade AA Indian	1
+28	Organic Decaf AA Guatemalan	4
+50	Organic Decaf Longberry Costa Rican	2
+51	Organic Fair Trade Decaf Paradise Valley Panamanian	4
+43	Organic Decaf Sidamo Panamanian	3
+184	Cuzcachapa Costa Rican	4
+76	Organic Fair Trade Decaf Black Satin Panamanian	4
+122	Organic Swiss Water Indian	3
+54	Decaf Cuzcachapa Kenyan	3
+132	Organic Paradise Valley Ethiopian	2
+162	Decaf Honey Burst Balinese	3
+123	Organic Fair Trade Honey Burst Balinese	2
+5	Fair Trade Caturra Salvadorean	1
+123	Fair Trade Supremo Dominican	1
+175	Decaf Swiss Water Dominican	2
+29	Organic Decaf Paradise Valley Brazilian	4
+78	Organic Decaf Sidamo Balinese	1
+84	Longberry Ethiopian	1
+181	Organic Fair Trade Decaf Caturra Peruvian	4
+156	Organic Decaf AA Balinese	5
+91	Organic Honey Burst Indian	1
+192	Cuzcachapa Costa Rican	2
+115	Organic Decaf Sidamo Sumatran	4
+100	Organic Decaf Swiss Water Kenyan	4
+86	Organic Paradise Valley Sumatran	2
+40	Caturra Guatemalan	1
+77	Organic Caturra Indian	1
+87	Organic Decaf AA Guatemalan	5
+27	Decaf Caturra Guatemalan	2
+69	Swiss Water Dominican	1
+153	Organic Longberry Guatemalan	3
+103	Organic Caturra Sumatran	4
+101	Organic Fair Trade Paradise Valley Indian	4
+64	Fair Trade Honey Burst Kenyan	4
+174	Fair Trade AA Malian	2
+104	Fair Trade Decaf Peaberry Indian	4
+127	Organic Decaf Reserve Peruvian	4
+90	Organic Cuzcachapa Panamanian	1
+43	Decaf Cuzcachapa Kenyan	2
+152	Organic Swiss Water Kenyan	1
+168	Organic Fair Trade Decaf Black Satin Panamanian	2
+145	Organic Fair Trade Decaf Longberry Bolivian	3
+176	Organic Fair Trade AA Balinese	1
+98	Organic Fair Trade Peaberry Mexican	1
+54	Fair Trade Supremo Dominican	1
+185	Decaf Supremo Mexican	5
+77	Organic Peaberry Peruvian	1
+162	Organic Longberry Malian	4
+44	Decaf Paradise Valley Salvadorean	5
+33	Organic Peaberry Panamanian	4
+2	Organic Honey Burst Indian	1
+196	Organic Decaf Sidamo Sumatran	1
+125	Organic Cuzcachapa Panamanian	1
+53	Organic Decaf Paradise Valley Brazilian	1
+38	Decaf AA Guatemalan	2
+127	Organic Decaf Mandheling Costa Rican	4
+83	Decaf Swiss Water Dominican	3
+178	Organic Fair Trade Decaf Paradise Valley Kenyan	2
+29	Decaf Black Satin Bolivian	3
+68	Organic Decaf Caturra Costa Rican	3
+6	Fair Trade Decaf Swiss Water Bolivian	3
+187	Fair Trade Paradise Valley Ethiopian	1
+172	Organic Caturra Indian	1
+161	Peaberry Costa Rican	4
+57	Fair Trade Decaf Honey Burst Brazilian	4
+159	Fair Trade Supremo Sumatran	2
+35	Organic Fair Trade Decaf Supremo Panamanian	3
+69	Organic Fair Trade Decaf Supremo Panamanian	5
+138	Organic Peaberry Brazilian	1
+173	Organic Fair Trade Decaf Black Satin Salvadorean	3
+35	Fair Trade Decaf Sidamo Panamanian	2
+119	Organic Decaf Caturra Kenyan	2
+164	Fair Trade Decaf Sidamo Sumatran	1
+8	Organic Longberry Guatemalan	1
+67	Organic Supremo Brazilian	1
+116	Fair Trade Decaf Peaberry Indian	4
+138	Decaf Honey Burst Kenyan	2
+156	Organic Paradise Valley Bolivian	1
+184	Peaberry Salvadorean	4
+138	Sidamo Panamanian	1
+72	Fair Trade Decaf Peaberry Indian	2
+98	Fair Trade Decaf Caturra Bolivian	2
+176	Decaf Reserve Bolivian	3
+150	Organic Decaf Reserve Peruvian	4
+119	Decaf Swiss Water Dominican	3
+41	Organic Sidamo Costa Rican	1
+138	Peaberry Indian	1
+121	Organic Decaf Reserve Ethiopian	4
+67	Reserve Balinese	1
+192	Decaf Black Satin Balinese	2
+82	Organic Decaf Supremo Panamanian	1
+163	Fair Trade Decaf Sidamo Peruvian	3
+106	Decaf Reserve Bolivian	4
+101	Organic Fair Trade Swiss Water Peruvian	4
+156	Sidamo Panamanian	1
+155	Organic Fair Trade Sidamo Dominican	4
+45	Mandheling Peruvian	1
+118	Organic Caturra Sumatran	1
+44	Decaf AA Ethiopian	5
+13	Fair Trade Sidamo Peruvian	3
+195	Fair Trade Supremo Sumatran	1
+161	Decaf Black Satin Bolivian	4
+134	Cuzcachapa Costa Rican	1
+148	Fair Trade Decaf Cuzcachapa Panamanian	1
+196	Reserve Balinese	2
+4	Decaf Honey Burst Balinese	4
+106	Organic Fair Trade Decaf Reserve Panamanian	3
+171	Organic Decaf Mandheling Costa Rican	4
+19	Fair Trade Decaf Supremo Guatemalan	4
+184	Organic Decaf AA Malian	3
+139	Organic Caturra Guatemalan	3
+121	Decaf Black Satin Bolivian	5
+106	Fair Trade Swiss Water Sumatran	1
+81	Decaf AA Guatemalan	4
+145	Organic Paradise Valley Sumatran	1
+92	Organic Decaf Cuzcachapa Panamanian	2
+147	Organic Decaf AA Malian	4
+85	Organic AA Indian	2
+173	Decaf Reserve Bolivian	2
+14	Organic Decaf Supremo Panamanian	2
+163	Organic Fair Trade Decaf Swiss Water Peruvian	2
+105	Fair Trade Sidamo Bolivian	1
+180	Fair Trade Decaf Longberry Brazilian	4
+166	Decaf Peaberry Indian	3
+142	Organic Decaf Mandheling Salvadorean	3
+93	Organic AA Indian	1
+49	Decaf Reserve Peruvian	1
+43	Decaf Honey Burst Salvadorean	2
+176	Organic Paradise Valley Sumatran	1
+113	Fair Trade Decaf Paradise Valley Peruvian	5
+97	Organic Fair Trade Decaf Black Satin Panamanian	3
+16	Organic Fair Trade Supremo Balinese	1
+18	Organic Fair Trade Caturra Kenyan	1
+69	Peaberry Costa Rican	1
+186	Organic Fair Trade Decaf Black Satin Panamanian	4
+47	Peaberry Salvadorean	1
+179	Organic Decaf Black Satin Dominican	2
+158	Decaf Caturra Salvadorean	2
+110	Organic Paradise Valley Bolivian	1
+70	Fair Trade AA Malian	3
+185	Fair Trade Sidamo Salvadorean	1
+5	Organic Fair Trade Caturra Malian	1
+49	Fair Trade Decaf Peaberry Indian	3
+193	Decaf Reserve Indian	4
+44	Organic Fair Trade Decaf Reserve Ethiopian	2
+197	Fair Trade Decaf Supremo Guatemalan	4
+19	Organic Paradise Valley Sumatran	1
+144	Fair Trade Swiss Water Sumatran	1
+149	Mandheling Sumatran	1
+7	Organic Peaberry Panamanian	1
+115	Organic Paradise Valley Ethiopian	4
+71	Caturra Guatemalan	4
+151	Organic Fair Trade Decaf Black Satin Panamanian	5
+129	Organic Fair Trade Cuzcachapa Mexican	3
+138	Fair Trade Decaf Paradise Valley Peruvian	4
+84	Organic Peaberry Brazilian	1
+178	Organic Fair Trade Decaf Longberry Bolivian	2
+59	Sidamo Panamanian	1
+133	Organic Fair Trade Decaf Black Satin Salvadorean	4
+45	Organic Fair Trade AA Indian	1
+29	Fair Trade Supremo Dominican	1
+84	Decaf Supremo Dominican	5
+183	Organic Swiss Water Indian	4
+192	Organic Fair Trade Decaf Supremo Panamanian	3
+110	Decaf Cuzcachapa Kenyan	4
+117	Decaf Reserve Bolivian	3
+95	Organic Fair Trade Decaf Swiss Water Peruvian	1
+194	Organic Paradise Valley Balinese	4
+43	Reserve Salvadorean	1
+128	Organic Decaf Longberry Costa Rican	3
+142	Organic Fair Trade Decaf Black Satin Salvadorean	5
+151	Fair Trade Supremo Dominican	1
+193	Decaf Reserve Indian	4
+1	Organic Decaf Honey Burst Brazilian	2
+114	Organic Peaberry Peruvian	1
+172	Organic Decaf Paradise Valley Sumatran	2
+80	Decaf AA Ethiopian	3
+52	Decaf Honey Burst Kenyan	4
+143	Organic Fair Trade Decaf Supremo Indian	2
+53	Fair Trade Sidamo Bolivian	4
+110	Organic Decaf Peaberry Brazilian	5
+66	Sidamo Panamanian	3
+173	Organic Decaf Paradise Valley Sumatran	1
+178	Organic Fair Trade Decaf Black Satin Panamanian	2
+113	Supremo Salvadorean	1
+1	Peaberry Indian	1
+15	Organic Fair Trade Decaf Swiss Water Malian	5
+153	Organic Honey Burst Salvadorean	3
+9	Organic Fair Trade Paradise Valley Indian	4
+142	Fair Trade Decaf Swiss Water Malian	4
+44	Decaf AA Guatemalan	5
+166	Organic Swiss Water Indian	4
+158	Organic Fair Trade Caturra Kenyan	3
+25	Decaf Caturra Guatemalan	2
+198	Mandheling Sumatran	1
+39	Organic Longberry Guatemalan	2
+143	Fair Trade Decaf Peaberry Guatemalan	1
+19	Fair Trade Decaf Caturra Bolivian	4
+113	Organic Caturra Guatemalan	1
+157	Organic Sidamo Costa Rican	1
+141	Decaf AA Ethiopian	2
+63	Fair Trade Decaf Mandheling Dominican	3
+22	Fair Trade Sidamo Salvadorean	1
+53	Fair Trade Decaf AA Indian	4
+151	Mandheling Sumatran	1
+90	Organic Peaberry Brazilian	1
+181	Decaf Caturra Salvadorean	1
+12	Fair Trade Decaf Sidamo Sumatran	5
+69	Peaberry Salvadorean	1
+85	Organic Fair Trade Decaf Honey Burst Kenyan	4
+16	Decaf Paradise Valley Salvadorean	4
+74	Decaf Honey Burst Kenyan	2
+111	Organic Fair Trade Swiss Water Peruvian	2
+103	Organic Decaf Supremo Panamanian	4
+190	Organic Fair Trade Decaf Black Satin Bolivian	5
+145	Organic Fair Trade Decaf Swiss Water Salvadorean	3
+63	Decaf Black Satin Balinese	1
+31	Decaf Honey Burst Balinese	5
+48	Decaf Supremo Mexican	3
+170	Organic Fair Trade Decaf Longberry Bolivian	4
+83	Fair Trade Paradise Valley Ethiopian	1
+127	Fair Trade Cuzcachapa Costa Rican	1
+104	Fair Trade Decaf Cuzcachapa Panamanian	4
+170	Fair Trade Caturra Salvadorean	1
+97	Fair Trade Peaberry Malian	4
+68	Longberry Ethiopian	4
+182	Organic Decaf Sidamo Balinese	1
+39	Decaf Honey Burst Salvadorean	1
+137	Organic Fair Trade Paradise Valley Indian	1
+168	Organic Fair Trade Decaf Paradise Valley Panamanian	2
+55	Fair Trade Sidamo Salvadorean	1
+171	Fair Trade Sidamo Peruvian	1
+105	Organic Fair Trade Caturra Kenyan	1
+100	Organic Fair Trade Mandheling Guatemalan	1
+198	Fair Trade Peaberry Malian	1
+86	Organic Fair Trade Decaf Supremo Panamanian	4
+72	Organic Supremo Brazilian	3
+83	Decaf Reserve Peruvian	3
+96	Organic Decaf Sidamo Sumatran	5
+178	Decaf Cuzcachapa Kenyan	5
+80	Organic Swiss Water Kenyan	1
+10	Caturra Guatemalan	1
+106	Organic Caturra Indian	1
+74	Organic Decaf Reserve Peruvian	1
+42	Organic Fair Trade Decaf Black Satin Brazilian	4
+146	AA Ethiopian	1
+120	Decaf Cuzcachapa Kenyan	4
+66	Organic Caturra Sumatran	4
+140	Organic Fair Trade Peaberry Guatemalan	1
+143	Organic Fair Trade Decaf Paradise Valley Malian	2
+174	Paradise Valley Bolivian	4
+22	Fair Trade Decaf Swiss Water Bolivian	4
+71	Decaf Peaberry Indian	4
+132	Fair Trade Decaf Sidamo Peruvian	3
+92	Organic Caturra Sumatran	2
+62	Decaf Cuzcachapa Balinese	4
+161	Organic Fair Trade Peaberry Guatemalan	1
+97	Decaf Black Satin Bolivian	2
+70	Organic Fair Trade Peaberry Bolivian	4
+158	Organic Decaf Paradise Valley Sumatran	1
+73	Organic AA Indian	2
+142	Organic Fair Trade Peaberry Ethiopian	1
+68	Fair Trade Decaf Longberry Brazilian	2
+128	Organic Cuzcachapa Panamanian	3
+20	Fair Trade Decaf Honey Burst Brazilian	2
+14	Organic Fair Trade Decaf Longberry Bolivian	4
+129	Organic Longberry Guatemalan	1
+181	Paradise Valley Bolivian	1
+176	Supremo Salvadorean	1
+80	Organic Fair Trade Cuzcachapa Mexican	1
+101	Organic Paradise Valley Sumatran	2
+194	Reserve Salvadorean	3
+145	Organic Decaf Peaberry Brazilian	5
+167	Organic Fair Trade AA Bolivian	1
+122	Organic Decaf Reserve Balinese	3
+34	Organic Decaf Reserve Balinese	2
+57	AA Ethiopian	1
+173	Organic Fair Trade Decaf Reserve Panamanian	3
+49	Organic Fair Trade Peaberry Mexican	4
+131	Organic Honey Burst Bolivian	1
+1	Fair Trade Decaf Peaberry Guatemalan	3
+0	Organic Paradise Valley Bolivian	1
+145	Organic Fair Trade Caturra Malian	1
+153	Decaf Longberry Panamanian	4
+124	Organic Fair Trade Sidamo Costa Rican	1
+15	Organic Fair Trade Supremo Mexican	1
+102	Fair Trade Decaf Cuzcachapa Panamanian	4
+134	Fair Trade Reserve Balinese	1
+27	Organic Longberry Sumatran	1
+14	Organic Longberry Guatemalan	2
+32	Organic Fair Trade Caturra Malian	1
+91	Organic Caturra Guatemalan	1
+70	Organic Decaf AA Guatemalan	2
+85	Honey Burst Sumatran	1
+65	Fair Trade Honey Burst Kenyan	3
+37	Organic Fair Trade Decaf Mandheling Costa Rican	5
+168	Fair Trade AA Malian	1
+193	Fair Trade Decaf Sidamo Sumatran	2
+51	Organic Fair Trade Decaf Paradise Valley Kenyan	4
+64	Fair Trade Decaf Paradise Valley Peruvian	4
+196	Decaf Caturra Guatemalan	2
+60	Fair Trade Decaf Supremo Balinese	1
+108	Fair Trade Decaf Sidamo Peruvian	3
+122	Decaf AA Guatemalan	4
+99	Organic Fair Trade Decaf Supremo Indian	4
+39	Organic Fair Trade Decaf Black Satin Brazilian	4
+7	Organic Fair Trade Decaf Paradise Valley Malian	3
+118	Organic Fair Trade Decaf Black Satin Panamanian	5
+7	Decaf Honey Burst Salvadorean	4
+56	Decaf Supremo Mexican	1
+147	Supremo Kenyan	1
+27	Decaf Cuzcachapa Brazilian	2
+10	Organic Fair Trade Sidamo Dominican	1
+93	Organic Fair Trade Caturra Malian	1
+182	Organic Swiss Water Kenyan	1
+95	Cuzcachapa Sumatran	4
+37	Organic Peaberry Panamanian	1
+125	Organic Decaf Reserve Peruvian	5
+89	Organic Fair Trade Caturra Kenyan	3
+199	Decaf Honey Burst Kenyan	2
+139	AA Ethiopian	4
+87	Fair Trade Supremo Dominican	1
+46	Organic Decaf Cuzcachapa Panamanian	4
+109	Organic Fair Trade Decaf Honey Burst Kenyan	3
+121	Fair Trade Decaf Supremo Balinese	3
+81	Organic Decaf Mandheling Costa Rican	5
+130	Fair Trade Decaf Honey Burst Brazilian	4
+107	Organic Decaf Paradise Valley Sumatran	3
+127	Fair Trade Decaf Sidamo Peruvian	1
+23	Organic Longberry Sumatran	3
+187	Organic Paradise Valley Bolivian	1
+58	Decaf AA Guatemalan	2
+118	Decaf Swiss Water Dominican	2
+176	Peaberry Indian	1
+161	Decaf Swiss Water Bolivian	4
+151	Organic Caturra Guatemalan	1
+36	Organic Decaf Caturra Panamanian	4
+23	Organic Fair Trade Peaberry Ethiopian	1
+64	Decaf Cuzcachapa Dominican	2
+179	Sidamo Panamanian	1
+79	Fair Trade Sidamo Bolivian	1
+192	Fair Trade Decaf Supremo Guatemalan	4
+168	Organic Paradise Valley Sumatran	4
+113	Organic Fair Trade Cuzcachapa Mexican	1
+86	Fair Trade Decaf Peaberry Guatemalan	3
+181	Organic Paradise Valley Balinese	2
+36	Swiss Water Dominican	1
+43	Organic Paradise Valley Bolivian	1
+147	Fair Trade Decaf Sidamo Peruvian	3
+62	Organic Fair Trade Decaf Reserve Panamanian	3
+186	Organic Decaf Honey Burst Indian	2
+18	Fair Trade Decaf Swiss Water Malian	3
+29	Decaf AA Guatemalan	3
+164	Fair Trade Decaf Longberry Brazilian	1
+166	Decaf Swiss Water Guatemalan	3
+134	Organic Paradise Valley Balinese	1
+19	Organic Fair Trade Honey Burst Balinese	1
+55	Decaf Cuzcachapa Kenyan	2
+14	Organic Sidamo Costa Rican	2
+117	Organic Peaberry Brazilian	4
+150	Organic Fair Trade Decaf Paradise Valley Kenyan	2
+92	Fair Trade Decaf Swiss Water Bolivian	3
+138	Organic Fair Trade Mandheling Guatemalan	1
+88	Fair Trade Supremo Sumatran	1
+119	Organic Caturra Dominican	1
+67	Organic Fair Trade Decaf Honey Burst Kenyan	5
+199	Organic Swiss Water Kenyan	1
+20	Organic Fair Trade Decaf Reserve Panamanian	3
+115	Organic Fair Trade Mandheling Guatemalan	2
+11	Organic Decaf Paradise Valley Sumatran	4
+73	Decaf Caturra Guatemalan	1
+153	Organic Fair Trade Supremo Mexican	1
+98	Organic Fair Trade Honey Burst Balinese	1
+82	Organic Sidamo Costa Rican	1
+174	Decaf Honey Burst Salvadorean	4
+95	Organic Fair Trade Mandheling Guatemalan	1
+179	Organic Fair Trade Mandheling Guatemalan	4
+8	Organic Fair Trade Sidamo Dominican	1
+69	Fair Trade Decaf Sidamo Sumatran	4
+30	Decaf Caturra Salvadorean	1
+82	Organic Fair Trade Decaf Mandheling Balinese	3
+112	Decaf Black Satin Malian	4
+16	Organic Decaf Caturra Kenyan	5
+75	Organic Fair Trade Decaf Swiss Water Malian	2
+19	Organic Decaf Paradise Valley Dominican	3
+27	Organic Fair Trade AA Indian	1
+42	Organic Fair Trade Decaf Black Satin Salvadorean	4
+190	Organic Decaf Black Satin Dominican	3
+45	Fair Trade Supremo Dominican	1
+129	Organic Decaf Peaberry Brazilian	1
+133	Organic Cuzcachapa Brazilian	1
+160	Organic Sidamo Malian	1
+23	Organic Paradise Valley Sumatran	3
+102	Fair Trade Decaf Caturra Bolivian	4
+93	Fair Trade Decaf Swiss Water Bolivian	4
+43	Fair Trade Peaberry Salvadorean	1
+158	Fair Trade Decaf Paradise Valley Peruvian	4
+26	Organic Fair Trade AA Indian	4
+174	Decaf AA Guatemalan	4
+27	Decaf Supremo Mexican	2
+7	Supremo Kenyan	1
+142	Organic AA Peruvian	1
+50	Decaf Honey Burst Salvadorean	1
+59	Organic Fair Trade Peaberry Bolivian	1
+52	Organic Caturra Dominican	1
+84	Organic Fair Trade Peaberry Guatemalan	1
+35	Longberry Brazilian	1
+64	Organic Decaf Longberry Costa Rican	1
+190	Organic Supremo Brazilian	1
+162	Fair Trade Decaf Black Satin Peruvian	1
+147	Organic Decaf Sidamo Sumatran	4
+151	Organic Honey Burst Bolivian	1
+32	Organic Caturra Indian	1
+156	Decaf Black Satin Balinese	4
+2	Longberry Brazilian	1
+139	Organic Peaberry Brazilian	3
+47	Organic Fair Trade Decaf Reserve Panamanian	4
+74	Supremo Kenyan	2
+121	Fair Trade Supremo Dominican	1
+17	Organic Fair Trade Decaf Paradise Valley Malian	1
+22	Organic Decaf AA Balinese	3
+0	Organic Fair Trade Peaberry Ethiopian	3
+12	Fair Trade Decaf Supremo Guatemalan	5
+38	Fair Trade Supremo Sumatran	4
+58	Organic Peaberry Brazilian	1
+93	Decaf Paradise Valley Indian	2
+174	Fair Trade Decaf Black Satin Peruvian	2
+124	Organic Decaf Sidamo Sumatran	3
+128	Organic Fair Trade Decaf Longberry Bolivian	1
+7	Decaf Swiss Water Dominican	4
+3	Organic Fair Trade Decaf Black Satin Panamanian	4
+39	Organic Supremo Peruvian	2
+108	Fair Trade Peaberry Malian	3
+81	Organic Fair Trade Decaf Black Satin Panamanian	3
+49	Fair Trade Decaf Swiss Water Peruvian	3
+121	Cuzcachapa Balinese	1
+195	Organic Fair Trade Decaf Black Satin Salvadorean	4
+80	Organic Decaf AA Malian	2
+26	Fair Trade Peaberry Malian	3
+183	Fair Trade Decaf Swiss Water Bolivian	1
+23	Organic Fair Trade Decaf Reserve Ethiopian	1
+35	Organic Fair Trade Decaf Swiss Water Malian	3
+137	Organic Longberry Malian	1
+136	Organic Fair Trade Cuzcachapa Mexican	4
+13	Organic Decaf Cuzcachapa Malian	2
+79	Organic Paradise Valley Ethiopian	1
+193	Reserve Balinese	4
+122	Decaf Honey Burst Kenyan	4
+37	Organic Fair Trade Cuzcachapa Mexican	1
+78	Supremo Brazilian	2
+95	Organic Fair Trade Decaf Reserve Ethiopian	1
+52	Organic Decaf Black Satin Brazilian	5
+53	Organic Fair Trade Decaf Caturra Dominican	3
+191	Supremo Brazilian	4
+170	Organic Decaf Paradise Valley Sumatran	2
+164	Fair Trade Decaf Sidamo Sumatran	1
+85	Organic Decaf Reserve Peruvian	2
+83	Organic Decaf Mandheling Salvadorean	4
+53	Organic Caturra Indian	1
+139	Peaberry Salvadorean	4
+102	Organic Decaf Honey Burst Brazilian	1
+97	Fair Trade Decaf Swiss Water Malian	4
+76	Paradise Valley Bolivian	1
+21	Decaf Paradise Valley Salvadorean	4
+56	Decaf Cuzcachapa Dominican	1
+44	Organic Supremo Bolivian	1
+47	Organic Fair Trade Decaf Swiss Water Peruvian	4
+116	Organic Fair Trade Honey Burst Balinese	1
+163	Fair Trade Decaf Supremo Balinese	3
+190	Swiss Water Dominican	1
+49	Organic Caturra Sumatran	2
+13	Decaf Longberry Panamanian	1
+174	Black Satin Indian	4
+44	Organic Decaf Supremo Panamanian	4
+17	Reserve Balinese	4
+175	Decaf Cuzcachapa Kenyan	2
+162	Organic Decaf Sidamo Balinese	4
+73	Organic Decaf Sidamo Balinese	2
+56	Fair Trade Supremo Dominican	3
+178	Decaf AA Guatemalan	5
+119	Organic Decaf Caturra Panamanian	2
+98	Decaf Swiss Water Bolivian	4
+159	Organic Swiss Water Indian	3
+39	Organic Decaf AA Guatemalan	2
+53	Organic AA Indian	1
+172	Decaf Honey Burst Kenyan	3
+32	Decaf Honey Burst Balinese	2
+126	Organic Longberry Malian	3
+141	Fair Trade Honey Burst Peruvian	4
+185	Mandheling Sumatran	1
+185	Organic Supremo Brazilian	1
+197	Organic Fair Trade Decaf Caturra Dominican	3
+32	Organic Fair Trade AA Indian	1
+49	Organic Fair Trade Decaf Black Satin Panamanian	4
+96	Fair Trade Decaf Peaberry Indian	2
+57	Organic AA Indian	1
+23	Fair Trade Decaf Paradise Valley Peruvian	2
+136	Fair Trade Decaf Mandheling Dominican	3
+91	Organic Decaf AA Guatemalan	3
+103	Fair Trade Decaf Black Satin Peruvian	1
+5	Paradise Valley Bolivian	1
+118	Mandheling Peruvian	1
+69	Organic Fair Trade Honey Burst Balinese	1
+45	Fair Trade Peaberry Malian	1
+149	Organic Cuzcachapa Brazilian	1
+94	Organic Swiss Water Kenyan	4
+157	Organic Fair Trade Decaf Supremo Indian	3
+80	Organic Decaf Longberry Costa Rican	2
+159	Supremo Kenyan	4
+68	Fair Trade Sidamo Salvadorean	2
+120	Organic Fair Trade Decaf Longberry Bolivian	3
+48	Organic Peaberry Panamanian	4
+54	Organic Fair Trade Decaf Caturra Dominican	2
+108	Organic Decaf Reserve Balinese	2
+73	Fair Trade Decaf Swiss Water Sumatran	3
+84	Organic Fair Trade Caturra Kenyan	1
+72	Mandheling Costa Rican	4
+146	Fair Trade Sidamo Peruvian	3
+134	Fair Trade Honey Burst Peruvian	1
+92	Fair Trade Peaberry Malian	3
+100	Organic Fair Trade AA Balinese	1
+139	Organic Decaf Longberry Costa Rican	3
+99	Mandheling Costa Rican	1
+136	Supremo Salvadorean	1
+161	Decaf AA Guatemalan	4
+119	Supremo Salvadorean	1
+124	Decaf Black Satin Balinese	2
+6	Organic Honey Burst Bolivian	1
+16	Mandheling Costa Rican	1
+129	Black Satin Indian	2
+6	Organic Decaf Reserve Ethiopian	4
+52	Fair Trade Cuzcachapa Costa Rican	1
+130	Organic Fair Trade Supremo Mexican	3
+79	Fair Trade Cuzcachapa Costa Rican	1
+2	Organic Fair Trade Decaf Black Satin Balinese	4
+57	Decaf Cuzcachapa Brazilian	2
+130	Decaf Cuzcachapa Brazilian	2
+97	Organic Longberry Guatemalan	1
+58	Organic Honey Burst Salvadorean	1
+104	Peaberry Costa Rican	2
+47	Decaf Cuzcachapa Kenyan	1
+118	Decaf Cuzcachapa Kenyan	2
+141	Mandheling Peruvian	2
+17	Organic Caturra Sumatran	3
+137	Fair Trade Peaberry Malian	1
+3	Organic Decaf Reserve Ethiopian	2
+10	Decaf Supremo Mexican	3
+176	Fair Trade Honey Burst Kenyan	1
+84	Supremo Salvadorean	1
+196	Cuzcachapa Sumatran	2
+85	Fair Trade Supremo Dominican	3
+65	Organic Swiss Water Indian	2
+18	Honey Burst Dominican	1
+143	Decaf Swiss Water Guatemalan	3
+143	Organic Decaf Honey Burst Brazilian	4
+152	Decaf Honey Burst Kenyan	4
+44	Organic Fair Trade Decaf Swiss Water Malian	2
+79	Peaberry Indian	1
+116	Organic Longberry Sumatran	1
+148	Supremo Kenyan	3
+24	Organic Caturra Sumatran	1
+125	Organic Fair Trade Decaf Supremo Malian	3
+54	Organic Swiss Water Indian	4
+106	Organic Fair Trade Decaf Black Satin Brazilian	3
+10	Organic Fair Trade Mandheling Guatemalan	1
+156	Decaf Honey Burst Kenyan	4
+108	AA Ethiopian	1
+88	Organic Peaberry Brazilian	1
+64	Organic Fair Trade Decaf Black Satin Panamanian	3
+156	Organic Fair Trade Decaf Black Satin Brazilian	3
+75	Organic Decaf Reserve Balinese	4
+45	Fair Trade Decaf Sidamo Peruvian	3
+15	Fair Trade Decaf Caturra Bolivian	4
+199	Organic Supremo Peruvian	1
+40	Decaf Swiss Water Dominican	4
+48	Organic Decaf AA Brazilian	4
+42	Decaf AA Guatemalan	1
+98	Organic Decaf Longberry Costa Rican	5
+92	Decaf Swiss Water Bolivian	1
+33	Decaf Honey Burst Balinese	3
+118	Organic Cuzcachapa Brazilian	1
+12	Organic Caturra Indian	1
+139	Organic Decaf Honey Burst Brazilian	3
+1	Organic Fair Trade Honey Burst Balinese	4
+118	Decaf Cuzcachapa Dominican	2
+67	Organic Decaf Cuzcachapa Panamanian	3
+9	Cuzcachapa Balinese	1
+27	Fair Trade Caturra Salvadorean	1
+91	Decaf Cuzcachapa Balinese	2
+119	Organic Paradise Valley Bolivian	1
+59	Fair Trade Reserve Balinese	1
+121	Organic Decaf Swiss Water Kenyan	4
+167	Organic AA Indian	3
+153	Organic Decaf Swiss Water Kenyan	3
+169	Organic Decaf Swiss Water Kenyan	2
+14	Organic Decaf AA Balinese	2
+0	Decaf Reserve Indian	2
+143	Fair Trade Decaf Swiss Water Sumatran	1
+192	Fair Trade Decaf Peaberry Guatemalan	4
+170	Organic Fair Trade Caturra Malian	1
+63	Organic Fair Trade Decaf Longberry Bolivian	4
+36	Decaf AA Guatemalan	5
+101	Organic Decaf Paradise Valley Dominican	2
+193	Cuzcachapa Costa Rican	4
+82	Fair Trade Cuzcachapa Costa Rican	4
+165	Fair Trade Cuzcachapa Costa Rican	4
+35	Organic Supremo Bolivian	1
+18	Organic Fair Trade Decaf Black Satin Salvadorean	2
+26	Organic Decaf AA Balinese	2
+106	Fair Trade Decaf Supremo Balinese	2
+30	Organic AA Indian	2
+119	Honey Burst Sumatran	1
+63	Organic Decaf AA Balinese	2
+76	Organic AA Indian	2
+29	Fair Trade Decaf Longberry Brazilian	1
+150	Fair Trade Decaf Supremo Balinese	1
+104	Organic Fair Trade Sidamo Dominican	3
+111	Organic Fair Trade Decaf Supremo Panamanian	2
+122	Organic Honey Burst Bolivian	3
+151	Organic Honey Burst Salvadorean	1
+164	Organic Fair Trade Decaf Mandheling Costa Rican	2
+125	Organic Fair Trade Decaf Reserve Panamanian	3
+5	Mandheling Peruvian	1
+152	Organic Caturra Indian	1
+178	Organic Decaf Paradise Valley Ethiopian	4
+171	Organic Fair Trade Decaf Reserve Ethiopian	2
+132	Organic Decaf Honey Burst Indian	2
+25	Organic Fair Trade Mandheling Guatemalan	1
+123	Decaf Cuzcachapa Balinese	3
+84	Organic Fair Trade Honey Burst Balinese	1
+106	Fair Trade Paradise Valley Ethiopian	1
+138	Organic Fair Trade AA Balinese	1
+42	Organic AA Peruvian	2
+173	Decaf Swiss Water Bolivian	2
+79	Organic Fair Trade Supremo Balinese	1
+23	Organic Fair Trade Decaf Black Satin Panamanian	1
+53	Organic Fair Trade Decaf Supremo Indian	3
+29	Peaberry Salvadorean	3
+63	Organic Decaf Black Satin Dominican	2
+135	Organic Decaf Reserve Balinese	1
+86	Organic Fair Trade Peaberry Guatemalan	4
+139	Fair Trade Decaf Caturra Bolivian	2
+26	Fair Trade Swiss Water Sumatran	3
+187	Fair Trade Decaf Honey Burst Brazilian	5
+150	Organic Supremo Brazilian	4
+185	Organic Supremo Brazilian	1
+193	Organic Decaf Caturra Kenyan	3
+28	Decaf Reserve Bolivian	3
+166	Fair Trade Caturra Salvadorean	1
+74	Organic Fair Trade Swiss Water Peruvian	3
+55	Decaf Supremo Dominican	2
+119	Organic Fair Trade Decaf Supremo Malian	4
+186	Organic Fair Trade Decaf Supremo Indian	4
+190	Organic Sidamo Costa Rican	1
+3	Organic Sidamo Malian	1
+181	Decaf Reserve Indian	1
+82	Organic Fair Trade Decaf Caturra Peruvian	3
+85	Organic Fair Trade Decaf Mandheling Balinese	4
+59	Organic Longberry Malian	1
+172	Organic Fair Trade Sidamo Dominican	1
+191	Decaf Swiss Water Bolivian	4
+36	Organic Decaf Mandheling Salvadorean	4
+23	Black Satin Indian	4
+102	Decaf AA Guatemalan	2
+8	Fair Trade Caturra Salvadorean	1
+81	Fair Trade Peaberry Salvadorean	1
+172	Organic Fair Trade Decaf Longberry Bolivian	4
+196	Decaf Cuzcachapa Brazilian	2
+41	Decaf Swiss Water Guatemalan	4
+113	Organic Decaf Swiss Water Kenyan	2
+106	Organic Fair Trade Peaberry Bolivian	1
+14	Organic Fair Trade Decaf Caturra Dominican	4
+173	Decaf Caturra Guatemalan	2
+101	Organic Fair Trade Sidamo Costa Rican	4
+184	Fair Trade Decaf Swiss Water Bolivian	2
+154	Organic Decaf Black Satin Brazilian	2
+87	Fair Trade Decaf Swiss Water Bolivian	2
+195	Organic Decaf Mandheling Costa Rican	2
+53	Mandheling Peruvian	2
+26	Caturra Guatemalan	1
+144	Fair Trade Reserve Balinese	1
+180	Organic Peaberry Peruvian	1
+188	Fair Trade Reserve Balinese	1
+73	Organic Supremo Bolivian	2
+69	Fair Trade Decaf Swiss Water Malian	4
+105	Fair Trade Decaf Honey Burst Brazilian	4
+131	Peaberry Indian	1
+146	Organic Decaf Caturra Panamanian	2
+180	Organic Fair Trade Decaf Swiss Water Peruvian	5
+86	Decaf Cuzcachapa Kenyan	1
+133	Organic Cuzcachapa Panamanian	1
+55	Fair Trade Peaberry Salvadorean	1
+3	Fair Trade Decaf Caturra Bolivian	5
+152	Fair Trade Sidamo Salvadorean	1
+123	Fair Trade Decaf Cuzcachapa Panamanian	1
+154	Fair Trade Sidamo Salvadorean	3
+180	AA Ethiopian	1
+123	Decaf Honey Burst Balinese	3
+169	Organic Peaberry Peruvian	2
+145	Decaf Swiss Water Bolivian	4
+88	Organic Fair Trade Cuzcachapa Mexican	1
+184	Organic Peaberry Peruvian	3
+172	Organic Honey Burst Salvadorean	1
+57	Organic Fair Trade Decaf Mandheling Balinese	5
+83	Fair Trade Reserve Balinese	1
+188	Organic Sidamo Costa Rican	4
+51	Organic Fair Trade AA Bolivian	4
+120	Paradise Valley Bolivian	1
+91	Organic Fair Trade Decaf Black Satin Salvadorean	5
+58	Fair Trade Decaf Caturra Bolivian	4
+24	Organic Decaf Paradise Valley Dominican	3
+57	Fair Trade Decaf Swiss Water Bolivian	4
+54	Fair Trade Decaf Swiss Water Peruvian	1
+63	Organic Fair Trade Decaf Black Satin Panamanian	4
+152	Fair Trade Decaf Honey Burst Brazilian	2
+128	Fair Trade Decaf Swiss Water Sumatran	2
+172	Decaf Swiss Water Bolivian	3
+109	Organic Decaf Paradise Valley Dominican	1
+93	Organic Fair Trade Decaf Black Satin Bolivian	5
+160	Organic Caturra Guatemalan	1
+65	Organic Fair Trade Decaf Paradise Valley Malian	4
+11	Organic Paradise Valley Sumatran	1
+153	Organic Longberry Bolivian	3
+100	Organic Decaf Sidamo Sumatran	4
+91	Decaf Cuzcachapa Kenyan	2
+154	Organic Fair Trade Decaf Black Satin Brazilian	4
+119	Fair Trade Decaf Cuzcachapa Panamanian	5
+153	Organic Sidamo Malian	3
+45	Organic Longberry Malian	1
+63	Reserve Salvadorean	1
+119	Organic Decaf Cuzcachapa Panamanian	2
+18	Fair Trade Decaf Mandheling Dominican	3
+149	Organic Honey Burst Bolivian	1
+166	Fair Trade Swiss Water Sumatran	1
+93	Fair Trade Decaf Swiss Water Peruvian	4
+172	Organic AA Peruvian	1
+173	Decaf AA Guatemalan	2
+144	Fair Trade Decaf Peaberry Indian	2
+71	Organic Supremo Brazilian	3
+83	Organic Decaf Swiss Water Indian	4
+116	Organic Decaf Paradise Valley Dominican	3
+74	Peaberry Costa Rican	2
+62	Decaf Caturra Salvadorean	4
+163	Fair Trade Caturra Salvadorean	1
+186	Decaf Longberry Panamanian	1
+7	Decaf Longberry Panamanian	4
+66	Fair Trade Peaberry Salvadorean	1
+74	Decaf Black Satin Bolivian	2
+84	Organic Fair Trade Decaf Reserve Panamanian	2
+141	Organic Supremo Bolivian	1
+33	Organic Paradise Valley Balinese	4
+85	Organic Decaf Paradise Valley Sumatran	2
+51	Organic Decaf Paradise Valley Dominican	2
+167	Decaf Cuzcachapa Kenyan	4
+141	Fair Trade Decaf Swiss Water Sumatran	4
+157	Organic Supremo Bolivian	1
+128	Organic Fair Trade Peaberry Bolivian	1
+155	Fair Trade Honey Burst Kenyan	3
+87	Organic Decaf AA Guatemalan	5
+122	Peaberry Salvadorean	4
+117	Organic Swiss Water Kenyan	4
+122	Organic Decaf AA Balinese	3
+59	Fair Trade Decaf Peaberry Salvadorean	3
+174	Decaf Reserve Bolivian	4
+108	Organic Decaf Supremo Panamanian	2
+191	Black Satin Indian	4
+139	Supremo Salvadorean	4
+161	Organic Decaf Supremo Panamanian	3
+111	Organic Decaf Reserve Ethiopian	4
+195	Organic Fair Trade Decaf Supremo Indian	4
+175	Organic Fair Trade Decaf Swiss Water Peruvian	3
+146	Organic Fair Trade Cuzcachapa Mexican	4
+161	Organic Supremo Brazilian	3
+104	Fair Trade Sidamo Peruvian	4
+96	Organic Decaf Cuzcachapa Panamanian	5
+191	Peaberry Salvadorean	4
+199	Fair Trade Decaf AA Indian	4
+116	Organic Decaf Supremo Panamanian	3
+192	Fair Trade Decaf Cuzcachapa Panamanian	4
+98	Sidamo Panamanian	1
+106	Organic Fair Trade Decaf Supremo Indian	3
+183	Organic Decaf Peaberry Brazilian	4
+13	Decaf Caturra Salvadorean	1
+188	Organic Supremo Brazilian	4
+186	Organic Decaf AA Malian	2
+151	Organic Decaf Reserve Peruvian	3
+163	Fair Trade Decaf AA Indian	3
+132	Organic Honey Burst Bolivian	2
+186	Organic Decaf Honey Burst Brazilian	2
+61	Organic Swiss Water Indian	1
+129	Organic Fair Trade AA Indian	3
+27	Organic Honey Burst Salvadorean	1
+137	Organic Decaf Mandheling Salvadorean	3
+195	Organic Caturra Dominican	1
+17	Organic Fair Trade Sidamo Costa Rican	1
+177	Organic Decaf Caturra Kenyan	4
+90	Decaf Supremo Mexican	4
+129	Fair Trade Decaf Sidamo Sumatran	4
+177	Organic Fair Trade Peaberry Ethiopian	1
+76	Organic Decaf Honey Burst Indian	2
+49	Mandheling Costa Rican	1
+45	Decaf Reserve Bolivian	5
+103	Organic Decaf Caturra Panamanian	4
+129	Organic Caturra Dominican	1
+61	Organic Fair Trade Decaf Black Satin Brazilian	3
+15	Supremo Salvadorean	1
+7	Fair Trade Supremo Dominican	1
+132	Fair Trade Honey Burst Peruvian	3
+169	Organic Decaf Mandheling Costa Rican	2
+194	Organic Fair Trade Cuzcachapa Mexican	2
+151	Organic Longberry Bolivian	1
+41	Fair Trade Decaf Sidamo Panamanian	2
+34	Fair Trade Sidamo Peruvian	3
+86	Organic Decaf AA Balinese	2
+22	Organic Fair Trade Decaf Black Satin Panamanian	5
+90	Organic Fair Trade Paradise Valley Indian	1
+180	Fair Trade Sidamo Bolivian	1
+80	Fair Trade Sidamo Salvadorean	1
+55	Fair Trade Decaf Peaberry Indian	4
+176	Fair Trade Decaf Swiss Water Malian	5
+96	Fair Trade Sidamo Peruvian	1
+108	Fair Trade Sidamo Bolivian	3
+95	Fair Trade Decaf Cuzcachapa Sumatran	2
+59	Fair Trade Cuzcachapa Costa Rican	1
+119	Organic Fair Trade Decaf Paradise Valley Kenyan	4
+104	Decaf Swiss Water Bolivian	2
+147	Organic Fair Trade Decaf Longberry Bolivian	2
+73	Organic Honey Burst Salvadorean	2
+196	Decaf Reserve Indian	2
+101	Fair Trade Decaf Sidamo Panamanian	3
+134	Decaf Paradise Valley Salvadorean	3
+32	Organic Swiss Water Indian	1
+39	Organic Fair Trade Decaf Supremo Panamanian	4
+174	Fair Trade Peaberry Salvadorean	2
+128	Fair Trade Decaf Swiss Water Bolivian	2
+128	Decaf AA Guatemalan	4
+137	Organic Decaf Caturra Costa Rican	3
+71	Fair Trade Decaf Swiss Water Sumatran	2
+36	Organic Decaf Reserve Ethiopian	4
+138	Organic Cuzcachapa Brazilian	1
+168	Organic Paradise Valley Sumatran	4
+14	Decaf Cuzcachapa Kenyan	1
+33	Organic Decaf Paradise Valley Sumatran	4
+8	Reserve Salvadorean	1
+157	Fair Trade Sidamo Salvadorean	4
+134	Organic Decaf Sidamo Balinese	2
+78	Organic Caturra Guatemalan	1
+177	Decaf Cuzcachapa Balinese	5
+108	Organic Honey Burst Salvadorean	2
+82	Organic Supremo Peruvian	1
+164	Organic Cuzcachapa Brazilian	4
+54	Decaf Cuzcachapa Brazilian	3
+139	Fair Trade Sidamo Bolivian	2
+52	Organic Longberry Malian	1
+57	Organic Decaf Sidamo Sumatran	3
+39	Organic Peaberry Brazilian	2
+179	Organic Fair Trade Decaf Black Satin Brazilian	4
+165	Organic Honey Burst Indian	1
+198	Organic Decaf Sidamo Sumatran	3
+80	Organic Fair Trade Decaf Mandheling Balinese	4
+17	Fair Trade Peaberry Salvadorean	2
+99	Fair Trade Decaf Swiss Water Bolivian	3
+80	Fair Trade Reserve Balinese	1
+8	Fair Trade Decaf Honey Burst Brazilian	3
+185	Decaf Black Satin Balinese	5
+197	Organic Longberry Malian	1
+5	Organic Fair Trade Decaf Swiss Water Peruvian	3
+83	Decaf AA Guatemalan	3
+138	Fair Trade Paradise Valley Ethiopian	1
+66	Organic Cuzcachapa Brazilian	4
+181	Organic Decaf Longberry Costa Rican	2
+112	Fair Trade Decaf Paradise Valley Peruvian	2
+176	Peaberry Indian	1
+35	Organic Decaf Swiss Water Indian	5
+123	Honey Burst Dominican	3
+128	Fair Trade Decaf Cuzcachapa Sumatran	2
+98	Organic Fair Trade Mandheling Guatemalan	1
+162	Supremo Kenyan	3
+64	Fair Trade Decaf Peaberry Guatemalan	4
+73	Organic Fair Trade Sidamo Costa Rican	4
+192	Organic Peaberry Panamanian	1
+125	Decaf Cuzcachapa Kenyan	4
+96	Mandheling Sumatran	1
+28	Decaf Cuzcachapa Brazilian	3
+21	Sidamo Panamanian	4
+39	Organic Decaf Longberry Costa Rican	2
+174	Decaf Black Satin Malian	4
+53	Organic AA Indian	1
+146	Reserve Salvadorean	1
+153	Fair Trade Decaf Sidamo Peruvian	2
+43	Reserve Salvadorean	1
+127	Mandheling Sumatran	3
+171	Organic Decaf AA Brazilian	4
+164	Fair Trade Decaf Black Satin Peruvian	1
+171	Decaf AA Guatemalan	5
+11	Decaf Reserve Indian	5
